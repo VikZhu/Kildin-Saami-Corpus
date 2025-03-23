@@ -1,0 +1,124 @@
+﻿(1)        mɨjj        puud’d’-em’
+        мы.nom        прийти-pst.1pl
+        ‘Мы пришли’
+(2)        tam’b’e        l’ii        jaav’v’r’
+        там        быть.npst.3sg        озеро.nom.sg
+        ‘Там озеро’
+(3)        значит,        jaav’v’r’
+        значит        озеро.nom.sg
+        ‘Значит, озеро’
+(4)        jaav’r’-es’        jɒdd        jogg        pajas
+        озеро-loc.sg        идти.npst.3sg        река.nom.sg        вверх
+        ‘От озера вверх идёт река’
+(5)        tɒge        paak’-e        eel
+        туда        гора-gen.pl        на.dat
+        ‘Туда, в горы’
+(6)        tam’b’e        l’ii        uc’c’        jaavr-a
+        там        быть.npst.3sg        маленький        озеро-dim.nom.sg
+        ‘Там маленькое озеро’
+(7)        sonn        тоже        jɒdd...        kɒllk        šuurr        javvr-a
+        он(а).nom        тоже        идти.npst.3sg        течь.npst.3sg        большой        озеро-dat.sg
+        ‘Оно тоже впадает в большое озеро’
+(8)        tam’b’e        l’eev
+        там        быть.npst.3pl
+        ‘Там есть…’
+(9)        sɨjjt        l’ii
+        село.nom.sg        быть.npst.3sg
+        ‘Есть село’
+(10)        činčp’eel’l’t
+        слева
+        ‘Слева’
+(11)        vuel’kes’p’eel’l’(t)        sɨjd        l’eev
+        справа        село.nom.pl        быть.npst.3pl
+        ‘Справа деревни есть’
+(12)        per̥t        ɒrr-av
+дом.nom.pl        находиться-npst.3pl
+‘Дома стоят’
+(13)        ну        и        jogg        kɒllk        i        paak’        <нрзб>        l’eev
+ну и                река.nom.sg        течь.npst.3sg        и        гора.nom.pl        <нрзб>        быть.npst.3pl
+‘Ну и река течёт, и горы’
+(14)        vaar’                l’eev
+лес.nom.pl        быть.npst.3pl
+‘Леса есть’
+(15)        ну        tel’        l’ii        jaav’v’r’
+        ну       вот        быть.npst.3sg        озеро.nom.sg
+        ‘Ну, вот озеро’
+(16)        šuurr        jaav’v’r’
+большой        озеро.nom.sg
+‘Большое озеро’
+(17)        munn        l’iijj-e
+я.nom        быть-pst.1sg
+        ‘Я была’
+(18)        jaav’r’-es’
+озеро-loc.sg
+‘У озера’
+(19)        šuurr        jaav’r’-es’
+большой        озеро-loc.sg
+‘У большого озера’
+(20)        tola        kɒllk        jogg                paak’-et’
+там        течь.npst.3sg        река.nom.sg        гора-dat.pl
+‘Там к горам течёт река’
+(21)        tam’b’eel’l’        al’l’ak        šuurr        jaavr-a        
+там        быть.npst.3sg        большой        озеро-dim.nom.sg
+‘Там есть небольшое озерцо (досл: там нет большого озерца)’
+(22)        tam’b’eel’l’        suull-e        l’eev
+там        остров-nom.pl        быть.npst.3pl
+‘Там есть острова’
+(23)        jeel’l’-ev        ollm-e
+жить-npst.3pl        человек-nom.pl
+‘Живут люди’
+(24)        per̥t        l’eev
+дом.nom.pl        быть.npst.3pl
+‘Дома стоят’
+(25)        koolm        saj-es’        n’eel’j        saj-es’        даже        vɨd
+        три.gen.sg        место-loc.sg        четыре.gen.sg        место-loc.sg        даже       пять.gen.sg
+saj-es’        per̥t        l’eev
+        место-loc.sg        дом.nom.pl        быть.npst.3pl
+‘В трёх местах, в четырёх местах даже, в пяти местах дома’
+(26)        и        ollm-e        jeel’l’-ev
+и        человек-nom.pl        жить-npst.3pl        
+‘И люди живут’
+(27)        а        kas’t        voarrd-e        munn        emm        t’iid’
+а        где        бывать-pst.1sg/inf        я.nom        neg.1sg        знать.npst.cng
+‘Я где была, не знаю/Где ходить, не знаю’
+(28)        suull-e        l’eev        jaav’r’-es’-e
+остров-nom.pl        быть.npst.3pl        озеро-loc-poss3?
+‘Острова есть (у них) в озере/озёрах’
+(29)        больше        emm        t’ii(d’)        n’i-meenn
+больше        neg.1sg        знать.npst.cng        neg-что.acc.sg
+‘Больше ничего не знаю’
+(30)        meenn        moajns(‘)-e
+что.acc.sg        рассказать-inf
+‘Что рассказать’
+(31)        ну        tɒge        voarred        ton’n’-e        tam’b’e        тоже
+ну        туда        бывать.imp.sg        ты-dat        там        тоже
+‘Поезжай туда, тебе там тоже’
+(32)       tam’b’e        l’ii
+        там        быть.npst.3sg
+        ‘Там есть…’        
+(33)        sɨjd        l’eev
+        село.nom.pl        быть.npst.3pl
+        ‘Деревни есть’
+(34)        vɨd(d)        saj-es’        sɨj        l’eev
+        пять.nom/gen.sg        место-loc.sg        село.nom.pl        быть.npst.3pl
+        ‘В пяти местах деревни есть’
+(35)        či...        ja...        jog        lun’n’        l’ii        sɨjjt
+        flst        flst        река.gen.sg        у        быть.npst.3sg        село.nom.sg
+        ‘Сле… у оз… у реки есть село’
+(36)        tɒge        uc’c’        javr-a        lun’n’        l’ii        sɨjjt
+        туда        маленький        озеро-dim.gen.sg        у        быть.npst.3sg        село.nom.sg
+        ‘Там у маленького озера есть село’
+(37)        и        činčp’aall-a
+       и        лево-dat
+        ‘И налево’
+(38)        činčp’eel’l’t        тоже        koollm        sɨjt        l’eev
+        слева        тоже        три.nom.sg        село.gen.sg        быть.npst.3pl
+        ‘Слева тоже три деревни’
+(39)        jev        l’eev        v(‘)aal        jevla        šuurr        
+        neg.3pl        быть.npst.3pl        ещё        neg.npst.3pl.быть        большой        
+ja(a)v(v)r-a        v’aal        l’ii
+        озеро-dim.gen.sg        ещё        быть.npst.3sg
+        ‘Около небольших озерцов ещё есть [село]’
+(40)        tam’b’e        oollm-e        jeel’l’-ev
+там        человек-nom.pl        жить-npst.3pl        
+        ‘Там живут люди’

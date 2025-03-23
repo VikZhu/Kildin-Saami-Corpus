@@ -1,0 +1,96 @@
+﻿(1)        kaal’l’es’        paar’n’-en’-es’        voan’n’c’-en’
+        мужик.nom.sg        парень-com.sg-poss3        идти_пешком-pst.3pl        
+        ‘Старик гулял со своим сыном.’
+(2)        voal’l’t’-en’        čoajjd’-en
+        взять-pst.3pl        заблудиться-pst.3pl
+        ‘Они взяли и потерялись.’
+(3)        koavvn’-en’        kued’-e        vaar’-es’t’
+        найти-pst.3pl        вежа-acc.sg        лес-loc.sg
+        ‘Нашли в лесу вежу’
+(4)        l’ii        strašno        šuurr
+        быть.npst.3sg        страшно        большой
+        ‘Она была ужасно большой.’
+(5)        el’l’ij        n’i        tooll-sajj
+        neg.pst.3sg.быть        ни        огонь-место.nom.sg
+        ‘Нет ни очага.’
+(6)        el’l’ij        n’i-m’ii        kued’-es’t’
+        neg.pst.3sg.быть        ни-что.nom.sg        вежа-loc.sg
+        ‘Ничего нет в веже.’
+(7)        sɨjj        luemm-en’        tonn                kuadd-a
+        3pl.nom        прятаться-pst.3pl        тот.gen.sg                вежа-dat.sg
+        ‘Они спрятались в той веже.’
+(8)        kull-aj        taal’e
+        слышать-decaus.npst.3sg        вот
+        ‘Слышалось вот’
+(9)        kolm-as        puud’-e
+        три-coll        прийти-pst.3sg
+        ‘Пришли трое.’
+(10)        puud’d’-en’        koollm        cuer̥’t’
+        прийти-pst.3pl        три        чёрт.gen.sg
+        ‘Пришли три черта.’
+(11)        kued’-e        sɨz        suuŋŋ-en’
+        вежа-gen.sg        внутрь        войти-pst.3pl
+        'Вошли они в вежу.'
+(12)        saam-e        leegg        apps-a
+        саам-gen.pl        запах.nom.sg        чуять-npst.3sg
+        “Саамским духом пахнет”.
+(13)        voal’l’t’-en’        ja        koavvn’-en’        s’iin’-et’        kaallas        paar’n’-en’-es’
+        взять-pst.3pl        и        найти-pst.3pl        3pl-acc.pl        мужик.acc.sg        парень-com-poss3
+        ‘Взяли и нашли их, старика с его сыном.’
+(14)        eexxt        cuer̥’r̥’t’        c’eel̥’k’-e
+        один        чёрт.nom.sg        сказать-pst.3sg
+        ‘Один черт сказал’
+(15)        poorr-ap        s’iin’-et’
+        есть-npst.1pl        3pl-acc.pl
+        ‘Давайте съедим их’
+(16)        kaal’l’es’        c’eel̥’k’-e
+        мужик.NOM.SG        сказать-PST.3SG
+        ‘Старик сказал’
+(17)        jel’l’eδ        poor-a,                
+        PROH.PL        есть-СNG.PST        
+        ‘Не ешьте’
+(18)        mɨjj        čoajd’-em
+        1PL.NOM        заблудиться-PST.1PL
+        ‘Мы заблудились’
+(19)        num’m’p        cuer̥’r̥’t’        c’eel̥’k’-e,                što        vɨgg-a                bɨdd                moast
+        второй        чёрт.nom.sg        сказать-PST.3SG        что        отнести-?        нужно                назад
+        ‘Второй черт сказал, что «их нужно отнести назад»’
+(20)        val’d’-e        kaalls-a                paar’n’-en’-es’        
+        взять-pst.3sg        мужик-dim.acc.sg        парень-com.sg-poss.3sg
+        ‘Взял старика с сыном’
+(21)        taab-aht’
+        хватать-caus.npst.3sg
+        ‘Схватил’
+(22)        i               v’eer̥c         sɨz             coag’-e
+        и              мешок.gen.sg               внутрь        совать-pst.3sg
+        ‘И засунул в мешок’
+(23)        pajj-el                                
+        верх-vblz.pst.3sg
+        ‘Поднял’
+(24)        oar̥’r̥’t’-es                pɨj-e
+        верх.спины-loc.sg        класть-pst.3sg
+        ‘Положил через плечо.’
+(25)        ja         vaan’n’c’-l’-e 
+        и         идти_пешком-pfv1-pst.3sg 
+        ‘И пошёл гулять.’
+(26)        vɨg-e                kaallas                kued’-e                        gur’r’e
+        отнести-pst.3sg        мужик.gen.sg               вежа-dim.gen.sg        к
+        ‘Отнёс их к веже старика.’
+(27)        aak-eɲč                 toommpen                 kued’-es’t’                 kɨkk-a
+        старуха-DIM.NOM.SG        там?                вежа-DIM.LOC.SG        напевать-npst.3sg
+        ‘Старуха там в веже напевала.’
+(28)        saada         agg-as’t                 iinn         kaadd-al
+        немного?        старуха-dim.LOC.SG        голос.NOM.SG        исчезнуть-PST.3SG
+        ‘Голос старухи пропал.’
+(29)        ja         cuer̥’r̥’t’          agg-a                 ujjt-t-e
+        и        чёрт.NOM.SG        старуха-dim.ACC.SG        уйти-CAUS-PST.3SG
+        ‘И черт забрал старуху прочь.’
+(30)        a   kaallas         paar’n’-en’-es’        put’-t’-ej                kued’-e                        gur’r’e
+        а   мужик.GEN.SG         парень-COM-POSS.3SG        прибыть-CAUS-PST.3SG                гоахти-dim.gen.sg        к
+        ‘А старика с сыном (он) принес к веже.’
+(31)        tejd         ejj                 lɨgg-x-ell-eɲč
+        этот.ACC.PL        NEG.3SG                двигать-CAUS-ipfv2-CNG.PST
+        ‘Их не тронул.’
+(32)        akk-a         tunn         poor-e
+        старуха-dim.ACC.SG        тот.ACC.SG        есть-PST.3SG
+        ‘Ту старуху (он) съел.’

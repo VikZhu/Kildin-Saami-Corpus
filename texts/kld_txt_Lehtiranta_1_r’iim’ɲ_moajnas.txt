@@ -1,0 +1,248 @@
+﻿(1)        r’iimmɲ                i        taall                        (j)[a]iil’l’-en
+        лиса.sg.nom                и        медведь.sg.nom        жить-pst.3pl
+        ‘Жили-были лиса и медведь’
+(2)        r’iimmɲ        saarrn                        toall-e
+        лиса.sg.nom        говорить.npst.3sg        медведь-sg.dat
+        ‘Лиса говорит медведю’
+(3)        taall,                        vaal’d-e                r’iim’ɲ                
+        медведь.sg.nom        брать-imp.sg        лиса.sg.acc        
+        ja        kuun’n’d(‘)-kuuδ’-e
+        и        нести-inch-imp.sg
+        ‘Возьми лису и неси её’  
+(4)        r’iimmɲ        saarrn                        čte        jeel’        poor-(e)[b]                muun-(e)
+        лиса.sg.nom        говорить.npst.3sg        что        proh.sg        есть-cng.npst        1sg-acc
+        ‘Лиса говорит: “Не ешь меня”’  
+(5)        taall                        vuul’g-e                evdas
+        медведь.sg.nom        идти-pst.3sg        вперёд
+        ‘Медведь пошёл дальше’  
+(6)        taall                        kuun’d(’)-e        kuun’d(’)-e        saarrn
+        медведь.sg.nom        нести-pst.3sg        нести-pst.3sg        говорить.npst.3sg
+        ‘Медведь нёс, нёс, говорит’
+(7)        por-ss-a(h)t[c]                        k’een                mun(n)                poor-(e)čč-em                
+        есть-pfv2(?)-caus.npst.3sg        кто.sg.acc        1sg.nom        есть-cond-1sg
+        ‘Я голоден, кого бы мне съесть?’  
+(8)        r’iimmɲ        saarrn                        čte        saap’p[d]’l’iŋ’g-eɲǯ                l’ii        
+        лиса.sg.nom        говорить.npst.3sg        что        мышь-dim.sg.nom        быть.npst.3sg        
+        ɲues’s’
+        плохой
+        ‘Лиса говорит: “Мышка плохая’  
+(9)        poor-(e)                suun-(e)
+        есть-imp.sg        3sg-acc
+        ‘Съешь её’  
+(10)        taall                        poor-e                saahp’p’l’iŋ’g-a                        
+        медведь.sg.nom        есть-pst.3sg        мышь-dim.acc.sg        
+        i        evdas        vaan’n’ʒ-el
+        и        вперёд        идти-pfv.pst.3sg
+        ‘Медведь съел мышку и пошёл дальше’  
+(11)        voan’ʒ-e        voan’ʒ-e        saarrn
+        идти-pst.3sg        идти-pst.3sg        говорить.npst.3sg
+        ‘Шёл, шёл, говорит’  
+(12)        por-ss-a(h)t
+        есть-pfv2(?)-caus.npst.3sg
+        ‘Я голоден’  
+(13)        r’iimmɲ        saarrn
+        лиса.sg.nom        говорить.npst.3sg
+        ‘Лиса говорит’  
+(14)        vuer’r’v-eɲǯ                l’ii                ɲues’s’
+        белка-dim.sg.nom        быть.npst.3sg        плохой
+        ‘Белочка плохая’  
+(15)        suun-(e)        poor-(e)
+        3sg-acc                есть-imp.sg(?)        
+        ‘Съешь её’  
+(16)        taall                         poor-e                vuer’r’v-a
+        медведь.sg.nom        есть-pst.3sg        белка-dim.acc.sg
+        ‘Медведь съел белочку’  
+(17)        evdas        kuun’n’d-guuδ’-e        r’iim’ɲ-(e)
+        вперёд        нести-inch-pst.3sg        лиса-sg.acc
+        ‘Двинулся дальше, тащит лису’  
+(18)        kuun’d(‘)-e        kuun’d(‘)-e        saarrn
+        нести-pst.3sg        нести-pst.3sg        говорить.npst.3sg
+        ‘Тащил и тащил, говорит’  
+(19)        k’een                mun(n)                poor-čč-em
+        кто.sg.acc        1sg.nom        есть-cond-1sg
+        ‘Кого бы я мог съесть?’  
+(20)        r’iimmɲ        saarrn                        čte        ɲuem’m’l(‘)-eɲǯ                l’ii        
+        лиса.sg.nom        говорить.npst.3sg        что        заяц-dim.sg.nom        быть.npst.3sg        
+        ɲues’s’
+        плохой
+        ‘Лиса говорит: “Заяц плохой’  
+(21)        suun-(e)        poor
+        3sg-acc                есть.imp.sg
+        ‘Съешь его’  
+(22)        taall                        poor-e                ɲuem’m’(e)l(‘)-a                ja        evdas        
+        медведь.sg.nom        есть-pst.3sg        заяц-dim.acc(?)                и        вперёд
+        kuun’n’d-xuuδ’-e        r’iim’ɲ-(e)
+        нести-inch-pst.3sg                лиса-sg.acc
+        ‘Медведь съел зайца и продолжить тащить лису’  
+(23)        kuun’d(‘)-e        kuun’d(‘)-e        saarrn
+        нести-pst.3sg        нести-pst.3sg        говорить.npst.3sg
+        ‘Тащил и тащил, говорит’  
+(24)        ‘por-ss-a(h)t
+        есть-pfv2(?)-caus.npst.3sg
+        ‘Я голоден’  
+(25)        r’iimmɲ        saarrn                        čte        kuun’d(‘)-(e)        kuun’d(‘)-(e)
+        лиса.sg.nom        говорить.npst.3sg        что        нести-imp.sg        нести-imp.sg
+        v’aalen                sada
+        ещё                немного
+        ‘Лиса говорит: “Понеси меня ещё немного”’  
+(26)        taall                        kuun’d(‘)-e        kuun’d(‘)-e        saarrn
+        медведь.sg.nom        нести-pst.3sg        нести-pst.3sg        говорить.npst.3sg
+        ‘Тащил и тащил, говорит’  
+(27)        ‘por-ss-a(h)t
+        есть-pfv2(?)-caus.npst.3sg
+        ‘Я голоден’  
+(28)        r’iimmɲ        saarrn
+        лиса.sg.nom        говорить.npst.3sg
+        ‘Лиса говорит’  
+(29)        kuun’d(‘)-s-est                sada
+        нести-pfv2-suf.imp.sg        немного
+        ‘Понеси немного’
+(30)        taall                        kuun’d(‘)-e        kuun’d(‘)-e        k’aačč[e]
+        медведь.sg.nom        нести-pst.3sg        нести-pst.3sg        смотреть.npst.3sg
+        ‘Медведь тащил и тащил, и тут смотрит’  
+(31)        muur-est        l’ii                mooǯ’ǯ’-es’        lɒn(‘)d-eɲǯ
+        дерево-sg.loc        быть.npst.3sg        красивый-attr        птица-dim.sg.nom
+        ‘На дереве сидит красивая птица’  
+(32)        i        kaaǯ(’)ǯ(’)
+        и        спросить.npst.3sg
+        ‘И он спрашивает’  
+(33)        man’de        l’ii                mooǯ’ǯ’-es’        lɒn(‘)d-en’ǯ                kɨr’r’j-s’aal(‘)g-eɲǯ
+        какой        быть.npst.3sg        красивый-attr        птица-dim.sg.nom        узор-спина-dim.sg.nom
+        ‘Что за красивая птица с пятнистой спинкой?’  
+(34)        k’ee                l’ii                kɨr’j(e)-x-eɲǯ                s’eel’g
+        кто.sg.nom        быть.npst.3sg        шить-caus(?)-ptcp.pst        спина.sg.acc
+        ‘Кто вышил ей спинку?’  
+(35)        r’iimmɲ        saarrn                        čte        mun(n)                kɨr’j(e)-x-em
+        лиса.sg.nom        говорить.npst.3sg        что        1sg.nom        шить-caus-pst.1sg
+        ‘Лиса говорит: “Я её вышила”’  
+(36)        taall                        saarrn
+        медведь.sg.nom        говорить.npst.3sg
+        ‘Медведь говорит’  
+(37)        kɨr’j-(e)(h)t                muun-(e)        s’eel’g
+        шить-caus.imp.sg        1sg.gen                спина.sg.acc
+        ‘Вышей и мою спину’  
+(38)        r’iimmɲ        saarrn                        čte        jeenna        l’ii                tuujj-e
+        лиса.sg.nom        говорить.npst.3sg        что        много        быть.npst.3sg        одолеть-inf
+        tuun                s’eel’g                kɨr’j(e)-x-e(ẟ)
+        2sg.gen                спина.sg.acc        шить-caus-inf
+        ‘Лиса говорит: “Нужно много потрудиться, чтобы вышить твою спину”’ 
+(39)        taall                        saarrn                        čte        mun(n)                (j)iiǯ’ǯ’        
+        медведь.sg.nom        говорить.npst.3sg        что        1sg.nom        refl        
+        pugg        lɨgg-am
+всё.acc        делать-npst.1sg
+        ‘Медведь говорит: “Я сам всё сделаю”’  
+(40)        r’iimmɲ        saarrn        
+        лиса.sg.nom        говорить.npst.3sg
+        ‘Лиса говорит’  
+(41)        bɨdd        kuun’n’d-e(ẟ)        jeenna        muurr-e                ja        p’aasstaγ-e(j)d        
+        нужно        нести-inf        много        дерево-part        и        прут-acc.pl        
+        bed        pooɲ-(e)[f]
+        бы        крутить-imp.sg(?)
+        ‘Нужно принести много дерева и сплести ивовых прутьев’  
+(42)        taall                        kuun’d(‘)-e        muur-e(j)d        i        pooɲ-e        
+        медведь.nom.sg        нести-pst.3sg        дерево-acc.pl        и        крутить-pst.3sg
+        p’aasstaγ-ed
+        прут-acc.pl
+‘Медведь принес дерева и сплел ивовые прутья.’  
+(43)        r’iimmɲ        saarrn        
+        лиса.nom.sg        говорить.npst.3sg
+        ‘Лиса говорит:’  
+(44)        bɨdd        tar’r’v-muur-e(j)d        kuattks-en
+        надо        смола-дерево-acc.pl        лучина-ess[g]
+        ‘Нам нужна сосновая древесина для растопки.’  
+(45)        taall                        pugg                lɨgg-e                i        saarrn
+        медведь.nom.sg        весь.acc.sg        делать-pst.3sg        и        говорить.npst.3sg
+        ‘Медведь всё сделал и говорит:’  
+(46)        ad’d’        l’ii                voalmaš
+        сейчас        быть.npst.3sg        готовый
+        ‘Сейчас (всё) готово.’  
+(47)        r’iimmɲ        saarrn
+        лиса.nom.sg        говорить.npst.3sg
+        ‘Лиса говорит:’  
+(48)        kɒmm-el
+        опрокинутый-pfv.imp.sg
+        ‘Ложись.’  
+(49)        ja        taall                        kɒmm-el
+        и        медведь.nom.sg        опрокинутый-pfv.pst.3sg
+        ‘И медведь лёг.’  
+(50)        r’iimmɲ        por’d-e                eel-e                muur-e(j)d        i        saarrn
+        лиса.nom.sg        ?-pst.3sg        на-dat.sg        дерево-acc.pl        и        говорить.npst.3sg
+        ‘Лиса положила древесину на (медведя) и говорит:’  
+(51)        lɨgg-s-as’t                        lɨgg-and                                ejj
+        двигаться-pfv-pfv.imp.sg        двигаться-hab.npst.3sg                neg.3sg
+        ‘Подвигайся, двигается, нет?’  
+(52)        taall                        lɨgg-est                        i        saarrn
+        медведь.nom.sg        двигаться-pfv.pst.3sg        и        говорить.npst.3sg
+        ‘Медведь подвигался и говорит:’  
+(53)        čte        emm                vuejt                lɨgg-s-e(ẟ)
+        что        neg.1sg                мочь.npst.cng        двигаться-pfv-inf
+        ‘(Что) я не могу подвигаться. ’  
+(54)        r’iimmɲ        saarrn
+лиса.nom.sg        говорить.npst.3sg
+        ‘Лиса говорит:’  
+(55)        čte        šiig                l’ii
+        что        хороший        быть.npst.3sg
+        ‘(Что) это хорошо.’  
+(56)        r’iimmɲ        puell-e(h)t                koattks-e(j)d        ja        saarrn
+        лиса.nom.sg        жечь-caus.pst.3sg        лучина-acc.pl        и        говорить.npst.3sg
+        ‘Лиса подожгла дрова и говорит:’  
+(57)        ad’d’        šannt                mooǯ’ǯ’-es                s’eel’l’g
+        сейчас        стать.npst.3sg        красивый-attr()?        спина.nom.sg
+        ‘Сейчас будет красивая спина.’  
+(58)        tool-est                s’eel’l’g                puul’l’-eškuud’-e        ja        saarrn
+        огонь-loc.sg        спина.nom.sg        гореть-inch-pst.3sg        и        говорить.npst.3sg
+        ‘В огне спина начала гореть и (медведь) говорит:’  
+(59)        s’eel’l’g                puell
+        спина.nom.sg        гореть.npst.3sg
+        ‘Спина горит.’  
+(60)        r’iimmɲ        saarrn
+лиса.nom.sg        говорить.npst.3sg
+        ‘Лиса говорит:’  
+(61)        čte        vuur’r’d-el                sada
+        что        ждать-pfv.imp.sg        немного
+        ‘Подожди немного.’  
+(62)        munn                vuelg-am        t’eellagas        vuer’d-ess-am
+        1sg.nom        идти-npst.1sg        туда(?)                ждать-pfv-npst.1sg
+‘Я отойду в сторону и подожду немного.’  
+(63)        r’iimmɲ        vuul’g-e                vaarr-a                karr-el                      ja        saarrn
+        лиса.nom.sg        идти-pst.3sg        лес-dat.sg        бежать-pfv.pst.3sg  и        говорить.npst.3sg
+        ‘Лиса пошла в лес, побежала и говорит:’  
+(64)        juelγ-eɲ-en                d’i(i)        juelγ-eɲ-en                men(n)        vexxteɲɲe        
+        нога-dim-poss1.nom.pl        да        нога-dim-poss1.nom.pl        что        быстро                
+        vu(e)jj-bed’d’e        kar’r’-e(ẟ)        
+        мочь-npst.2pl        бежать-inf
+        ‘Ножки, мои ножки, как быстро вы можете бежать?’  
+(65)        vajšeɲɲe        vuejj-ep                kar’r’-eẟ
+        быстро                мочь-npst.1pl        бежать-inf
+        ‘Быстро мы можем бежать.’  
+(66)        čalm-eɲ-en        d’ii        čalm-eɲ-en        kuk’k’en-a                
+        глаз-dim-poss1.nom.pl        да        глаз-dim-poss1.nom.pl        далеко-dat.sg        
+        ujjn-bed’d’e
+        видеть-npst.2pl
+        ‘Глазоньки, мои глазоньки, далеко ли вы видите?’  
+(67)        kuk’k’en
+        далеко
+        ‘Далеко.’  
+(68)        p’aal’l’j-eɲ-en                d’ii        p’aal’l’j-eɲ-en                kuk’k’en        kull-bed’d’e
+        ухо-dim-poss1.nom.pl        да        ухо-dim-poss1.nom.pl        далеко                слышать-npst.2pl
+        ‘Ушеньки, мои ушеньки, далеко ли вы слышите?’  
+(69)        kuk’k’en
+        далеко
+        ‘Далеко.’  
+(70)    s’eejjb-eɲ-am                        d’ii        s’eejjb-eɲ-am                        koox’x’t        tun(n)        
+        хвост-dim-poss1.nom.pl                да        хвост-dim-poss1.nom.pl                как        2sg.nom      
+vuelg-ax
+идти-npst.2sg
+        ‘Хвостик, мой хвостик, как ты идёшь?’  
+(71)        s’eejjb                i        saarrn
+        хвост.nom.sg        и        говорить.npst.3sg
+        ‘Хвост и говорит:’  
+(72)        pɨrr        pɨrr        muur-e
+        вокруг        вокруг        дерево-gen.sg
+        ‘Вокруг дерева.’  
+(73)        mun(n)                i        tuun-(e)                rast                rɒd’d’-(e)j-am
+        1sg.nom        и        2sg-acc                поперёк        рубить-pfv-npst.1sg
+        ‘Я тебя отрублю.’  
+(74)        i        r’iim’ɲ                moajnas        puẟ’-ej
+        и        лиса.gen.sg        сказка.nom.sg        прийти-pfv.pst.3sg
+        ‘Вот и сказочке конец.’

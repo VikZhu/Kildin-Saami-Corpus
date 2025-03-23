@@ -1,0 +1,16 @@
+﻿(1)        tuul’j        kɒmmas        ja         čuer’v        kooššk-t-emušš
+        шкура.acc.sg         койба.acc.sg         и        рог.acc.sg        сохнуть-caus2-nmlz
+        ‘Сушка шкур, койб и рогов’
+(2)        olme                 vaallt         tuul’j         ja         kɒmms-et’         leevl-aht                 ja
+        человек.nom.sg         брать.npst.3sg         шкура.acc.sg         и         койба-acc.pl         стружка-caus1.npst.3sg         и
+        pɨjj                kooššk-t-e
+        класть.npst.3sg        сохнуть-caus2-inf
+        ‘Человек берет шкуру, (и) покрывает койбы стружками и кладет сушиться.’       
+(3)        kues’s’         sɨjj         kooššk-ev                 sonn         s’in-et’ n’aassk
+        когда         3pl.nom         сохнуть-npst.3pl         3sg.nom        3pl-acc         скоблить.npst.3sg
+        ‘Когда они высохнут, он их скоблит.’
+(4)        tuul’j         al’n’         vuajj        vued’d’-e         il’i         kuarr-e                maal’c’-et’         ja
+        шкура.gen.sg         на.loc        мочь.npst.3sg         спать-inf        или        шить-inf        малица-acc.pl         и
+        rɒvv-et’        a         kɒmms-en’         kuar-et’        tubɨrk-et’        p’ima-t’        buurk-et’
+        спальник-acc.pl         а         койба-com.sg         шить-ips.npst         тоборки-acc.pl        пимы-acc.pl         бурки-acc.pl
+        ‘На шкуре можно спать или сшить [из нее] малицы и спальные мешки, а из койбы         шьют тоборки, пимы, бурки.’

@@ -1,0 +1,109 @@
+﻿(1)        jeerrk-j-a        oollme-j(e)       bajas        ja        ruuc-e        bajas        ja        v’aal
+        давно-adj-dim        человек-gen.pl        о        и        швед-gen.pl        о        и        ещё
+        Maz’a        bajas
+        Мазя.gen.sg        о
+        ‘Про древних людей, про шведов и ещё про девушку Мазю’
+(2)        kuul’l’-j’aav’r’        rɨnt-es’t’        jiil’l’-en’        jeerrk-j-a        oollme
+        рыба-озеро.gen.sg        берег-loc.sg        жить-pst.3sg        давно-adj-dim        человек.nom.pl
+        ‘На берегу рыбного озера жили древние люди’
+(3)        tam’p’e        l’aajj        eexxt        t’iid’d’-ej        n’iijjt
+        там        быть.pst.3sg        один.nom.sg        знать-ptcp.npst        девушка.nom.sg
+        ‘Там была одна знающая девушка’
+(4)        sonn        šɒb-ešt        kuuht        parn-a
+        он(а).nom        любить-pst.3sg        два        парень-dim.acc.sg
+        ‘Она любила двух парней’
+(5)        kɒmpa       luša/lɨšše        soon        vaalt-ahč        kuujj-e
+        какой_из_двух        лучше/только        он(а).acc        брать-cond.3sg        муж-dat.sg
+        ‘Кто бы из них взял её замуж’
+(6)        a        tedd        n’iijjt        l’aajj        puer’es’
+        а        этот.nom.sg        девушка.nom.sg        быть.pst.3sg        старый.pred
+        ‘А эта девушка была старая’
+(7)        a        ɲi-kɒmpa        paar’r’n        soon        ejj        šɒbš-a
+        а        neg-какой_из_двух        парень.nom.sg        он(а).acc        neg.3sg        любить-pst.cng
+        ‘И никто из двух людей её не любил’
+(8)        eex’x’t-eš’(t’)        nɨm’(p’)-b’aall-a        jaav’r’        puud’d’-en’        ruuc
+        один-adv       другой-сторона-dat        озеро.gen.sg        прийти-pst.3sg        швед.nom.pl
+        ‘Однажды на другую сторону озера пришли шведы’
+(9)        oollm-e        meenn-en’        tenn        n’iijjt-a        aann-e
+        человек-nom.sg        идти-pst.3pl        этот.obl        девушка-dat.sg        просить-inf
+        štobe        sonn        lɨgg-a(h)č        nɨd’d’        kooxxt        bɨ        ruuc-e
+        чтобы        он(а).nom        делать-cond.3sg        так        как        бы        швед-nom.pl
+        jev        p’eez-č-e        s’iin-e        gɒrre      
+        neg.3pl        проникнуть-cond-cng        они-gen        в_сторону
+        ‘Люди пошли к этой девушке, чтобы она сделала так, чтобы шведы не попали к ним’
+(10)        a        tedd        n’iijjt        saarrn
+        а        этот.nom.sg        девушка.nom.sg        говорить.npst.3sg
+        ‘А эта девушка говорит’
+(11)        jesl’e        kɒmpa-ɲe        paar’r’n        vaallt        mun
+        если        какой_из_двух-ndef.nref        парень.nom.sg        брать.npst.3sg        я.acc
+        kuujj-e        tanna        munn        lɨgg-a        nɨd’d’        što
+        муж-dat.sg        тогда        я.nom        делать-npst.1sg        так        что
+        ruuc        m’iin-et’        jev        kɒn’t
+        швед.nom.pl        мы-acc        neg.3pl        убить.npst.cng
+        ‘Если кто-либо из двух парней возьмёт меня замуж, тогда я сделаю так, что шведы нас не         убьют’
+(12)        oollm-e        eel’l’k-en’        saarrn-e        parn-a=guejm        štobe
+        человек-nom.pl        начать-pst.3sg        говорить-inf        парень-dim.gen.pl=com.pl        чтобы
+        kɒmpa-ɲe        paar’r’n        soon        al’n        nɒɒj̥j̥t-l-ed-e(h)č
+        какой_из_двух-ndef.nref        парень.nom.sg        он(а).gen        на.loc        женить-pfv-refl-cond.3sg
+        ‘Люди начали говорить с парнями, чтобы кто-нибудь из них на ней женился’
+(13)        eexxt        paar’r’n        ɒɒš’s’t-j-uv-e        nɒɒj̥j̥t-l-edd-e
+        один.nom.sg        парень.nom.sg        обещать-acaus-pass-pst.3sg        женить-pfv-refl-inf
+        ‘Один парень согласился жениться’        
+(14)        n’iijjt        vɨjt-e        olk-es        i        saarrn
+        девушка.nom.sg        выйти-pst.3sg        наружа-adv.dat        и        говорить.npst.3sg
+        ‘Девушка вышла на улицу и говорит’
+(15)        kiihč-e        jaav’r’        eel
+        смотреть-imp.pl        озеро.gen.sg        на.dat
+        ‘Посмотрите на озеро’
+(16)        ujn-bedde        jebbe        meenn-ɲe
+        видеть-npst.2pl        neg.2pl        что.acc.sg-indef.nref
+        ‘Видите или нет что-нибудь?’
+(17)        oollm-e        saarrn-ev
+        человек-nom.pl        говорить-npst.3pl
+        ‘Люди говорят’
+(18)        jebb        ujn        ɲi-meenn
+        neg.1pl        видеть.npst.cng        neg-что.acc.sg
+        ‘Не видим ничего’
+(19)        a        ruuc        uže        vɨjjt-en’        jaavvr-a
+        а        швед.nom.pl        уже        выйти-pst.3sg        озеро-dat.sg
+        ‘А шведы уже вышли на озеро’
+(20)        i        tes’t’        šeend-e        šuurr        šeeŋŋ
+        и        здесь        стать-pst.3sg        большой        буря.nom.sg
+        ‘И вот разразилась большая буря’
+(21)        i        tedd        šeeŋŋ        jod’-e        koollm        p’eejv        nɨd’d’
+        и        этот.nom.sg        буря.nom.sg        двигаться-pst.3sg        три        день.acc.sg        так
+        što        ejj        kuesst-eɲč        ɲi-m’ii
+        что        neg.3sg        виднеться-pst.cng        neg-что.nom.sg
+        ‘И эта буря продолжалась три дня — так, что не было видно ничего’
+(22)        kues’s’        meen-e        koollm        p’eejv        i        šeeŋŋ        vɒɒz-e
+        когда        идти-pst.3sg        три        день.gen.sg        и        буря.nom.sg        кончиться-pst.3sg
+        i        pugg        oollm-e        ujn-s-en’        što        kaassk-a        jaav’r        
+        и        весь        человек-nom.pl        видеть-pfv-3pl        что        середина-dat.sg        озеро.gen.sg
+        ɒrr        k’eed’k        suel
+        сидеть.npst.3sg        камень.gen.sg        остров.nom.sg
+        ‘Когда прошло три дня и буря стихла, (и) все люди увидели, что посреди озера стоит                 каменный остров’
+(23)        ruuhc-e        l’aajj        n’eel’l’j-lɒg’g’        oollm-e        
+        швед-part        быть.pst.3sg        четыре-десять.nom        человек-gen.sg/nom.pl
+        ‘Шведов было сорок человек’
+(24)        sijj        kooxxt        pɒɒl’l’te        vuujj-en’        nɨd’d’e        k’eed’d’k-l-uvv-en’
+        они.nom        как        рядом.dat        плыть-pst.3pl        так        камень-pfv-pass-pst.3pl
+        ‘Они как рядом ехали, так и окаменели’
+(25)        kuhk’e-vudd-e        suel        gu=l’ii        
+        длинный-abstr-dat.sg        остров.nom.sg        как=быть.npst.3sg        
+        n’eel’l’j-lɒg’g’        oollm-e
+        четыре-десять.nom        человек-gen.sg/nom.pl
+        ‘Длиной островы был как сорок человек’
+(26)        tenn        suel        nɨd’d’e        kɒhč-ev        ruuc        suel
+        этот.obl.sg        остров.nom.sg        так        звать-npst.3pl        швед.gen.sg        остров.nom.sg
+        ‘Тот остров теперь называют шведским островом’
+(27)        i        kues’s’        vɨjj-ev        raj        tenn        suel
+        и        когда        ехать-npst.3pl        мимо        этот.obl        остров.nom.sg
+        a        al’l’t        soon        jev        meen
+        а        близко        он(а).gen        neg.3pl        идти.npst.cng
+        ‘И когда едут мимо того острова, близко не подходят’
+(28)        peel’l’-ev
+        бояться-npst.3pl
+        ‘Боятся’
+(29)        ja        mɒɒjnas        pugg
+        и        сказка.nom.sg        весь
+        ‘И сказка вся’

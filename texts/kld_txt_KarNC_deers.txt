@@ -1,0 +1,225 @@
+﻿(1)        jiil’l’-en’        aǯ-a        čaar-es’t’
+        жить-pst.3pl        отец-dim.nom.sg        тундра-loc.sg
+        ‘Жили, отец в тундре’
+(2)        aǯ-an        koohč-en’        mɒɒksan        jeg’em’        al’l’k
+        отец.dim.acc.sg-poss1        звать-pst.3pl        Максим.nom.sg        Ефим.gen.sg        сын.nom.sg
+        ‘(Моего) отца звали Максим Ефимович’
+(3)        nɨm’m’p’        v’iil’l’-aj        l’aajj        sɨmman        je’gem’
+        второй        брат-dim.nom.sg        быть.npst.3sg        Семён.nom.sg        Ефим.gen.sg        
+        al’l’k
+        сын.nom.sg
+        ‘Второй брат был Семён Ефимович’
+(4)        sɨjj        jiil’l’-en’        puuʒ-et’        pɨɲɲ-en’                i        tel’        meenn        
+        они.nom        жить-pst.3pl        олень-acc.pl        пасти-pst.3pl        и        вот        что.acc.sg
+        k’eez’        kɨd        kuun’t’-x’-ev                i        čeexxč-a        
+        лето.acc.sg        весна.acc.sg        телиться-caus1-npst.3pl        и        осень-dat.sg
+        kooppč-ev
+        собирать-npst.3pl
+        ‘Они жили, оленей пасли, и вот летом и весной олени телятся, и осенью собирают’
+(5)        sɨjj        jiil’l’-en’        j’iil’l’-en        nɨd’d’        paj        j’iil’l’-en’
+        они.nom        жить-pst.3pl        жить-pst.3pl        так        всегда        жить-pst.3pl
+        ‘Они жили, жили, так всё жили’        
+(6)        mɨjj        uže        šuurr-n-em’        šend-em’
+        мы.nom        уже        большой-inch-pst.1pl        расти-pst.1pl
+        ‘Мы уже стали большими, выросли’
+(7)        puudz-et’        paj        jeb’b’        pɨɲɲ-ma        paj        svol’no
+        олень-acc.pl        всегда        neg.1pl        пасти-pst.cng        всегда        вольно
+        jiil’-em        čeexxč-a        kooppč-ev        voodd-edd-ev
+        жить-pst.1pl        осень-dat.sg        собирать-npst.3pl        водить-mid-npst.3pl
+        ‘Оленей (мы) всё не пасли, (мы) всё вольными жили, осенью собирают, ходят’
+(8)        tel’        l’iijj-en’        iižem’        puud’d’-en’        ja        jeel’-eškuud’d’-en’        
+        вот        быть-pst.3pl        ижемец.nom.pl        прийти-pst.3pl        и        жить-inch-pst.3pl
+        ‘Вот пришли ижемцы и начали жить’
+(9)        a        s’iin-et’        sɨjj        pɨɲɲ-ev
+        а        они-acc        они.nom        пасти-npst.3pl
+        ‘А их они пасут’
+(10)        no        m’iin-es’t’        puaz        paj        nɨt’t’e        jiil’-e        no        m’iin-en’
+        ну        мы-loc.sg        олень.nom.sg        всегда        так_же        жить-pst.3sg        ну        мы-loc.pl
+        puaz        paj        vuam-eškuud’-e                
+        олень        всегда        старый-inch-pst.3sg
+        ‘Но у нас олень всё так же жил, но у нас олень всё начал стареть’
+(11)        ja        tel’        el’g’-em’        pɨɲɲ-e        iiž’a        saam’
+        и        вот        начать-pst.1pl        пасти-inf        refl.pl        саами.nom.pl
+        ‘И вот начали пасти сами саами’
+(12)        m’iin-en’        v’iil’j-an=gɒn’c’        pɨɲɲ-en’        
+        мы-loc        брат-poss1=род        пасти-pst.3pl
+        ‘Наши братья пасли’        
+(13)        munn=det(t)        vaan-as        pɨɲɲ-e        a        pɨɲ-e        el’j        v’iil’j-a
+        я.nom=то        мало-adv.tr        пасти-pst.1sg        а        пасти-pst.3sg        Илья        брат-dim.nom.sg
+        ‘Я-то мало пас, а пас брат Илья’
+(14)        ad’d’        soonn        l’ii        jaam-ma        
+        теперь        он.nom        быть.npst.3sg        умереть-pctp.pst
+        ‘Теперь он умерший’
+(15)        koollm-lɒg’g’-e        ɨg’g’-e        l’aajj
+        три-десять-part        год-part        быть.pst.3sg
+        ‘Тридцать лет было’
+(16)        soonn        vuul’k’-e        čuuʒj-e        soonn        čeed        čuuʒ-es’t’        j’iil’-e
+        он.nom        пойти-pst.3sg        стадо-dat.sg        он.nom        сквозь        стадо-loc.sg        жить-pst.3sg
+        voodd-ed-e
+        водить-mid-pst.3sg
+        ‘Он ушёл в стадо, он всё жил в стаде, ходил’
+(17)        maŋŋa        m’iin-es’t’        puaz        peejj-n-eškuud’-e                pajj-as
+        после        мы-loc.sg        олень.nom.sg        верх-vblz.inch-inch-pst.3sg        верх-adv.tr
+        šent-eškuud’-e        lašš-n-eškuud’-e
+        расти-inch-pst.3sg        добавка-vblz.inch-inch-pst.3sg
+        ‘После у нас олени стали прибавляться, стали расти, прибавлять в весе’
+(18)        a        iižm-en’                maŋŋa=des’t’=ges        k’aahp-n-eškuud’-e
+        а        ижемец-loc.pl        после=этот.loc.sg=emph        лёгкий-vblz.inch-inch-pst.3sg
+        ‘А у ижемцев после этого стало убавляться’
+(19)        jev        allk-a        pɨɲɲ-e        ja        nɨd’d’        paj        jiil’l’-eš        kolxoz                rajja
+        neg.3pl        начать-pst.cng        пасти-inf        и        так        всегда        жить-pst.ips        колхоз.gen.sg        до
+        ‘И перестали пасти, и так всё жили до колхоза’
+(20)        kolxoz        kues’s’=gu        šend-e        tes’t’        meenn?        meen-em
+        колхоз.nom.sg        когда=emph        стать-pst.3sg        этот.loc.sg        что.acc.sg        идти-pst.1pl                
+        šend-em        kolxoz’n’ik
+        стать-pst.1pl        колхозник.nom.pl
+        ‘Когда образовался колхоз, то мы все стали колхозниками’
+(21)        ad’d’        jeel’l’-ep’        pugg        kolxoz-en’
+        сейчас        жить-npst.1pl        весь        колхоз-loc.pl
+        ‘Теперь живём все в колхозах’
+(22)        i        kolxoz-es’        vuajj        j’eel’l-e
+        и        колхоз-loc.sg        мочь.npst.3sg        жить-inf
+        ‘И в колхозе можно жить’ (ориг. перевод “в колхозе хорошо жить”)
+(23)        maŋ’ŋ’        per’e        l’aajj        šiig        mɨjj-e
+        зад        очень        быть.npst.3sg        хороший        мы-dat
+        ‘Тогда очень было хорошо нам’ (ориг. перевод “почему хорошо нам”)
+(24)        mɒɒht-j-a        l’iij-em’        mɒɒht-j-em’                jeel’l’-ep’
+        уметь-acaus-ptcp.pst        быть-pst.1pl        уметь-acaus-pst.1pl        жить-npst.1pl
+        ‘Привыкшие были, привыкли, живём’
+(25)        ad’d’        m’iin-es’t’        kolxoz-es’t        cuez        šend-e        
+        сейчас        мы-loc.sg        колхоз-loc.sg        стадо.nom.sg        стать-pst.3sg
+        vɨdd-emp’-lɒg’g’        tɒfant
+        пять-сверх-десять        тысяча.gen.sg?
+        ‘Теперь у нас в колхозе стадо увеличилось до пятнадцати тысяч (досл. ‘стало                         пятнадцать тысяч’)’
+(26)        no        peel-j-uv-e                tɒn’n’e        ɒɒj̥j̥k-v’eer’t’        puaz-e
+        но        забить-mid-pass-pst.3sg        сего_года        значительный-около        олень-?
+        ‘Забивалось в этот год много оленей’
+(27)        kolxoz        pel’-e        ja        en’d’-e        gosudarstv-e        kon’ešno
+        колхоз        забить-pst.3sg        и        дать-pst.3sg        государство-dat.sg        конечно
+        ‘Колхоз забивал и отдавал государству, конечно’
+(28)        rɨbkop’p’-e        en’d’-e        paj        vot
+        рыбкооп-dat.sg        дать-pst.3sg        всегда        вот
+        ‘Рыбкоопу сдавал всегда, вот’
+(29)        ad’d’        l’iijj-en’        konešno        sɒɒm-en’        aǯ’-s-an        ja        d’eed’-s-an
+        сейчас        быть-pst.3pl        конечно        саам-loc.pl        отец-loc.sg-poss1        и        дядя-loc.sg-poss1
+        ‘Теперь были, конечно, у саамов {олени}, у отца и дяди’
+(30)        p’ervo        l’aajj        s’iin-en’        puaz
+        сначала        быть.npst.3sg        они-loc        олень.nom.sg
+        ‘Сначала было у них оленей’        
+(31)        aǯ’-s-an        l’aajj        čuud’(d’)        p’eel’l’-em’p’        l’aajj        
+        отец-loc.sg-poss1        быть.npst.3sg        сто.nom/gen        половина-сверх        быть.npst.3sg
+        ‘У отца было полтораста (голов)’
+(32)        a        sɨmman        d’eed’-s-an        l’aajj        soost        l’aajj                
+        а        Семён        дядя-loc.sg-poss1        быть.npst.3sg        он.loc        быть.npst.3sg
+        čuud’(d’)        koollm
+        сто.nom/gen        три.nom
+        ‘Я у дяди Семёна-то было триста (голов)’
+(33)        a        sɨjj        paj        eft-es’t’        jiil’l’-en’
+        а        они.nom        всегда        один-loc        жить-pst.3pl
+        ‘А они всё время вместе жили’
+(34)        každe        ɨg’g’-e        paj        efft-e        kooppč-en’        puuʒ-et’
+        кажды        год-dat.sg?        всегда        один-dat        собирать-pst.3pl        олень-acc.pl
+        ‘Каждый год оленей собирали вместе’
+(35)        tel’        l’aajj                z        čuez        tel’        l’aajj        muddm-en’
+        вот        быть.npst.3sg        ?        стадо.nom.sg        вот        быть.npst.3sg        другой-loc.pl
+        ‘Вот было их стадо, вот чужое стадо’
+(36)        l’iijj-en’        kon’ešno        maŋŋa        
+        быть-pst.3pl        конечно        после
+        ‘Были, конечно, потом’
+(37)        muddm-en’        l’iijj-en’        maŋŋa        kues’s’        pɨɲɲ-eškuud’d’-en’
+        другой-loc.pl        быть-pst.3pl        после        когда        пасти-inch-pst.3pl
+        ‘У других были потом, когда начали/начинали пасти’
+(38)        jur’jev                l’aajj        mɨkkla                Uvvan        al’l’k’
+        Юрьев                быть.pst.3sg        Николай.nom.sg        Иван.gen.sg        сын.nom.sg
+        ‘Был Николай Иванович Юрьев.’ (‘У Юрьева Николая Ивановича…’)
+(39)        soost                l’aajj        kon’ešna        puaz                jeen-a
+        3sg.loc                быть.pst.3sg        конечно        олень.nom.sg?        много-comp
+        ‘У него было, конечно, оленей больше.’
+(40)        soost                l’aajj        čuud’(d’)                vɨdd        l’iim’p’e        
+        3sg.loc                быть.pst.3sg        сто.nom/gen        пять        или
+        kud’d’        nɨd’d’        
+        шесть        так        
+        ‘У него было пять или шесть сотен (оленей).’
+(41)        l’aajj                čuez        soost        soonn?        kon’ešna        maŋŋa        
+        быть.pst.3sg        стадо.nom.sg        3sg.loc        3sg.nom?        конечно        после
+        ejj                šeennt-ma
+        neg.3sg        расти-pst.cng
+        ‘Было стадо у него, и потом его не стало.’
+(42)        ad’d’                kon’ešno        parn-ed-es’                tože        pɨɲɲ-ev                puuʒ-et’
+        сейчас                конечно        ребёнок.nom-pl-poss3        тоже        пасти-npst.3pl        олень-acc.pl
+        ‘Теперь, конечно, дети тоже пасут оленей.’
+(43)        pajše                pail’e        kolxoz-es’                pail’e        vaanas
+        всё-таки     ?           колхоз-loc.sg        ?        мало     
+        ‘Всё-таки в колхозе всё еще мало.’
+(44)        jesl’i        k’ees’        l’ii                lɒg’-mat’        l’ibo        vɨdd-em’p’-lɒg’g’
+        если        кто.loc.sg        быть.npst.3sg        десять-?        либо        пять-сверх-десять
+        ‘Если у кого-либо с десяток или пятнадцать.’        
+(45)        samo                jeenne        n’eel’l’j-lɒg’g’-e        veer’t’        puaz-e
+        самый                много        четыре-десять-part        около        олень-?
+        ‘Самое большое сорок голов оленей.’
+(46)        a        jeen-a        al’l’a        kolxoz-es’t’
+        а        много-comp        neg.npst.3sg.быть        колхоз-loc.sg
+        ‘А больше нет в колхозе.’
+(47)        ruup’p’s’-es’        čum        eevvdel’        jev        el’l’ij        m’iin-es’t’
+        красный-attr        чум        прежде        neg.3pl        neg.pst.3pl.быть        1pl-loc
+        ‘Красного чума прежде не было у нас.’
+(48)        m’iin        ruup’p’s’-es’        čum-a        ɒɒlk-x-uv’v’-en’        tala        kolxoz-es’t’
+        1pl.gen        красный-attr        чум-nom.pl        начать-caus1-pass-pst.3pl        вот        колхоз-loc.sg
+        ‘Наши красные чумы стали появляться только во время колхозов.’
+(49)        kues’s’        kolxoz        šeend-e                tel’        eel’l’k’-en’
+        когда        колхоз.nom.sg        расти-pst.3sg        вот        начать-pst.3pl
+        ‘Когда появился колхоз, тогда и начали (появляться).’
+(50)        maŋŋa=des’t’                daže        kolxoz        kues’s’        kolxos’s’-e
+        после=этот.loc.sg        даже        колхоз.nom.sg        когда        колхоз-dat.sg
+        ɨšt-em        jeenne        ɨg’g’-e        meen-e
+        сесть-pst.1pl        много        год-part        идти-pst.3sg
+        ‘После этого, когда в колхоз вступили, много лет прошло.’
+(51)        a        čuuʒ-es’t’        kaažde        br’igad-es’        l’ii
+        а        стадо-loc.sg        каждый        бригада-loc.sg        быть.npst.3sg
+        rad’iopr’ijomn’ihk’        l’ii        s’iirr
+        радиоприёмник.nom.sg        быть.npst.3sg        играть.npst.3sg
+        ‘В стаде в каждой бригаде есть радиоприемник – играет.’
+(52)        sɨjj=del’                jeel’l’-ev        čuuʒ-es’        
+        3pl.nom=вот        жить-npst.3pl        стадо-loc.sg        
+        ‘Они вот живут в стаде.’
+(53)        ad’d’        l’ee-v                s’iin-en’        l’ee-v
+        теперь        быть-npst.3pl        3pl-loc        быть-npst.pl
+        ad’d’        pugg        el’l’a        nɨd’d’        kooxxt        eevvdel’        l’aajj
+        сейчас        весь        neg.npst.3sg.быть        так        как        прежде        быть.pst.3sg
+        ‘Теперь все у них не так, как было прежде.’
+(54)        eevvdel’        mɨjj        jodd-l-em’                kɒvvs-e=guejm
+        прежде        1pl.nom        ехать-ipfv2-pst.1pl        чум-gen.pl=com
+        ‘Раньше мы ездили с чумами.’ (= ‘ночевали в чумах’)  
+(55)         ad'd'                 l'eev         bazа                 per̥t
+        теперь         быть.npst.3pl        база.nom.sg        дом.nom.pl
+        Теперь имеются деревянные дома-базы
+(56)         jeel'l'-ev         s'erna         gu         sɨjd-es'         nɨzan         jeel'l'-ev
+        жить-npst.3pl        всё_равно        как        село-loc.sg        женщина.nom.pl        жить-npst.3pl
+        Живут всё равно как в селе, женщины живут
+(57)         nu         kues's'         pastex'         voodd-edd-ev         voodd-edd-ev
+        ну         когда         пастух.nom.pl         водить-mid-npst.3pl         водить-mid-npst.3pl         
+        Когда пастух ходит долго в стадо
+(58)         puedd                         paj         l'eev         v'iilg-e                         ja š'iig
+        прийти.npst.3sg         всегда         быть.npst.3pl         белый-pred.pl         и хороший
+        приходит все (в доме) чисто и хорошо
+(59)         gaz'eta         sɨjj-e         toage         vɨg-et
+        газета.acc.sg         3pl-dat         туда         отнести-npst.ips 
+        Газеты к ним привозят 
+(60)         poodd-l-ev                 kues's'         pastex'         ut'ol-as't         il'e         k'es's'-a         poodd-l-ev
+        прийти-ipfv2-npst.3pl         когда         пастух.nom.pl         отёл-loc.sg         или лето-dat.sg        прийти-ipfv2-npst.3pl
+        когда приезжают пастухи с отёла или летом приходят
+(61)         s'iin-en'         gaz'eta         paj         l'eev         gaz'et-et'         loogg-ev
+        3pl-loc        газета.nom.pl        всегда        быть.npst.3pl         газета-acc.pl         читать-npst.3pl
+        Газеты у них всегда есть, читают газеты
+(62)         v'aal         l'eev         pat'efon         dam'ena         l'eev
+        ещё         быть.npst.3pl        патефон.nom.pl        домино.nom.pl         быть.npst.3pl
+        Патефон есть, домино есть
+(63)        vr'em'a=den'n'e         vɨgg-ev         paj=še         v'es'l-amuše                 l'ehč
+        время.acc.sg=?        отнести-npst.3pl         всегда=же         весело-сomp.att         быть.cond.3sg?
+        Время проводят всё-таки веселее
+(64)         ad'd'         l'ii                 per'e         š'iig'
+        теперь быть.npst.3sg        очень        хороший
+        Теперь очень хорошо
+(65)         pastex'                 vood'd'-ed-e         mugga         l'ii                         per'e         šiig'
+        пастух.nom.sg         водить-mid-pst.3sg         такой         быть.npst.3sg         очень         хороший
+        Пастухи ходят всё-таки лучше

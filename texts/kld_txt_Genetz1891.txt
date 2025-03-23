@@ -1,0 +1,393 @@
+﻿(1)         kaallas                        ja         aak-a(j)                 jiil’l’-en’         jiil’l’-en’
+мужик.nom.sg                и         баба-dim.nom.sg         жить-pst.3pl         жить-pst.3pl
+‘Старик и старуха жили-жили.’
+(2)         с'eel̥’l̥'k’-en'                 mann                 mɨjj-e         ejj                 šaan't’ 
+сказать-pst.3pl         что.acc.sg         1pl-dat        neg.3sg         стать.cng.npst
+al'k-e
+сын-dim.nom.sg
+‘Сказали, что у нас не рождается сын?’
+(3)        sɨjj-e         šan't'-e         al'k-e                         lahk’e-olma                
+3pl-dat        стать-pst.3sg        сын-dim.nom.sg          половина-человек.nom.sg                
+lahk’e-taall
+половина-медведь.nom.sg
+‘У них родился сын: наполовину человек, наполовину медведь.’
+(4)        voal't-e(j)        s'irr-e(δ)  paarn-a(j)n'        vuejv-e(j)t’                        rɒdd      
+брать-pst.3sg        играть-inf   парень-loc.pl        голова-acc.sg        отрывать.npst.3sg     
+        ‘Стал играть, стал детям головы отрывать’
+(5)        aǯ-es'                        jenn-es’                moakks-en'                moakks-en'                
+отец.nom.sg-poss3        мать.nom.sg-poss3        платить-pst.3pl        платить-pst.3pl        
+ja        t’eeŋ'k                pud'd-en'
+и        деньги.nom.pl        кончиться-pst.3pl
+‘Его отец и мать платили-платили – и кончились [у них] деньги.’
+(6)        sonn                paarn-a                men-e(j)        jaavvr-a        jordan        
+3sg.nom        парень-dim.nom.sg        идти-pst.3sg        озеро-dat.sg        иордань.acc.sg         
+jus't'-e                        kukx-el'l'-e                        čaaʒ'-jell-e
+долбить-pst.3sg        крикнуть-ipfv2-pst.3sg        вода.nom.sg-жить-ptcp.npst
+‘Он, парень пришёл к озеру, выдолбил иордань и кричал водяного.’
+(7)        čaaʒ'-jel'l'-e                        puud'-e(j)                man'(e)                
+вода.nom.sg-жить-ptcp.npst        прийти-pst.3sg        что.acc.sg                
+kukx-el-k                        mun-e
+крикнуть-ipfv2-npst.2sg        1sg-acc
+‘Водяной пришёл, [говорит] что зовёшь меня?’
+(8)        t’iiŋ’k’-e(j)t’        pɨdd-(a)
+деньги-acc.pl        принести-imp.sg
+'Деньги принеси.'
+(9)        tonn        man-k        tun        g'ačča        jaavr'        evvtel'        mun-e
+2sg.nom        идти-npst.2sg        тот.gen.sg        ?        озеро.acc.sg        раньше        1sg-gen
+‘Обойдёшь это озеро раньше меня,’
+(10)        tax        ant-a(m)                t'iiŋ’k’-e(j)t’
+так        дать-npst.1sg                деньги-acc.pl
+‘...так дам деньги.’
+(11)        egg                men-eɲ-e        evvtel'                mun-e                 tax        munn                
+neg.2sg        идти-pot-cng        раньше        1sg-gen        так         1sg.nom 
+poor-a(m)        toon-e
+есть-npst.1sg        2sg-acc
+‘Не обойдёшь раньше меня, я тебя съем.’
+(12)        sonn                saam-l'a                paar’r’n’                ɵvvtel’                men-e                
+3sg.nom         саам-dim.nom.sg        парень.nom.sg        раньше         идти-pst.3sg        
+tun                g'ačča                jaavr
+тот.gen.sg        ?                озеро.acc.sg
+‘Он, саамский парень, раньше обошёл это (?) озеро.’
+(13)        vaal't-e                ɨšt-e                kɒb-(e)                raab-e(j)                kab'b'er' 
+брать-pst.3sg        сесть-pst.3sg        яма-acc.sg        копать-pst.3sg        шапка.acc.sg        
+pɨjj-e(j)                        kuut'                juul'k’-es'                keske        ja        raajk                
+класть-pst.3sg        два.gen.sg        нога.gen.sg-poss3        между        и        дыра.acc.sg        
+pukk-ej                kap’p’r’-e
+рвать-pst.3sg        шапка-dat.sg
+‘Взял, сел, яму выкопал, шапку положил между двух ног и дыру проделал в шапку.’
+(14)        nu        tal'e        čaaʒ’-jel'l'-e                        puud'-e                saam-l’eɲč-e
+ну        вот        вода.nom.sg-жить-ptcp.npst        прийти-pst.3sg        саам-dim-dat.sg 
+c'aal̥l̥k-a
+сказать-npst.3sg
+‘Ну вот пришёл водяной и скажет сааму.’
+(15)        oxo        evvtel'                mun-e                puud'd'-ek
+ого        раньше        1sg-gen        прийти-pst.2sg
+‘Ого, раньше меня пришёл.’
+(16)        saam-l'a                c'aal̥l̥k-a                pɨht-ek                        t'iiŋ’k'-i(j)t'
+саам-dim.nom.sg        сказать-npst.3sg        принести-pst.2sg        деньги-acc.pl
+‘Саам говорит: принёс деньги?’
+(17)        pɨht-e
+принести-pst.1sg
+‘Принёс.’
+(18)        čaaʒ'-jeell-e                        kab'b'er'        sɨz        l'iišk-e(j)                                
+вода.nom.sg-жить-ptcp.npst        шапка.gen.sg        внутрь        вылить-pst.3sg
+t'iiŋ’k-e(j)t        kab'b'er'        sɨz-n                raajjk                pugg        koollk-en'        
+деньги-acc.pl        шапка.gen.sg        внутри                дыра.nom.sg        весь        течь-pst.3pl 
+kobb-a
+яма-dat.sg.
+‘Водяной внутрь шапки деньги вылил, дыра внутри шапки, все вытекло.’
+(19)        olm-uj        c'aal̥l̥k-a        što        m'ii        l'aa-k        tonn
+человек-dim.nom.sg        сказать-npst.3sg        что        что.nom.sg        быть-npst.2sg 2sg.nom
+v’iɨgg-olmejt                egg                vuajj-e                mun-e                kab’b’er'                t’iivvt-e(d)
+сила.nom.sg-человек        neg.2sg        мочь-npst.cng        1sg-gen        шапка.acc.sg наполнить-inf
+‘Человек говорит: что ты за силач такой, не можешь мою шапку наполнить.’
+(20)         tat’t’e        v'aala        vul'k-e                t’iiŋ’k’-e        gorra                saam-l'anč                
+этот        ещё        пойти-pst.3sg деньги-gen.pl        в_сторону        саам-dim.nom.sg
+ɒrr                        t’iiŋ’k-e(j)t’        vuerrt
+сидеть.npst.3sg        деньги-acc.pl        ждёт.npst.3sg
+‘Тот ещё за деньгами пошёл, саам сидит денег ждёт.’
+(21)        čaaʒ'-jell-e                        puud-e(j)                t’iiŋ’k-e(j)t         i        
+вода.nom.sg-жить-ptcp.npst прийти-pst.3sg        деньги-acc.pl        и        
+pɨt’-e                         saam-l’eɲč-e                kab’b’er'         sɨz        lɨšk-e(j)        
+принести-pst.3sg         сааму-dim-dat.sg        шапка.gen.sg        внутрь вылить-pst.3sg
+kab’b’er'        lak’                        šant-e
+шапка.gen.sg        половина.acc.sg        стать-pst.3sg
+        ‘Водяной пришели принес деньги сааму, в шапку высыпал, шапка наполовину заполнилась’
+(22)        no        l'aa-ɲč                at't'        kul                        mɨn’n’-e        t’iiŋ’k’-e(j)t’        ejj 
+но        быть-pot.3sg        сейчас слышать.imp.sg        1sg-dat        деньги-acc.pl        neg.3sg
+bɨdd        jen-amp
+нужно        много-comp
+'Ну будет сейчас, слушай, мне денег больше не нужно.'
+(23)        čaz'-jell-e                        moaze                jaavvr-a        čoaŋ-e
+вода.nom.sg-жить-ptcp.npst        обратно        озеро-dat.sg        проникнуть-pst.3sg
+‘Водяной обратно в озеро залез.’
+(24)        olm-eɲč                tatte        moaze                vaanc-el                        kuadd-a-s’
+человек-dim.nom.sg        этот        обратно        идти_пешком-pfv1.pst.3sg        вежа-dat.sg-poss3
+‘Человек этот обратно в вежу пошёл.’
+(25)        men-e(j)        kuadd-a-s’
+идти-pst.3sg        вежа-dat.sg-poss3
+‘Зашёл в вежу.’
+(26)        voal't-e(j)        soan-e(j)t’        vuulk-e(j)        muur-e(j)t’        soagg-e
+брать-pst.3sg        сани-acc.pl        пойти-pst.3sg        дерево-acc.pl        поймать-inf
+‘Взял сани, пошёл дрова добыть.’
+(27)        tal        taall                        sonn                taal                        vuejv-es’t’        
+вот        медведь.nom.sg        3sg.nom        медведь.acc.sg        голова-loc.sg 
+kec-est                        voal’t-e(j)        pakk-e(δ)
+хватать-pfv2.pst.3sg         брать-pst.3sg щипать-inf
+‘А вот медведь, он медведя за голову схватил и взялся щипать.’
+(28)        taall                        c'aal̥l̥k-a                ɒr-a                jel'                pag'-e
+медведь.nom.sg         сказать-npst.3sg        сидеть-imp.sg        proh.sg        щипать-imp.sg
+‘Медведь скажет, сиди, не щипай.’
+(29)        sonn                ejj                alk-a                        pag'g'-e(δ)        voal't-e(j)                
+3sg.nom        neg.3sg        начать-pst.cng        щипать-inf        брать-pst.3sg 
+taal-e                        k'aass-ad'd'-e                muur-soan-e                vuella        
+медведя-acc.sg        тянуть-mid-pst.3sg        дерево-сани-gen.pl        под.dat
+kuadd-a-s’                vaanc-el’ 
+вежа-dat.sg-poss3        идти_пешком-pfv1.pst.3sg
+‘Он перестал щипать, взял медведя запряг в дровяные сани, пошёл в вежу.’
+(30)        taall                        muur-soan-e(j)t’        i        k’aass
+медведь.nom.sg        дерево-сани-acc.pl        и        тянуть.npst.3sg
+‘Медведь дровяные сани и тянет.’
+(31)        puud-e(j)                kuadd-as’        olm-eɲč                luušt-e                        
+прийти-pst.3sg        вежа-dat.sg        человек-dim.nom.sg        пустить-pst.3sg
+taal                        laammpas        puvvr-a
+медведя.acc.sg        овца.gen.sg        хлев-dat.sg
+‘Пришёл человек в вежу, пустил медведя в хлев к овцам.'
+(32)        taall                        voal't-e                laammpas        pugg        poor-e(j)
+медведь.nom.sg        брать-pst.3sg        овца.acc.sg        весь        есть-pst.3sg
+‘Медведь взял и съел всех овец (дословно: всю овцу).’
+(33)        iinc'ejk                koc'c'ej-en                kaallas-eɲč                ja        aak-a
+утро.acc.sg        проснуться-pst.3pl        мужик-dim.nom.sg        и        женщина-dim.nom.sg
+‘Утром проснулись старик со старухой.’
+(34)        tal        taall                        l'ii                laammpas        por-maɲč        pugg
+вот        медведь.nom.sg        быть.npst.3sg        овца.acc.sg        есть-ptcp.pst        весь
+‘[Видят] вот съел медведь всех овец.’
+(35)        sɨjj                al'k-es                        koč-s-en                ton-st                m’ii                
+3pl.nom        сын.acc.sg-poss3        звать-pfv2-pst.3pl        2sg-loc                что.nom.sg        
+l'ii                pampel'-e(j)t                l'eešt-aɲč                pugg        laamps-e(j)t        
+быть.npst.3sg        чудовище-acc.pl        пустить-ptcp.pst        весь        овца-acc.pl        
+por-e
+есть-pst.3sg
+‘Они позвали своего сына, что ты за чудовище впустил, всех овец съел.’
+(36)        sonn                poage        voal't-e                pampel'-es                        voal't-e                ja        
+3sg.nom        прочь        брать-pst.3sg        чудовище.nom.sg-poss3        брать-pst.3sg        и        
+vaan'c-el'-(e)                        vaarr-a                koze        vuejjv                kuent
+идти_пешком-pfv1-pst.3sg        лес-dat.sg        куда        голова.nom.sg   нести.npst.3sg
+‘Он прочь взял свое чудовище, взял и пошёл в лес, куда может унести.’
+(37)        vaan’c’-e                         vaarr-a 
+идти_пешком-PST.3SG        лес-DAT.SG
+‘Пошёл в лес’
+(38)        tal’         v’iil’l’k’-es’         k’eeddk-a
+вот        белый-ADJ        камень.NOM.SG
+‘Вот белый камень’
+(39)        sonn                 voal’l’t’                                         
+3SG.NOM        брать.NPST.3SG                
+‘Он взял,’
+(40)        k’eedk-a                lɨgg-x-ell-škuadd
+камень.ACC.SG        двигаться-CAUS-IPFV2-INCH.NPST.3SG
+‘камень подвинет
+(41)        tal’         ɨd’d’-en’         t’eeɲ’k         k’eedk-a                 vuul’l’n
+        вот        виднеться-PST.3PL        деньги.NOM.PL        камень.GEN.SG-DIM        под.LOC
+‘Вот, деньги виднеются под камнем’
+(42)        sonn                 jurrt                         saam-l'anč
+3SG.NOM        думать.NPST.3SG        саам-DIM.NOM.SG
+‘Он, саамский парень, думает,’
+(43)        el’l’a         kooxxt        soagg-e(δ)
+        NEG.NPST.3SG.быть        как        поймать-INF
+‘Никак не достать!’
+(44)        voan’n’c’-el’                                 kuadd-a-s’
+идти_пешком-PFV1.PST.3SG        вежа-DAT.SG-POSS3
+“Пошёл до вежи своей”
+(45)        meen-e(j)                 kuadd-a-s’
+        идти-PST.3SG        вежа-DAT.SG-POSS3
+        ‘Пришёл в вежу’
+(46)        ruuv’t                        kuajv                         taak-eht’
+железо.GEN.SG        лопата.ACC.SG        точить-CAUS2.PST.3SG
+‘Велел железную лопату наточить’
+(47)        puud’d’-en’
+        принести-PST.3PL
+        ‘Принесли’
+(48)        ruuv’t                        kuajv                         kuut’-as         kuun’n’t-en’
+        железо.GEN.SG        лопата.ACC.SG        два-COLL        нести-PST.3PL
+        ‘Железную лопату вдвоём несли’
+(49)        sonn                 taab-ed’d'                         kuajv                         eft-en’                         
+        3SG.NOM        хватать-MID.PST.3SG        лопата.ACC.SG        один-COM.SG        
+kiid-en’
+рука-COM.SG        
+        ‘Он схватил лопату одной рукой’
+(50)        čec’k’-e
+        бросить-PST.3SG
+        ‘Подбросил’
+(51)        kooz         k’iidd                         kuennt
+        куда        рука.NOM.SG                нести.NPST.3SG
+        ‘Сколько руки хватило’
+(52)        pak-e(j)                 avvta         kuajv                         taahk-e(δ)
+        просить-PST.3SG        опять        лопата.ACC.SG        точить-INF
+        ‘Попросил опять лопату поточить’
+(53)        tal’         pɨht-en’                 kolmas         ruuv’t                         kuajv         
+        вот        нести-PST.3PL        третий                железо.GEN.SG        лопата.ACC.SG
+saam-l’eɲč-e
+саам-DIM-DAT.SG
+‘Вот принесли саамскому парню третью железную лопату’
+(54)        sonn                 taab-ed’d’-e                         kuajv                         eft-en’         
+        3SG.NOM        хватать-MID-PST.3SG        лопата.ACC.SG        один-COM.SG
+kiid’-en’                
+рука-COM.SG        
+‘Он схватил лопату одной рукой’
+(55)        c'aal̥l̥k: 
+сказать.PST.3SG
+‘Сказал’
+(56)        k’eehps-ehk(e)                 v’aala         l’ii
+        лёгкий-CAUS-PST.2SG        ещё        быть.NPST.3SG
+        ‘Немного слишком легкая’
+(57)        tugg                 c'iil̥l̥k-en’:
+тот.NOM.PL        сказать-PST.3PL
+‘Те сказали’
+(58)        vaj         meejt                 jaaras                         pɨdd
+        или        что.ACC.PL        другой.ACC.PL        принести.IMP
+        ‘Может, какие другие принесёшь?’
+(59)        sonn                 c'eel̥k-e(j)
+3SG.NOM         сказать-PST.3SG
+‘Он сказал’
+(60)        iib’e
+        не_нужно
+        ‘Не надо’
+(61)        sonn                 voal’t-e                 kuajv
+        3SG.NOM        брать-PST.3SG         лопата.ACC.SG
+        ‘Взял лопату’
+(62)        vaan'c-el'-(e)                                 v’iil’k’-es’         k’eedk-a                 kuajjv-e(δ)
+        идти_пешком-PFV1-PST.1SG        белый-ADJ        камень.ACC.SG-DIM         копать-INF
+        ‘Пошёл подкапывать белый камень’
+(63)        kuajjv-guud’-e 
+        копать-INCH-PST.3SG
+        ‘Начал копать(?)’
+(64)        ja         kuajv-es’                         i         mur’t’-e
+        и        лопата.ACC.SG-POSS3        и        ломать-PST.3SG
+        ‘И лопату свою сломал
+(65)        dɨ         moaze         vaan'c-el'-(e)
+        ну_и        обратно        идти_пешком-PFV1-PST.3SG
+        ‘Ну, он обратно пошёл’
+(66)        meen-e                 kuadd-a-s’
+идти-PST.3SG        вежа-DAT.SG-POSS3
+‘Пришёл в вежу свою’
+(67)        avvta         kuajjv-a                 taahk’-eš                 pɨht’-en’                 vɨdd-s                 
+        опять        лопата-DIM.ACC.SG        точить-PST.IPS        принести-PST.3PL        пять-COLL        
+kuajv
+лопата.ACC.SG
+        ‘Опять лопату точили, принесли впятером лопату’
+(68)        son                 taab-ed’ 
+        3SG.NOM        хватать-CAUS2.PST.3SG
+        ‘Он схватил’
+(69)        c'aal̥l̥k
+        сказать.NPST.3SG
+        ‘Говорит’
+(70)        oxo tel’         jesk                 mun-e                 m’iil’l’te         l’ii
+        ого вот                теперь                1SG-GEN        по                быть.3SG.NPST
+        ‘Ого, вот теперь по мне!’
+(71)        avvta         vuul’k-e(j)                 v’iil’g’-es’         k’eeddk-e                 kuajjv-e(δ)
+        опять        пойти-PST.3SG        белый-ADJ        камень.ACC.SG         копать-INF
+        ‘Опять пошёл белый камень подкапывать’
+(72)        aajj-a-s’                                 jaal-a                                 ooʒ
+        дед-DIM.GEN.SG-POSS.3                собственность-ACC.SG        искать.npst.3sg        
+        ‘Ищет сокровища деда’
+(73)        kuajjv-e(j)
+        копать-PST.3SG
+        ‘Копал’
+(74)        kuajjv-e(j)
+        копать-PST.3SG
+        ‘Копал’
+(75)        dɨ         soag-e                 t’iiŋ’k’-et’ 
+        ну_и        поймать-PST.3SG        деньги-ACC.PL        
+        ‘Ну и достал деньги’
+(76)        tal’         uš         l’ii                         aajj-as’                 jaall
+        вот        уж        быть.NPST.3SG        дед.NOM.SG-POSS3        собственность.NOM.SG
+        ‘Вот уж есть у него дедушкины сокровища’
+(77)        nu         moast                 vaan’n’c-el’-(e)
+        ну        обратно        идти_пешком-PFV1.PST.3SG
+        ‘Ну, он обратно пошёл’
+(78)        meen-e(j)                 kued’(e)                 guurre-s’
+        идти-PST.3SG        вежа.GEN.SG                около.DAT-POSS.3
+        ‘Прошёл около вежи’
+(79)        taal’(e)         olm-eɲč                         ɒrr
+        вот                человек-DIM.NOM.SG        сидеть.NPST.3SG
+        ‘Вот человек сидит’
+(80)        c'aal̥l̥k:
+        сказать.NPST.3SG
+        ‘Говорит’
+(81)        kos’te        voard-ek?
+        где        побывать-PST.2SG
+        ‘Где ты был?’
+(82)        aajj-a-n                         jaal                                 ooʒ-men’ 
+Дед-DIM.GEN.SG-POSS.1         собственность.ACC.SG        искать-PTCP1        
+paal̥’l̥’k’-t-uvv                         mɨn’n’-e         kaazx-en’
+плата-CAUS-PASS.IMP.SG         1SG-DAT        слуга-ESS
+‘Наймись ко мне в батраки искать сокровища моего деда’
+(83)        no        sonn                 oašte                         paal̥’l̥’k’-t-uvv
+        ну         1SG.NOM         действительно        плата-CAUS-PASS.NPST.3SG
+        ‘Он действительно нанимается’
+(84)        meenn-en’                 kuadd-a
+идти-PST.3PL         вежа-DAT.SG
+‘Они пришли в вежу’
+(85)        pɨjj-eš                         sɨjj-e                 poorr-e
+класть-PST.IPS         3PL-DAT        есть-INF        
+‘Кушать им положили’
+(86)        poorr-en’
+        есть-PST.3PL
+        ‘Они поели’
+(87)        k’iirrkn-en’
+        быть_готовым-PST.3PL
+        ‘Закончили’
+(88)        l’iixxt-en’                 olk-es 
+        выйти-PST.3PL        на_улицу-ADV
+        ‘Вышли на улицу’
+(89)        meenn-en’                 p’iillt-e
+        идти-PST.3PL                лужайка-DAT.SG
+        ‘Пришли на лужайку’
+(90)        tal’e                 čoogg-čaan                         p’eel’l’k’
+        вот                острый-чёрт.GEN.SG                большой_палец.NOM.SG
+        ɲeel’l’j-lɒg’g’                 pudd-e
+        четыре-десять        пуд-PART
+        ‘Вот большой палец чёрта в сорок пудов’
+(91)        no         saam’m’-l'aɲč                 čac’c’k                 allm-a
+        ну        саам-DIM.NOM.SG        бросить.NPST.3SG        небо-DAT.SG
+        ‘Ну, саамский парень кидает [его]  в небо’
+(92)        sonn                 mann
+        3SG.NOM        идти.NPST.3SG
+        ‘Он летит’
+(93)        mann
+        идти.NPST.3SG
+        ‘Летит’
+(94)        čal’m’-es’t’                 kaadd
+        глаз-LOC.SG                теряться.NPST.3SG
+        ‘Скрывается с глаз’
+(95)        dɨ         moaz(e)         puadd
+        ну_и        обратно        прийти.NPST.3SG
+        ‘Ну и возвращается’
+(96)        nu         c'aal̥l̥k                         kaaz’x’-e-s’
+ну         сказать.NPST.3SG         слуга-DAT.SG-POSS-3
+‘Ну он говорит своему слуге’
+(97)        čac’c’k’                 tonn
+        бросать.NPST.SG        2SG.NOM
+        ‘Бросай, ты’
+(98)        tedd                         vaallt                         k’iidd-e-s’
+        этот.NOM.SG                брать.NPST.3SG        рука-DAT.SG-POSS3
+        “Этот берёт его в руку”
+(99)        taaht                         čac’c’k’-e(δ)
+        хотеть.NPST.3SG        бросить-INF
+“Хочет бросить”        
+(100)        ɒrr
+        сесть.NPST.3SG
+        ‘Сидит’
+(101)        allm-a                 k’iihč
+        небо-DAT.SG        смотреть.NPST.3SG
+        ‘Смотрит в небо’
+(102)        saam’-l’a                 c'aal̥l̥k
+        саам-DIM.NOM.SG        сказать.NPST.3SG
+‘Саам говорит’        
+(103)        meejt                         k’iič-ax
+        что.ACC.PL                смотреть-NPST.2SG
+        ‘Куда смотришь?’
+(104)        a         čoahp’-es’        peellv
+        а        чёрный-ADJ        облако.NOM.SG
+        ‘А черное облако…’
+(105)        kul
+        слышать.IMP.SG
+        ‘- cлушай -’
+(106)        puadd
+        прийти.NPST.SG
+        ‘...идет’
+(107)        ten                tuegga         paš-tx-e(δ)                         pɨht
+        тот.GEN.SG        за.DAT                держаться-CAUS-INF        принести.NPST.3SG
+        ‘За него я его и закреплю\заброшу’
+(108)        nu         sonn                 oaššte                         čec’k’-e
+        ну        3SG.NOM        действительно        бросить-PST.3SG
+        ‘Ну, вправду подбросил,’
+(109)        čec’k’-e(j)
+        бросить-PST.3SG
+        ‘подбросил,’
+(110)        peelv                         tuegga         paš’š’-en’
+облако.ACC.SG        за.DAT                держаться-PST.3PL
+‘[Большие пальцы черта] за облако уцепились’
+(111)        no         pugg
+ну        весь
+‘Ну, всё’

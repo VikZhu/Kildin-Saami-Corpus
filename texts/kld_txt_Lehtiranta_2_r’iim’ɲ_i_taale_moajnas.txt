@@ -1,0 +1,231 @@
+﻿(1)        r’iim’ɲ                i        taal-(e)                         moajnas
+        лиса.gen.sg        и        медведь.gen.sg        сказка.nom.sg
+(2)        jeerrka                kaal’l’es                        vuj-e(j)[a]                kuul’l’-k’eer’r’s-en        
+        давно                мужик.nom.sg                плыть-pst.3sg                рыба-керёжа-com.sg
+        ‘Давным-давно ехал мужик на рыбных санях’
+(3)        kuuht’                kuul’l’-k’eer’r’es                l’iijj-en
+        два.nom        рыба-керёжа.?.sg        быть-pst.3pl
+        ‘Рыбных саней было двое’
+(4)        kaal’l’es                vuj-e(j)                vuj-e(j)                
+        мужик.nom.sg        плыть-pst.3sg        плыть-pst.3sg        
+        ‘Мужик ехал, ехал’
+(5)        k’aačč
+        смотреть.npst.3sg
+        ‘Видит’
+(6)        r’iim’m’ɲ        l’aašš        
+        лиса.nom.sg        лежать.npst.3sg
+        ‘Лиса лежит’
+(7)        kaal’l’es’        voal’t-e(j)        r’iim’ɲ                        
+        мужик.nom.sg        взять-pst.3sg        лиса.acc.sg
+        ‘Мужик взял лису’
+(8)        pɨj-e(j)        vujj-em        k’eer’r’es                l’eek’k’-e
+        класть-pst.3sg        плыть-ptcp2        керёжа.gen.sg                спинка-dat.sg
+        ‘Положил на спинку саней’
+(9)        vuj-est                        vuj-est                        
+        плыть-pfv2.pst.3sg        плыть-pfv2.pst.3sg
+        ‘Ехал, ехал’
+(10)        vɨl’š-eht
+        взглянуть-caus.pst.3sg
+        ‘посмотрел:’
+(11)        r’iim’m’ɲ        l’ii                keerrkt-eɲǯ
+        лиса.nom.sg        быть.npst.3sg        падать-ptcp.pst
+        ‘Лиса упала’        
+(12)        kaal’l’es                jeesk-e(j)                i        moac’-e(j)                
+        мужик.nom.sg        остановиться-pst.3sg        и        вернуться-pst.3sg
+        ‘Мужик остановился, вернулся’
+(13)        vaan’n’c-el        moast        čuukk-e                m’iil’l’te        
+        идти-pfv.pst.3sg        назад        дорога-gen.sg        по
+        ‘Поехал назад по дороге’
+(14)        koavn-e(j)        r’iim’ɲ-es
+        найти-pst.3sg        лиса.acc.sg-poss3
+        ‘Нашёл свою лису’   
+(15)        vaan’n’c-el                moast                                
+        идти-pfv.pst.3sg        назад
+        ‘Прошёл назад’
+(16)        vɨγ-e(j)                        r’iim’ɲ
+        отнести-pst.3sg                лиса.acc.sg
+        ‘Взял лису’
+(17)        pɨj-e(j)        maŋ’ŋ’-k’eer’r’s-a        i        vujj-el
+        класть-pst.3sg        задний-керёжа-dat.sg        и        плыть-pfv.pst.3sg
+        ‘Положил сзади саней и поехал’
+(18)        vuj-e(j)                vuj-e(j)
+        плыть-pst.3sg        плыть-pst.3sg
+        ‘Ехал-ехал’
+(19)        r’iim’m’ɲ        koac’k-ej        puacckas                rast                jeer’k-est
+        лиса.nom.sg        кусать-pst.3sg        поводья(?).acc.sg        поперёк        бык-loc.sg
+        ‘Лиса перекусила поводья оленя’
+(20)        jeer’r’k                suurrk-en                        
+        бык.nom.sg        пугаться-punct.pst.3sg
+        ‘Олень испугался’
+(21)        vuagg-el                i        k’iič-n-add
+        бежать-pfv.pst.3sg        и        смотреть-ipfv-mid.npst.3sg
+        ‘Побежал, оглядывается(?) (у Итконена по-немецки: “тайком оглянулся”?)’
+(22)        eevvt-jeer’r’k                pe’l-t-e(j)        
+        передний-бык.nom.sg        бояться-caus-mid.pst.3sg        
+        ‘Передний олень испугался’
+(23)        i        kacc-n-en
+        и        мчаться-punct-pst.3pl
+        ‘И они пустились бегом’
+(24)        keer’r’-en        keer’r’-en
+        бежать-pst.3pl        бежать-pst.3pl
+        ‘Бежали они, бежали’
+(25)        kaalls-eɲǯ                revv-ej                        vesst        muurr-e(ẟ)                
+        мужик-dim.nom.sg        влететь-mid.pst.3sg        об/к        дерево-dat.sg        
+        ‘Мужика бросило на дерево’
+(26)        i        čuš’š’                pes’t-e(j)                muur’r’-e
+        и        сильно(?)        воткнуться-pst.3sg        дерево-dat.sg
+        ‘И он влетел с него со всей силы’
+(27)        kaalls-eɲǯ                kuud’-e(j)                l’eešš-eẟ
+        мужик-dim.nom.sg        оставить-(mid.)pst.3sg        лежать-inf
+        ‘Мужик остался лежать’
+(28)        a        r’iim’m’ɲ        voal’t-e(j)        kuul’-e(j)t        
+        а        лиса.nom.sg        взять-pst.3sg        рыба-acc.pl        
+        ‘А лиса взяла рыбу’
+(29)        kuunt-eč                vaarr-a
+        нести-suf.pst.3sg        лес-dat.sg
+        ‘Утащила в лес’
+(30)        i        iiǯ’ǯ’        jaall        
+        и        refl        жить.npst.3sg
+        ‘И живёт’
+(31)        taal’l’v-a        kɒš’š’k-kuul’-(e)                por-ss-all
+        зима-dat        сухой-рыба.acc.sg        есть-hab-pfv.npst.3sg
+        ‘Питается сушёной рыбой’’
+(32)        puud’d’-en        sun’n’-e        ɲuem’m’el        i        taall                        i        
+        прийти-pst.3sg        3sg-dat        заяц.nom.sg        и        медведь.nom.sg        и        
+        k’eet’t’k        kuess-a        i        k’eeǯ’ǯ’-ev
+        росомаха.nom.sg        гость-dat.sg        и        спросить-npst.3pl
+        ‘Пришли к ней в гости заяц, белка и росомаха и спрашивают’
+(33)        kas’t        ton(n)                с’aal̥l̥k                        kuul’-e(j)t        vaalе-ax
+        где        2sg.nom        говорить.npst.3sg        рыба-acc.pl        брать-npst.2sg
+        ‘Где ты, говорят, берёшь рыбу?’
+(34)        r’iim’m’ɲ        с’aal̥l̥k        
+        лиса.nom.sg        говорить.npst.3sg
+        ‘Лиса говорит’
+(35)        mun(n)                t’eellagast        vuaŋk-am        kuul’-(e)
+        1sg.nom        там                удить-npst.1sg        рыба-acc.sg
+        ‘Я там ловлю рыбу’
+(36)        taall                        k’eet’t’k                        i        ɲuem’m’el        saarrn-ev
+        медведь.nom.sg        росомаха.nom.sg        и        заяц.nom.sg        говорить-npst.3pl
+        ‘Заяц, медведь и росомаха говорят’
+(37)        с’aal̥l̥k
+        говорить.npst.3sg
+        ‘Говорят мол’
+(38)        no        vɨl’l’k-ep                vuaŋŋk-e(ẟ)
+        ну        пойти-npst.1pl        удить-inf
+        ‘Пойдём рыбачить’
+(39)        r’iim’m’ɲ                с’aal̥l̥k        
+        лиса.nom.sg        говорить.npst.3sg
+        ‘Лиса говорит’
+(40)        no        vɨl’l’k-ep                        с’aal̥l̥k        
+        ну        пойти-npst.1pl                говорить.npst.3sg
+        ‘Пойдём рыбачить’
+(41)        vɨl’l’k-en                vuaŋŋk-e(ẟ)
+        пойти-pst.3pl        удить-inf
+        ‘Пошли рыбачить’
+(42)        r’iim’m’ɲ        voal’t-ej                kuul’-(e)        s’eejp-es                vuella        
+        лиса.nom.sg        брать-pst.3sg        рыба-acc.sg        хвост.gen.sg-poss3        под.dat
+        ‘Лиса взяла рыбу под хвостом’
+(43)        meen’n’-en                        
+        идти-pst.3pl
+        ‘Они пошли’
+(44)        lɨk’k’-en                koal’l’t-e(j)t
+        делать-pst.3pl        прорубь-acc.pl        
+        ‘Сделали проруби’
+(45)        luuš’š’t-en        s’iijp-e(j)t        koal’l’t-(e)ja
+        пустить-pst.3pl        хвост-acc.pl        прорубь-dat.sg
+        ‘Опустили свои хвосты в прорубь’
+(46)        r’iim’m’ɲ        vuaŋk-e(j)                vuaŋk-e(j)
+        лиса.nom.sg        ловить.рыбу-pst.3sg        ловить.рыбу-pst.3sg
+        ‘Лиса ловила, ловила рыбу.’
+(47)        mɨn’n’-e                c’aal̥l̥k                        pɒbb-eht                        kuul’l’
+        1sg-dat                говорить.npst.3sg        попасть-caus(?).pst.3sg        рыба.nom.sg
+        ‘Мне, говорит, попалась рыба.’
+(48)        voal’t-e                s’eejp-es                paj-ent                                
+        брать-pst.3sg        хвост.acc.sg-poss3        верх-vblz.pst.3sg        
+        ‘Вытащила свой хвост’
+(49)        por-škuuẟ’-e                kuul’-(e)
+        кушать-inch-pst.3sg        рыба-acc.sg
+        ‘Начала есть рыбу.’
+(50)        porr                        kuul’-(e)
+        кушать.npst.3sg        рыба-acc.sg
+        ‘Ест рыбу.’
+(51)        taall                         saarrn                                        
+        медведь.nom.sg        говорить.npst.3sg        
+‘Медведь говорит’
+(52)        meejt        mɨjj-e        ejj        pɒbb-eht
+        почему        1pl-dat        neg.3sg        попасть-caus.npst.cng        
+        ‘“Почему у нас не ловится?”’
+(53)        r’iim’m’ɲ        saarrn                                
+        лиса.nom.sg        говорить.npst.3sg        
+        ‘Лиса говорит’
+(54)        tɨj(j)        jebbe        maat’        vuaŋŋk-e(ẟ)
+        2pl.nom        neg.2pl        уметь.npst.cng        ловить.рыбу-inf
+        ‘“Вы ловить не умеете”’
+(55)        tɨj(j)                c’aal̥l̥k                        iššt-e        koal’l’te                eel                        
+2pl.nom        сказать.npst.3sg        сесть-imp.pl        прорубь.gen.sg                на.dat        
+        ‘“Вы, говорит, садитесь на прорубь”’
+(56)        i        jel’l’e                lɨgg-x-ell-e                                s’eejp-e(j)t-ant        
+        и        proh.pl                шевелиться-caus(?)-suf-imp.pl        хвост-acc.pl-poss2
+        ‘“И не шевелите своими хвостами”’
+(57)        tanna        c’aal̥l̥k                        pɒbb-aht                        kuul’l’
+        тогда        говорить.npst.3sg        попасть-caus(?).npst.3sg        рыба.nom.sg
+        ‘“Тогда, говорит, попадётся рыба”’
+(58)        no        taall                        k’eet’t’k                        ja        ɲuem’m’el        
+        ну        медведь.nom.sg        росомаха.nom.sg        и        заяц.nom.sg
+        oorr-en                oorr-en
+        сидеть-pst.3pl        сидеть-pst.3pl
+        ‘Медведь, росомаха и заяц сидели, сидели’
+(59)        taall                        lɨgg-s-es’t-e(j)
+        медведь.nom.sg        шевелиться-suf-pfv2-pst.3sg
+        ‘Медведь двинулся’
+(60)        meejt-l’aa-ɲɲǯ                must        s’eejjp                ejj                lɨgg-ent
+        почему-indef.ref        1sg.loc        хвост.nom.sg        neg.3sg                шевелиться-punct.npst.cng
+        ‘“Почему-то у меня хвост не шевелится”’
+(61)        ɒr-s-eg’g’e(ẟ)                v’aal        saẟa         
+        сидеть-pfv2-imp.pl        ещё        немного
+        ‘Посиди ещё немного; - тогда рыба лучше пойдёт и прицепится’
+(62)        s’eejjp        ejj        lɨgg-n-eškued’-(e)
+        хвост.nom.sg        neg.3sg        шевелиться-suf-inch.npst.cng
+        ‘Хвост не будет двигаться’
+(63)        tanna        kuul’l’        par-amp        puadd                i        ɲaaʒʒ
+        тогда        рыба.nom.sg        лучше-comp        прийти.npst.3sg        и        вцепиться.npst.3sg
+        'Тогда лучшая рыба придёт и вцепится'
+(64)        taall                        i        k’eet’t’k                        i        ɲuem’m’el        
+        медведь.nom.sg        и        росомаха.nom.sg        и        заяц.nom.sg
+        ɒrr-guud’d’-en        
+        сидеть-inch-pst.3pl
+        ‘Медведь, росомаха и заяц засели’
+(65)        oorr-en                oorr-en                i        r’iim’m’ɲ        c’aal̥l̥k
+        сидеть-pst.3pl        сидеть-pst.3pl        и        лиса.nom.sg        сказать.npst.3sg
+        ‘Сидели, сидели, и лиса говорит’
+(66)        t’eelle        eellm-olm-eɲǯ                                puadd
+        вон        настоящий-человек-dim.nom.sg        прийти.npst.3sg
+        ‘Вон идёт настоящий человек’
+(67)        taall                        ɲuč’č’k-ej        
+        медведь.nom.sg        прыгать-antic.pst.3sg
+        ‘Медведь подскочил’
+(68)        s’eejjp                kuedd-ej                koal’l’t(e)-ja
+        хвост.nom.sg        оставить-antic.pst.3sg        прорубь-dat.sg
+        ‘Хвост остался в проруби’
+(69)        k’eet’t’k                        ɲuč’č’k-ej                        
+        росомаха.nom.sg        прыгать-antic.pst.3sg
+        ‘Росомаха подскочила
+(70)        k’eet’k-est                meen-e(j)        s’eejjp                rast
+        росомаха-loc.sg        идти-pst.3sg        хвост.nom.sg        поперёк
+        ‘У росомахи хвост оторвался’        
+(71)        ɲuem’m’el        ɲuč’č’k-ej
+        заяц.nom.sg        прыгать-dec.pst.3sg        
+        ‘Заяц прыгнул’
+(72)        s’eejjp                rast
+        хвост.nom.sg        поперёк
+        ‘Хвост прочь’
+(73)        ten(n)                kuejjke        l’ii                taal-est                ja        k’eet’k-est                ja
+        этот.gen.sg        из_за        быть.npst.3sg        медведь-loc.sg        и        росомаха-loc.sg        и
+        ɲuem’m’l-est        vuen’ex                s’eejjp                čte        s’eejp                        
+        заяц-loc.sg        короткий        хвост.nom.sg        что        хвост.nom.pl        
+        kuedd-(e)j-en                jaavvr-a
+        оставить-antic-pst.3pl        озеро-dat.sg        
+        ‘Потому у медведя, росомахи и зайца (и) короткий хвост, что хвост они оставили в озере’
+(74)        moajnas        puuẟ’-e(j)
+        сказка.nom.sg        кончиться-pst.3sg
+        ‘Вот и сказочке конец’

@@ -1,0 +1,163 @@
+﻿
+(1)         l’ai                 sām’                 oлmɛ
+быть.pst.3sg         саами.gen.pl         человек
+‘был саамский человек’
+(2)         kohč-eš́         L’ain
+звать-ipc         Ляйн
+‘звали его Ляйн’
+(3)         sonn              pirsɛn-ɛs’
+он                 семья-loc.sg
+‘он жил с семьей’
+(4)         ɛxt         al’l’k         l’ai
+один быть.pst.3sg        cын.nom.sg
+         ‘был у них один сын’
+(5)         sonn                 mehc-e-d˙ 
+3sg.nom         охотиться-pst.3sg-caus1 
+‘Он охотился’
+(6)         ja         kūl’                 nūti
+и         рыба.acc.sg         ловить.рыбу
+‘И ловил рыбу’ 
+(7)         tɛ-in˙                 dɛl’i         portuvv-en˙
+это-com         вот         кормиться-pst.3pl
+‘этим и питались’
+(8)         tɛi         bale                 ruc                 jennɛ         såm-i͔t˙         kont-l’-i͔n˙ 
+этот         во.время         враг.nom.pl         много         саам-acc.pl         убить-attn-3pl.pst
+‘тогда шведы много саамов убивали’
+(9)        ex’x’tɛš́         pud˙d˙-i͔n˙         jennɛ         ruhc-e
+однажды         прийти-3pl.pst         много         враг-gen.pl
+        ‘однажды пришло много шведов’
+(10)         si͔i                 kɛdž-ɐv:
+3pl.nom         спросить-3pl.npst
+‘они спрашивают’
+(11)         „kas’t˙ li                 L’ain         ja         man’tɛ-m’         sonn                 li?”
+где         быть.npst.3sg         Ляйн         и         какой-?                3sg.nom         быть.npst.3sg
+‘Где Ляйн и какой он [из себя]?’
+(12)         L’ain         si͔ije         mainsi-škud˙-i:
+Ляйн         3pl.ill         отвечать-3sg.npst
+‘Ляйн им отвечает’
+(13)         „sonn         li                 muggɛ,         man’tɛ-m’         mu͔nn         l’a, 
+3sg.nom        быть.npst.3sg         такой                 какой                 1sg.nom        быть.npst.1sg
+‘он такой же как я’
+(14)      ni̮tše                 paŋk simn-ɛn˙                 råŋŋk                 muggɛ šɛ,        man’tɛm’         mu͔nn 
+такой.же      ?   бакенбарды-com.sg         круглый                                 такой же         какой                 1sg.nom        
+l’a 
+быть.npst.1sg
+‘борода у него такая же круглая как у меня’
+(15)       sonn                 vål’ti͔                 ɛl’k-i͔                 sinɛt˙         kusx-ɛ
+3sg.nom         взять-pst.3sg         начать-pst.3sg         3pl.acc         угощать-inf
+‘он стал их угощать’
+(16)         v’ār                 ki̮pt-i͔                 šur                 ci̮hci̮m         kimn’-i͔s’
+суп.acc.sg         варить-pst.3sg         большой         красильный         котел-loc.sg
+‘сварил суп в большом котле для окраски сетей’
+(17)         kuɛs’s’         v’arr-ɛn˙         ki̮pt-i͔                 pɛr’mi̮s’         jaлovɛ
+когда                 суп-сom.sg         варить-pst.3sg         лучший         яловка
+‘суп [для гостей] сварил из самой лучшей яловки’
+(18)         ki̮pt-i͔                 v’ār                 pi̮je                 porr-ɛ
+варить-pst.3sg         суп.acc.sg         класть-pst.3sg          есть-inf
+‘сварил суп, поставил есть’
+(19)         idž-ɛs’-es’         kiz-e                 pɛr’a perk
+refl-poss.3sg-loc         тащить-pst.3sg         очень         еда
+‘себе положил лучшую еду’
+(20)         pirras                 pāk-ɛ                 uīt-ɛ                 oлk-ɛs                 ja         påčk-ɛ
+семья.acc.sg         велеть-pst.3sg         уйти-inf         улица-loc.sg         и         убежать-inf
+‘семье велел выйти на улицу и убежать’
+(21)         uks                 ɛ̄л         pak-ɛ                 pi̮ij-e                 šur                 kɛлd
+дверь.acc.sg         на         велеть-pst.3sg         класть-inf         большой         палка.acc.sg
+‘на дверь велел положить большое бревно’
+(22)         ɛl’k-ɛn˙ porr-ɛ rūc
+начать-pst.3pl есть-inf враг.nom.pl
+‘Шведы начали обедать’
+(23)         čūd˙cuer’r’v’         ɛлt-ɛ-n˙                 val’l’t-ɛ         kahcad
+предводитель         подойти-pst.3sg-punct         взять-inf         кусок.acc.sg
+‘Предводитель приблизился взять самое жирное мясо’
+(24)         tɛs’t˙         L’ain                 šur                 ni̮ip-ɛn˙         ter̭pe                 cep-ɛt˙                 
+тут         Ляйн.nom.sg         большой         нож-com.inst         рубить-pst.3sg         палец-acc.pl 
+čūd˙čur’v’-i̮s’
+предводитель-loc.sg
+‘Тогда Ляйн большим ножом отрубил пальцы предводителю’
+(25)         tɛl’         tab-ɛt˙                 ruhcлa         jul’k-ɛn˙         ja         c’aḽḽk:
+вот         схватить-pst.3sg        швед.acc.sg         нога-loc.sg         и         говорить.nps.3sg
+‘Потом схватил шведа за ноги и говорит:’
+(26)         „jebb̭e        linč                 uin-ma         L’ain                dak         tɛl’         sonn                 i 
+neg.2pl         быть.ptcp3         видеть-ptcp.pst         Ляйн.acc.sg         дак         вот        он.nom.sg         и 
+li”
+есть.npst.3sg
+‘Если не видели Ляйна, вот он’
+(27)         i         ɛl’k-i͔                 sin-ɛt˙                 kån’n’t-ɛ
+и         начать-pst.3sg         они-acc.pl         убивать-inf
+‘и он стал их убивать’
+(28)         puk-i̮t                 kån’t-ɛ                 kuɛd˙                 si̮z’n’
+весь-acc.pl         убить-pst.3sg         вежа.gen.sg         внутри
+‘всех внутри вежи убил’
+(29)         oлmɛ-dḓɛ         l’ai                 n’el’jлåg’g̭’         v’er’tɛ
+человек-part         быть.pst.3sg         сорок                 приблизительно
+‘человек сорок было’
+(30)         s’agлɛssɛ         kån’t-ɛ                 al’k-as’
+вперемешку         убить-pst.3sg         сын.acc.sg-poss3
+‘по ошибке убил своего сына’
+(31)         kuɛs’s’        tabhuv-e                 ɛl’k-i͔                 pirs-es                         odz-e:
+когда         спохватиться-pst.3sg         начать-pst.3sg         семья.acc.sg-poss3         искать-inf
+‘когда очнулся, стал искать семью’
+(32)         a'h’k-is’                 pud˙-i͔,                 alk-es’                 al’l’a                 nikas’t˙
+жена.nom.sg-poss3         прийти-pst.3sg         сын.gen.sg-poss3         neg.npst.3sg         нигде
+‘жена пришла, а сына нигде не было’
+(33)         odz-kud˙d˙-i͔n˙                 kånnt-a         ruc-ɛ                 si̮z’n’
+искать-inch-pst.3pl         убить-ptcp.pst         швед-gen.pl         внутри
+        ‘стали искать среди убитых шведов’
+(34)         alk-es’                 kåvn-ɛn˙         tampɛ         kånnt-a
+сын.acc.sg-poss3         найти-pst.3pl         там         убить-ptcp.pst
+        ‘сына нашли там убитым’
+(35)         alk-e̮s’                 ruhk’-en˙
+сын.acc.sg-poss3         хоронить-pst.3pl
+        ‘сына похоронили’
+(36)         ɛl’k’-i͔n˙         kuext-as         jel’l’-e
+начать-pst.3pl          два-coll                 жить-inf
+        ‘начали вдвоем жить’
+(37)         mudḓa        saij-es’t         лi̮kk-ɛ                 pi̮rr         kuɛd˙                 krepas’t˙         mur-ɛn˙
+другой         место-loc.sg         делать-pst.1sg         вокруг         вежа.gen.sg          крепость.acc.sg         дерево-com.sg
+        ‘на другом месте сделал вокруг вежи крепость из деревьев’
+(38)         ahk-es’                 kudd-i̮-i                 kuadḓ-a         jel’l’-e
+жена.nom.sg-poss3         оставить-pst.3sg-mid         вежа-ill.sg         жить-inf
+        ‘его жена осталась жить в веже’
+(39)         a         idž         vul’k-i                 m’ahc-a
+а         сам         пойти-pst.3sg         охота-ill.sg
+        ‘а сам пошел на охоту’
+(40)        kuɛs’s’         mec’-ɛs’         pud˙-i͔
+когда         охота-loc.sg         прийти-pst.3sg
+‘когда с охоты пришел’
+(41)        ahk-es’                 al’l’a
+жена.nom.sg-poss3         neg.npst.3sg
+‘жены нет’
+(42)        kuɛd˙                 li                 puk         murrt-a
+вежа.nom.sg         быть.npst.3sg         весь         сломать-ptcp.pst
+‘вежа вся сломана’
+(43)        sonn                 ar’v-e-d˙:
+3sg.nom.sg         догадаться-pst.3sg-1caus
+‘он догадался’
+(44)        rūc                 uit-ɛn˙                 ak-es’                         ja         mur’r’t-ɛn˙         kuɛd˙
+швед.nom.pl         увести-pst.3pl         жена.acc.sg-poss3         и         сломать-pst.3pl         вежа.acc.sg
+‘шведы увели жену и сломали вежу’
+(45)        sonn                 s’ent-ɛ 
+3sg.nom.sg         рассердиться-pst.3sg 
+‘он рассердился’
+(46)        i         jodd-ɛ-i                         ak-es’                         odz-ɛ
+и         отправить-pst.3sg-mid                 жену.acc.sg-poss3         искать-inf
+‘и         отправился искать жену’
+(47)        i         kas’t˙         ruc-ɛt˙                 kåvvn
+и         где         швед-acc.pl         найти.npst.3sg
+‘и где шведов найдет’
+(48)        tɛit                 i         kånnt
+этот.acc.pl         и         убить.npst.3sg
+‘тех и убивает’
+(49)        ɛl’k̭-i͔                 jen-a                 i̮ij-e                 mil’tɛ         vodḓ-ɛt-ɛ
+начать-pst.3sg         много-comp         ночь-gen.pl         по         водить-caus1-inf
+‘он начал больше по ночам ходить’
+(50)        vån’c-i͔,         pud˙-i͔                 šur                 jāvr’                лuz,         kehč:
+идти-pst.3sg         прийти-pst.3sg         большой         озеро.gen.sg         рядом         смотреть.npst.3sg
+‘шел, подошел к большому озеру, смотрит’
+(51)        jāvr’                 tuggɛn˙         vez’da         pul’l’-ɐv         tōл
+озеро.gen.sg         за                 везде         гореть-npst.3pl         огонь.nom.pl
+‘за озером везде огни горят’
+(52)        i         sama         jen-mus         tōл                 pul’l’ɐv         suлл-ɛs’
+и         самый        много-sup         огонь.nom.pl         гореть-npst.3pl         остров-loc.sg
+‘а всех больше огней горит на острове’

@@ -1,0 +1,132 @@
+﻿(0)        kɒn’t                moajnas
+        дикий_олень.gen.sg        сказка.nom.sg
+        ‘Сказка о диком олене’
+(1)        aag’-est        l’aaj        kɒn’n’t                        kaalls-en
+        женщина-loc.sg        быть.pst.3sg        дикий_олень.nom.sg        мужик-ess
+        ‘У одной женщины был в мужьях дикий олень.’
+(2)        s’iin-en        šend-e(j)        paarš-eɲč
+        3pl-loc        стать-pst.3sg        мальчик-dim.nom.sg
+        ‘У них родился сынишка.’
+(3)        kɒn’n’t                vɨl’g-e(j)        m’aacc-a        
+        дикий_олень.nom.sg        пойти-pst.3sg        охота-dat.sg
+        ‘Дикий олень пошел на охоту.’
+(4)        i        saarrn        aakk-a-s
+        и        говорить.npst.3sg        женщина-dat.sg-poss3
+        ‘И говорит своей жене.’
+(5)        jeel’        pɨj(-e)        paarn-aj        kooɲɲč-tuul’j
+        proh.sg        класть.imp.sg        парень-dim.gen.pl        моча.nom.sg-шкура.acc.sg
+        vuus’s’tem-p’aall-a        kued’(-e)
+        встречный-сторона-dat.sg        вежа.gen.sg
+        ‘Не вешай обмоченную шкуру ребенка на подветренную сторону хижины.’
+(6)        pɨj-ax        vuus’s’tem-p’aall-a        kued’(-e)
+        класть-npst.2sg        встречный-сторона-dat.sg        вежа.gen.sg
+        ‘Если ты [ее] повесишь на подветренную сторону хижины.’
+(7)        egg        ujn        bol’še        muun(-e)
+        neg.2sg        видеть.npst.cng        больше        1sg.acc        
+        ‘Ты меня больше не увидишь.’ 
+(8)        aak’k’        pɨj-e(j)        vuus’s’tem-p’aall-a        kued’(-e)        
+        женщина.nom.sg        класть-pst.3sg        встречный-сторона-dat.sg        вежа.gen.sg
+        kooɲɲč-tuul’j
+        моча.nom.sg-шкура.acc.sg
+        ‘Женщина повесила обмоченную шкуру на подветренную сторону хижины.’
+(9)        kɒn’n’t                puud’-e(j)        m’eec’-est
+        дикий_олень.nom.sg        прийти-pst.3sg        охота-loc.sg
+        ‘Дикий олень пришел с охоты.’
+(10)        puud’-e(j)        m’iidm-eɲč-p’aall-a        kued’(-e)
+        прийти-pst.3sg        попутный-?-сторона-dat.sg        вежа.gen.sg
+        ‘Он пришел по ветру.’
+(11)        ap’s-ent
+        чуять-ipfv1.pst.3sg
+        ‘Принюхивался.’
+(12)        eellm-oollm-e        paar’n        kooɲɲč
+        настоящий-человек-gen.sg        парень.gen.sg        моча.nom.sg
+        ‘[Пахнет как] моча настоящего человеческого ребёнка.’
+(13)        kɒn’n’t        paj        čusk-ent        
+        дикий_олень.nom.sg        всегда        фыркать-punct.pst.3sg                
+‘Дикий олень только фыркнул.’
+(14)        t’eerr-el
+        бежать-pfv1.pst.3sg
+        ‘Помчался [галопом прочь].’
+(15)        kɒn’n’t-paar’r’n        vel’l’-ej        
+        дикий_олень.nom.sg-парень.nom.sg        вскочить-acaus.pst.3sg
+‘Ребенок дикого оленя вскочил.’
+(16)        m’iil’l’te        karr-el
+        по        бежать-pfv1.pst.3sg
+        ‘Побежал [вслед за отцом].’
+(17)        eellm-oollm-e        aak’k’        vel’l’-ej        
+        настоящий-человек-gen.sg        женщина.nom.sg        вскочить-acaus.pst.3sg
+        ‘Человеческая женщина вскочила.’
+(18)        c’aal̥l̥k
+        сказать.npst.3sg
+        ‘Говорит.’
+(19)        paarn-ɲ-am        paarn-ɲ-am        kooz        tun(n)        vɨl’l’g-ex
+        парень-dim-poss1        парень-dim-poss1        куда        2sg.nom        пойти-pst.2sg
+‘Мой сыночек, мой сыночек, куда ты пошел?’
+(20)        kooz        kuud’d’-ex        jaan-ant        ɲiɲč
+        куда        оставить-pst.2sg        мать.gen.sg-poss2        грудь.acc.sg
+‘Зачем ты покидаешь грудь твоей матери?’
+(21)        jeel’        c’aal̥l̥k        alk-ɲ-am        meen(-e)        až’-ant        
+        proh.sg        сказать.npst.3sg        сын-dim-poss1        идти.imp.sg        отец.gen.sg-poss2
+        m’iil’l’te
+        по
+        ‘Не ходи, мой сыночек, — говорит она, — за твоим отцом.’
+(22)        tela-gast        l’ii        jeenn-s-ant        ɲiɲɲč        i
+        вот-где        быть.npst.3sg        мать-loc-poss2        грудь.nom.sg        и
+        num’m’p
+        второй
+        ‘Здесь [один] сосок твоей матери и другой.’’
+(23)        ibe        mɨn’n’-e        tuun        ɲiɲɲč        
+        не_нужно        1sg-dat        2sg.gen        грудь.nom.sg
+‘Мне не нужен ни [один] твой сосок.’
+(24)        ibe        num’m’p
+        не_нужно        второй
+        ‘Ни другой не нужен.’
+(25)        kuedd-aj        tun’n’-e                  kooɲɲč-kuun’n’        i
+        оставить-acaus.npst.3sg        2sg-dat        моча.nom.sg-вагина.nom.sg        и
+        kooɲɲč-tuul’l’j
+        моча.nom.sg-шкура.nom.sg
+        ‘Тебе остается полная мочи вагина и обмоченная шкура.’
+(26)        kooz        vɨl’k-e(j)        muun(-e)        aǯ’
+        куда        пойти-pst.3sg        1sg.gen        отец.nom.sg
+        ‘Куда мой отец пошел.’
+(27)        tɒge        ša        i        mun(n)        vɨlg-am        vuagg-eẟ
+        туда        же        и        1sg.nom        пойти-npst.1sg        бежать_рысью-inf
+        ‘Туда и я пойду.’
+(28)        jeen’n’-es’        c’aal̥l̥k
+        мать.nom.sg-poss3        сказать.npst.3sg
+        ‘Его мать говорит.’
+(29)        vuag(-e)        c’aal̥l̥k        alk-ɲ-am        t’iirrvs-e
+        бежать_рысью.imp.sg        сказать.npst.3sg        сын-dim-poss1        здоровье-dat.sg
+        ‘Беги, — говорит она, — мой сынок, на здоровье’
+(30)        i        jeel’(-e)
+        и        жить.imp.sg
+        ‘И живи.’ 
+(31)        i        kaažne        lest-est        i        kaažne        m’iissteg-est        peel(-e)
+        и        каждый        лист-loc.sg        и        каждый        куст-loc.sg        бояться.imp.sg
+        ‘Каждого листа и каждого куста бойся.’
+(32)        i        k’iič-n-e(ẟ)
+        и        смотреть-ipfv1-imp.sg
+        ‘И смотри.’
+(33)        kas’t        i        koon        m’iissteg        tuug’g’en’        eellm-oollm-e
+        где        и        который.gen.sg        куст.gen.sg        за.loc        настоящий-человек-gen.sg
+        paar’r’n        tuun(-en)        šɨll
+        парень.nom.sg        2sg.acc        ловить.npst.3sg
+        ‘Где и за каким кустом тебя подкарауливает сын человеческий.’
+(34)         ujn-č-ex                                 
+        видеть-cond-2sɢ                
+‘И даже если ты его увидишь.’
+(35)        egg         pel-č-e         
+        ɴᴇɢ.2sɢ        бояться-cond-cng
+        ‘Не бойся.’
+(36)        poka                   p’iiŋk                egg                         vaalt-č-e
+пока                              ветер.acc.sɢ                ɴᴇɢ.2sɢ                         брать-cond-cng
+‘Пока ты не почувствовал на ветру перемену погоды.’
+(37)        tunn                 j'aann-a                 j'aal-čč-ex         t’iirv-en
+        2sɢ.ɴᴏᴍ        мать-dim.nom.sg        жить-cond-2sɢ        здоровье-ᴄᴏᴍ.sɢ
+‘Ты, мать, будь здорова.’
+(38)        kɒn't                         ɲiic'c'ks-eɲč                poollt-en 
+        дикий_олень.gen.sg        голень-dim.nom.sg        ряд-ᴇss
+        ‘Голень дикого оленя станет [тебе] разделочной доской для мяса,’
+(39)        i         kɒn't                 cueɲɲčm-eɲč                        oš’eestk-en
+        и        дикий_олень.gen.sg        бедренная_кость-dim.nom.sg        ошесток-ᴇss
+‘а бедренная кость — основной балкой твоего очага.’

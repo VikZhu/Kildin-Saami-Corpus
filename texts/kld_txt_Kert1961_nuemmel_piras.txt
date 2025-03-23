@@ -1,0 +1,62 @@
+﻿1. jiil-e                 kal'l'es'         kоlm-еn'         al’k-en’    ja         kut-en’                n’iijt-piil-en-es'     
+жить-ᴘsᴛ.3sɢ        мужик.ɴᴏᴍ.sɢ        три-ᴄᴏᴍ.sɢ        сын-ᴄᴏᴍ.sɢ и        два-ᴄᴏᴍ.sɢ        дочь-половина-ᴄᴏᴍ.sɢ-POSS3
+‘Жил мужик с тремя сыновьями и с двумя неродными дочерьми,’
+2. a         kuht-e         ak'k'                 jam-ma                 Iiijj-en’                 aajjk al'l't.
+а         два-?         жена.GEN.SG         умереть-ptcp.pst         быть-ᴘsᴛ.3ᴘʟ         время близко
+‘а обе жены умерли уже давно.’
+3. kal'l'es'         jall                 pere         n'uez-el't         pejjel'         p’eejv' ja         pejjel’         p’eejv'                 š’iig-ten’n’e.
+мужик.ɴᴏᴍ.sɢ         жить.ɴᴘsᴛ.3sɢ        очень         плохой-ADV         через         день.ɢᴇɴ.sɢ  и         через         день.ɢᴇɴ.sɢ          хороший-ADV
+‘Мужик живет очень плохо через день, а через день хорошо.’
+4. jug-e                 vɨn                 surm-guad-es't’, por-e                 p’eerk                 kuemmer'         sɨz'n’.
+пить-ᴘsᴛ.3sɢ         вино.ᴀᴄᴄ.sɢ           кольцо-вежа-ʟᴏᴄ.sɢ есть-ᴘsᴛ.3sɢ         еда.ᴀᴄᴄ.sɢ        горсть.ɢᴇɴ.sɢ        внутри
+‘Пил вино в наперстке, еду ел в ладони.’
+(5)         al'k-es'=kånc                         jugg-en’         vɨn                 kuks-e=guejm
+сын.nom.pl-POSS3=assoc         пить-ᴘsᴛ.3ᴘʟ         вино.ᴀᴄᴄ.sɢ           ковш-ɢᴇɴ.ᴘʟ=COM
+‘Сыновья же пили вино ковшами’
+(6)        ja             p’ehc-tuer’v                                 por-n-en’                             l’eejp                          axxtan
+                и          печь-порция.acc.sg              есть-hab-pst.3pl           хлеб.acc.sg   за.один.раз
+                ‘и ели хлеб за один раз’
+(7)           a              kuht         n’iijt-pel’                                         l’iij-en’                                  monaška
+                а              два          дочь-половина.gen.sg             быть-pst.3pl                 монашка
+                ‘а две дочери были монашками’
+(8)           kal'l'es'                                iǯ             lɨkk-e                                   kul'xes'                lafk-es'
+                мужик.nom.sg           refl        работать-pst.3sg                                            ?                         магазин.loc.sg
+                mig-j-en’
+                продавать-ptcp.npst-ᴇss
+                ‘мужчина сам работал в магазине продавцом’
+(9)           al'k-es'=kånc                          jiill-en’                   son                          čaapat           al'n'
+                сын.nom.pl-poss3=assoc        жить-pst.3pl        3sg.gen              шея.gen.sg         на
+                ‘сыновья жили на его шее’
+(10) sonn                        jur't-e                                   kolm        al'k-es                          mat’-x-e
+                3sg.nom              думать-pst.3sg             три          сын.gen.sg-poss3          уметь-caus-inf
+                ‘он надумал трёх сыновей обучить’
+(11)          k’ee                            man'tem               lɨhk-mušš-e                          (lɨhk)                             valt-a-t. 
+                кто.nom.sg         какой.?           работа-ɴᴍʟᴢ-ill.sg   работа.?      брать-npst.3sɢ-caus
+                ‘Кто какую работу возьмёт?’
+(12)          puars-a-muss   al'l'k                         ujt-e    l’eejp                         pašt-j-en'                                vueps-uvv-e            
+                старший-sup   сын.nom.sg         уйти-ᴘsᴛ.3sɢ  хлеб.асс.sg        жарить-ᴘᴛᴄᴘ.npst-ess                        учиться-antic-inf   
+                ‘Старший сын пошёл учиться печь хлеб’
+(13)          kesk-la-muss          nɨjp                          sahp’e                   čir'r'-e                       pɨj-e.
+                cредний-nmlz-sup  нож.асс.sg         сапог.ɢᴇɴ.sɢ         голенище-ɪʟʟ.sɢ  класть-ᴘsᴛ.3sɢ
+                ‘Средний положил нож за голенище сапога’
+(14)          ja             ujt-e                        olm-et’                                 gråbb-e. 
+                и              уйти-ᴘsᴛ.3sɢ        человек-асс.pl               грабить-inf
+                ‘И ушёл людей грабить’
+(15)          nur-muss            el'k-e            robxušš-e       lɨhk-e                                 p’eec-et’. 
+                молодой-sup  начать-ᴘsᴛ.3sɢ         работать-inf         трудиться-inf                 печь-ɪʟʟ.ᴘʟ
+                ‘Младший начал работать-трудиться у печей(?)’
+(16) kоlm         vil'j                 ujjt-en’                 kolm         gårr-a. 
+                три        брат.nom.pl        уйти-pst.3PL        три         сторона-ill.sg
+                ‘Три брата разошлись в три края’
+(17)        aǯ-es'                         kuddej                         n'al'j-ant                 vuass-a,
+                отец.nom.sg-poss3         остаться.pst.3sg         четвёртый-ord         доля-ill.sg
+                ‘Отец остался на четвёртую долю’
+(18)          a         kuhte         n’iijt-pel-es'                                 Iiijj-en’                         monaška,
+                а         оба        дочь-половина.nom.pl-poss3         быть-pst.3PL                монашка
+                ‘а обе неродные дочери были монашки’
+(19)          sɨjj                 kudj-en’                 v’iid-ant         vuass-a.
+                3pl.nom        остаться-pst.3pl        пять-ord         доля-ill.sg
+                ‘Они остались на пятую долю’
+(20)          nɨt't’         jen'-x-em         p’iiras                         pugg pådded-e                         gå’         n'uemmel'         p’iiras.
+                да        мать-abe-attr        семья.nom.sg                всё   разбрестись-pst.3sg                как         заяц                семья     
+                ‘Так семья без матери разбрелась, как заячья семья’

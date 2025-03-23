@@ -1,0 +1,319 @@
+﻿
+(1)       l’eev        значит        sɨjd
+        быть.npst.3pl        значит        село.nom.pl
+        ‘Есть, значит, деревни’
+(2)        eexxt        sɨjjt        l’ii        a
+        один.nom.sg        село.nom.sg        быть.npst.3sg        А
+        ‘Одна деревня — «А»’
+(3)        sost        jɒdd        v’aal        sɨjjt
+        он(а).loc        двигаться.npst.3sg        ещё        село.nom.sg
+        ‘От него идёт ещё село’
+(4)        tes’t        l’ii
+        здесь        быть.npst.3sg
+        ‘Там есть’
+(5)        čuekas        vaar’r’
+        дорога.nom.sg        лес.nom.sg
+        ‘Дорога, лес’
+(6)        jaavr-enč
+озеро-dim.nom.sg                
+‘Озерцо’
+(7)        tes’t        v’aal        l’ii
+здесь        ещё        быть.npst.3sg
+‘Там есть’
+(8)        eexxt        sɨjjt
+один.nom.sg        село.nom.sg
+‘Одна деревня’
+(9)        tɨjj-e        bɨdd        meenn-e        kualm-ant        sɨjjt-a
+вы-dat        нужно        идти-inf        три-ord        село-dat.sg
+‘Вам нужно пройти в третью деревню’
+(10)        tes’t        l’ii        тоже
+здесь        быть.npst.3sg        тоже
+‘Там тоже…’
+(11)        čuekas
+дорога.nom.sg
+‘Дорога’
+(12)        testa        l’ii        sɨjjt
+здесь        быть.npst.3sg        село.nom.sg
+‘Тут деревня’
+(13)        testa        l’ii        v’aal        sɨjjt
+здесь        быть.npst.3sg        ещё        село.nom.sg
+‘Тут ещё деревня’
+(14)        tes’t        l’eev        sɨn...        mugga        čuekas        l’ii
+здесь        быть.npst.3pl        flst        такой        дорога.nom.sg        быть.npst.3sg
+‘Здесь есть… такая дорога есть’
+(15)        и        v’aal        l’ii        sɨjjt        eexxt        tes’t
+и        ещё        быть.npst.3sg        село.nom.sg        один.nom.sg        здесь
+‘И здесь ещё одна деревня’
+(16)        ну        tes’t        l’aajj
+ну        здесь        быть.pst.3sg
+‘Ну, здесь было…’
+(17)        tes’ta        l’aajj        jaav’v’r’
+здесь        быть.pst.3sg        озеро.nom.sg
+‘Ну, здесь было озеро’
+(18)        tes’ta        тоже        l’aajj        jaav’v’r’
+здесь        тоже        быть.pst.3sg        озеро.nom.sg
+‘Здесь тоже было озеро’
+(19)        vaar’r’        testa        l’ii
+лес.nom.sg        здесь        быть.npst.3sg
+‘Здесь лес’
+(20)        testa        l’eev        vaar’
+здесь        быть.npst.3pl        лес.nom.pl
+‘Здесь леса’
+(21)        sɨjd        l’eev        vaar’        lus’s’en’
+село.nom.pl        быть.npst.3pl        лес.gen.sg        у
+‘Сёла у леса’
+(22)        činčb’e(e)l’        l’ii        eexxt        sɨjjt
+лево        быть.npst.3sg        один.nom.sg        село.nom.sg
+‘Слева одна деревня’
+(23)        vuel’kes’b’e(e)l’        l’ii        num’m’p’        sɨjjt
+право        быть.npst.3sg        второй        село.nom.sg
+‘Справа вторая деревня’
+(24)        valas        bɨdd        jɒd’d’-e
+вниз        нужно        двигаться-inf
+‘Нужно двигаться вниз’
+(25)        činč(ev)-es’-b’e(e)l’        valas        jɒd’d’-e
+лево-attr-сторона        вниз        идти
+‘Налево вниз двигаться’
+(26)        l’aa-n’č        kualm-ant        sɨjjt
+быть-pot.3sg        три-ord        село.nom.sg
+‘Будет третья деревня’
+(27)        ну        vuajj        nɨd’d’        pejjd-e
+ну        мочь.npst.3sg        так        пойти-inf
+‘Можно так пойти’
+(28)        и        vuajj        mudda        sajj-a        muaj...        vuajj
+и        мочь.npst.3sg        другой        место-dat.sg        flst        мочь.npst.3sg
+‘А можно в другое место...’
+(29)        pejjd-e
+пойти-inf
+‘Пойти’
+(30)        kas’t        l’ii        činčb’e(e)l’        sɨjjt
+где        быть.npst.3sg        лево        село.nom.sg
+‘Где слева село’
+(31)        vuajj        pejjd-e        tenn        sɨjjt-a
+мочь.npst.3sg        пойти-inf        этот.obl.sg        село-dat.sg
+‘Можно пойти в это село’
+(32)        tes’t        l’eev        v’aal        sɨjt        činčb’e(e)l’
+здесь        быть.npst.3pl        ещё        село.nom.pl        лево
+‘Тут слева ещё деревни’
+(33)        и        vuel’kes’b’e(e)l’        v’aal       l’aav...        l’eev        sɨjd
+и        право        ещё        flst        быть.npst.3pl        село.nom.pl
+‘И справа ещё село есть’
+(34)        tes’t        l’eev        sɨjd
+        здесь        быть.npst.3pl        село.nom.pl
+        ‘Здесь сёла’
+(35)        eexxt        sɨjjt        l’ii
+        один.nom.sg        село.nom.sg        быть.npst.3sg
+        ‘Одно село’
+(36)        činčb’e(e)l’
+        лево
+        ‘Слева’
+(37)        l’ii        čuekas
+        быть.npst.3sg        дорога.nom.sg
+        ‘Есть дорога’
+(38)        tedd        sɨjjt        l’ll        kas’t        l’eev        paahk’
+        этот.nom.sg        село.nom.sg        быть.npst.3sg        где        быть.npst.3pl        гора.nom.sg
+        ‘Это так деревня, где горы’
+(39)        čuekas        m’iil’l’te        meenn-e        vuajj        meenne
+        дорога.gen.sg        по        идти-inf        мочь.npst.3sg        идти-inf
+        ‘По дороге можно пойти, пойти…’
+(40)        vuel’kes’b’aall-a
+        право-dat
+        ‘Направо’
+(41)        tam’b’e        l’ii        vaar’r’
+        там        быть.npst.3sg        лес.nom.sg
+        ‘Там лес’
+(42)        i        v’aal        jɒd’d’-e
+        и       ещё        двигаться-inf
+        ‘И ещё идти’
+(43)        vuajj
+        мочь.npst.3sg
+        ‘Можно’
+(44)        kualm-ant        sɨjjt-a        meenn-e
+        три-ord        село-dat.sg        идти-inf
+        ‘Прийти в третью деревню’
+(45)        если        jɒdd-j-ax        čincb’e(e)l’
+        если        двигаться-decaus-npst.2sg        лево
+        ‘Если пойдёшь слева’
+(46)        или        vuel’kes’b’e(e)l’
+        или        право
+        ‘Или справа’
+(47)        и        sonn        l’aa-n’č
+        и        он(а).nom        быть-pot.3sg
+        ‘Она [там] будет’
+(48)        tes’t        l’ii        s’iinn        čuekas
+        здесь        быть.npst.3sg        они.gen        дорога.nom.sg
+        ‘Вот их дорога’
+(49)        jaav’v’r’        l’ii
+        озеро.nom.sg        быть.npst.3sg
+        ‘Озеро есть’
+(50)        нет        tedd        l’aajj        jogg
+нет        это.nom.sg        быть.pst.3sg        река.nom.sg
+‘Нет, это была река’
+(51)        al’l’a        jaav’v’r’
+neg.npst.3sg.быть        озеро.nom.sg
+‘Это не озеро’
+(52)        jogg        l’ii
+река.nom.sg        быть.npst.3sg
+‘Это река’
+(53)        и        v’aal        l’eev        koollm        sɨjd
+и        ещё        быть.npst.3pl        три.nom        село.gen.sg
+‘И ещё есть три деревни’
+(54)        eexxt        sɨjjt        l’ii        vaar’-es’t
+один.nom.sg        село.nom.sg        быть.npst.3sg        лес-loc.sg
+‘Одна деревня в лесу’
+(55)        num’m’p’        sɨjjt        l’ii        paak’        lus’s’en’
+втророй        село.nom.sg        быть.npst.3sg        гора.gen.sg        у
+‘Вторая деревня у горы’
+(56)        kualm-ant        sɨjjt        l’ii
+три-ord        село.nom.sg        быть.npst.3sg
+'Третье село есть'
+(57)        suullj-es’
+остров-loc.sg
+‘На острове’
+(58)        jaav’r’        lus’s’en’
+озеро.gen.sg        у
+‘У озера’
+(59)        vanc        jɒdd-aj
+лодка.nom.sg        двигаться-decaus.npst.3sg
+‘Лодка плывёт’
+(60)        jav’r        gɒrre
+озеро.gen.sg        в_сторону
+‘К озеру’
+(61)        jav’v’r’
+озеро.nom.sg
+‘Озеро…’
+(62)        jog
+река.gen.sg
+‘Реки…’
+(63)        vans        jɒdd-aj        jog        m’iil’l’te        javvr-a
+лодка.nom.sg        двигаться-decaus.npst.3sg        река.gen.sg        по        озеро-dat.sg
+‘Лодка плывёт по реке до озера’
+(64)        suull        m’iil’l’te
+остров.gen.sg        по
+‘Вдоль острова’
+(65)        vans
+лодка,nom.sg
+‘Лодка’
+(66)        veenns-en’        vuajj        meenn-e        suull…        pɨrr        suull
+лодка-com.sg        мочь.npst.3sg        идти-inf        остров.gen.sg        вокруг        остров.gen.sg
+‘На лодке можно пойти… вокруг острова’
+(67)        vaan’n’c’-e        av’t        sɨjd-es’t        num’p’        sɨjjt-a
+шагать-inf        один.obl        село-loc.sg        второй.obl        село-dat.sg
+‘Пройти пешком из первой деревни во вторую’
+(68)        sɨjjt        kuu        l’ii        činčb’e(e)l’
+село.nom.sg        который.nom.sg        быть.npst.3sg        лево
+‘Село, которое слева’
+(69)        vuajj        vaan’n’c’-e
+мочь.npst.3sg        шагать-inf
+‘Можно пройти’
+(70)        tam’b’e        l’ii        čuekas
+там        быть.npst.3sg        дорога.nom.sg
+‘Там дорога’
+(71)        čuekas        m’iil’l’te        meen-ax        meen-ax
+дорога.gen.sg        по        идти-npst.2sg        идти-npst.2sg
+‘По дороге идёшь, идёшь’
+(72)        ja        puad-ax
+и        прийти-npst.2sg
+‘И придёшь’
+(73)        num’p’        sɨjjt-a        kuu        l’ii        vaar’-es’
+второй.obl        село-dat.sg        который.nom.sg        быть.npst.3sg        лес-loc.sg
+‘Во второе село, которое в лесу’
+(74)        sɨjjt        A
+село.nom.sg        A
+‘Село «А»’
+(75)        ja        meenn-e
+и        идти-inf
+‘И идти’
+(76)        num’p’        sɨjjt-a
+второй.obl        село-dat.sg
+‘Во второе село’
+(77)        kuu        l’ii        vaar’-es’        činčb’e(e)l’
+который.nom.sg        быть.npst.3sg        лес-loc.sg        лево
+‘Которое в лесу слева’
+(78)        bɨdd        meenn-e        čuekas        m’iil’l’te        kug’g’
+нужно        идти-inf        дорога.gen.sg        по        долго
+‘Нужно долго идти по дороге’
+(79)        jɒd-ax        jɒd-ax
+двигаться-npst.2sg        двигаться-npst.2sg
+‘Идёшь, идёшь’
+(80)        bɨdd
+нужно
+‘Нужно’
+(81)        vaal’l’t-e        ja        ujjt-e
+взять-inf        и        уйти-inf
+‘Взять и уйти’
+(82)        sadamadda        činčb’e(e)l’t-a        tel’        jɒd-ax        čuekas        m’iil’l’te
+понемногу        лево-dat        вот        двигаться-npst.2sg        дорога.gen.sg        по
+‘Понемногу налево вот пойдёшь по дороге’
+(83)        tes’t        vuajj        meenn-e        veenns-en’
+здесь        мочь.npst.3sg        идти-inf        лодка-com.sg
+‘Здесь можно пойти на лодке’
+(84)        veenns-en’        meen-ax
+лодка-com.sg        идти-npst.2sg
+‘Идёшь на лодке’
+(85)        tes’t        l’ii        jogg
+здесь        быть.npst.3sg        река.nom.sg
+‘Там река’
+(86)        jog        m’iil’l’te        ja        jɒd-j-ax
+река.gen.sg        по        и        двигаться-decaus-npst.2sg
+‘Так по реке и идёшь’
+(87)        puad-ax        sɨjt
+прийти-npst.2sg        село.acc.sg(?)
+‘Придёшь в село (?)’
+(88)        kuu        l’ii        paak’        lus’s’en’
+который.nom.sg        быть.npst.3sg        гора.gen.sg        у
+‘Которое у горы’
+(89)        tenn        sɨjd-es’        bɨdd        meenn-e
+этот.obl        село-loc.sg        нужно        идти-inf
+‘Из этого села нужно идти’
+(90)        čuuhk-e        m’iil’l’te
+тропа-gen.sg        по
+‘По дороге’
+(91)        gu        sɨjjt        l’ii        vaar’-es’
+если        село.nom.sg        быть.npst.3sg        лес-loc.sg
+‘Потому что село в лесу’
+(92)        jaav’r’-es’        jes’        jɒd-j-ax        sɨjjt-a
+озеро-loc.sg        тогда        двигаться-decaus-npst.2sg        село-dat.sg
+‘Тогда из озера движешься к селу’
+(93)        jog        m’iil’l’te        bɨdd        pajas        peejj-n-e
+река.gen.sg        по        нужно        вверх        верх-inch-inf
+‘Нужно подняться по реке’
+(94)        pajas        peejj-n-ax
+вверх        верх-inch-npst.2sg
+‘Вверх поднимешься’
+(95)        vuejj-ev        bɨ...        kuuššk        l’aa-n’č
+мочь-npst.3sg        flst        порог.nom.sg        быть-pot.3sg
+‘Могут… порог будет’
+(96)        jɒd-ax        jɒd-ax
+двигаться-npst.2sg        двигаться-npst.2sg
+‘Идёшь, идёшь’
+(97)        i        tel’        puad-ax        sɨjd        luz
+и        вот        прийти-npst.2sg        село.gen.sg        к
+‘И так дойдёшь до деревни’
+(98)        pevl        l’eev        paak’        al’n…        lus’s’en’
+облако.nom.pl        быть.npst.3pl        гора.gen        на.loc        у
+‘Облака на горах’
+(99)        al’n        или
+на.loc        или
+'Или на...'
+(100)        pevl
+облако.nom.pl
+‘Облака…’
+(101)        paak’-et’        koaht-en’        pevl
+гора-acc.pl        закрыть-pst.3pl        облака.nom.pl
+‘Облака закрыли горы’
+(102)        eexxt        olma        
+один.nom.sg        человек.nom.sg
+'Один человек'
+(103)        meej(t)-laan’č        ejj        t’eedd-ma        ja        meen-e
+что.acc.pl-indef.ref        neg.3sg        знать-pst.cng        и        идти-pst.3sg
+‘Почему-то не знал и зашёл’
+(104)        vaš’š’        sajj-a
+заросли.gen.sg        место-dat.sg
+‘В заросли (в болото)’
+(105)        ja        juul’g’        sost        
+и        нога.nom.sg        он(а).loc
+‘И ноги у него’
+(106)        pašš-n-en’
+держаться-punct-pst.3pl
+‘Застряли’

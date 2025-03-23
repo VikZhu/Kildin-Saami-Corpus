@@ -1,0 +1,353 @@
+﻿(1)        kaar’nes’        nuer’j        ja        kɒn’t’        bajas
+        ворон.gen.sg        тюлень.gen.sg        и        д_олень.gen.sg        о
+        “О вороне, тюлене и диком олене”    
+(2)        kaar’nes’         puud’-e         
+        ворон.NOM.SG         прийти-PST.3SG        
+        “Пришёл ворон”  
+(3)         vɒl’t-e         kaalls-a-s’t         puars-amuss         n’iijd
+        взять-PST.3SG        старик-DIM-LOC.SG   старший-SUP        дочь.ACC.SG
+        “Взял у старика старшую дочь”  
+(4)         maŋŋa         puud’-e         nuer’r’j 
+        потом        прийти-PST.3SG        тюлень.NOM.SG
+        “Потом пришёл тюлень” 
+(5)         vɒl’t-e         keesskt-amuss         n’iijd                 kuujj-e
+        взять-PST.3SG        средний-SUP        дочь.ACC.SG        муж-DAT.SG        
+        “Взял среднюю дочь в жёны”   
+(6)        meen-e                 man’te=l’aannč         keessk
+пройти-PST.3SG        какой-indef.ref                промежуток.NOM.SG
+        “Прошло какое-то время”  
+(7)         puud’-e                 kɒn’n’t’                         
+        прийти-PST.3SG        д_олень.NOM.SG        
+        “Пришёл олень”  
+(8)         vɒl’t-e                         nuur-muss                 n’iijd
+        взять-PST.3SG        младший-SUP        дочь.ACC.SG
+        “Взял младшую дочь [в жёны]”  
+(9)        tel’         koollm         n’ijd                 pugg        vɨjjt-en’                 kuujj-e
+        вот        три        дочь.GEN.SG        всё        выйти-PST.3PL        муж-DAT.SG
+        “Вот все три дочки вышли замуж”  
+(10)         exxt                 kaar’ns-e
+        один.NOM        ворон-DAT.SG
+        “Одна за ворона”  
+(11)    nɨm’m’p’         nuar’r’j-a
+        второй                тюлень-DAT.SG
+        “Другая за тюленя”
+(12)        kualm-ant                 kɒn’n’t’-a
+        третий-ORD                д_олень-DAT.SG
+        “Третья за оленя”  
+(13)        tel’         kaalls-enč                 jiil’-e
+        вот        старик-DIM.NOM.SG        жить-PST.3SG
+        “Вот жил старик”  
+(14)        jiil’-e
+жить-PST.3SG
+“Жил”  
+(15)        ja         vel’k’-e                         puars-amus         n’iijd-a                 kuess-a
+        и        отправиться-PST.3SG        старший-SUP        дочь-DAT.SG        гость-DAT.SG
+        “И отправился в гости к старшей дочке”  
+(16)        vɒn’c’-e
+идти-PST.3SG
+“Шёл”  
+(17)        vɒn’c’e
+        идти-PST.3SG
+        “Шёл”  
+(18)        k’aahč                 
+        глядеть.NPST.3SG        
+        “Смотрит”  
+(19)        kued                 al’n’                 kuuxxt kaar’nes’                 al’k-a  kiers-ell-ev                         ja         luuvvt-j-ev
+        вежа.GEN.SG        над.PSTP        два        ворон.GEN.SG        сын-DIM.GEN.SG      кататься-HAB-NPST.3PL        и        песня-VBLZ-NPST.3PL  
+“Над вежей  прыгают и поют два воронёнка”
+(20)        kroŋk-x-ell-ev
+        каркать-?-HAB-NPST.3PL
+        “Каркают:”  
+(21)        kroŋk         kroŋk         kroŋk         ajj-a                                 puadd                
+кар        кар        кар        дед-DIM.NOM.SG                идти.NPST.3SG
+“Кар-кар-кар, дедушка идёт!”  
+(22)        kroŋk         kroŋk         kroŋk         ajj-a                                 puadd
+кар        кар        кар        дед-DIM.NOM.SG                идти.NPST.3SG
+“Кар-кар-кар, дедушка идёт!”  
+(23)        kroŋk         kroŋk         kroŋk         ajj-a                                 puadd        
+кар        кар        кар        дед-DIM.NOM.SG                идти.NPST.3SG
+“Кар-кар-кар, дедушка идёт!”
+(24)         tedd                 sɨjj                 jann-as                 soag                 an’n’t-ev
+этот.nom.sg         3pl.nom         мать-dim.dat.poss3         весть.acc.sg         дать-npst.3pl
+это они матери сообщают  
+(25)         kaalls-enč                 suaŋ-e                 kuadd-a
+мужик-dim.nom.sg         входить-pst.3sg         вежа-dat.3sg
+Старичок вошел в вежу  
+(26)         niijjt                 činn-el’                 porr-muž
+дочь.nom.sg         чинить-pfv.pst.3sg         есть-nmlz.acc.sg
+Дочь приготовила угощение  
+(27)         a         m’ii                 l’ii                 karns-es’t         porr-mušš-en 
+а         что.nom.sg         быть.npst.3sg ворон-loc.sg         есть-nmlz-ess  
+kuem        čoajv-a         ja         jɒrk         kɒmme         vuajv-a
+        содерж_желудка.nom.sg         живот-dim.nom.pl        и         вывернутый         ничком?         голова-dim.nom.pl
+а что у ворона за угощение: брюшины, головки от тоборок  
+(28)         kaalls-enč         ejj         t’iid’         men-e                 i         poorr-e
+        мужик-dim.nom.sg         neg.3sg         знать.npst.cng        что-acc.sg         и         есть-inf
+Старичок не знает, что и есть  
+(29)         ɒr-es’t                 ɒr-es’t                 ja         vaan’n’c-el’           kesk-t-amus         n’iijjt-a
+сидеть-suff.pst.3sg         сидеть-suff.pst.3sg         и         идти-pfv.pst.3sg         средний-?-sup дочь-dat.sg
+Посидел, посидел и пошел к средней дочери  
+(30)         al’t-l-a                 puud’-e                 ujjn         
+        близкий-suf-comp         прийти-pst.3sg         видеть.npst.3sg         
+        kuuht         nuer’j                 al’k-a                 kued-es’t         valas         
+        два         тюлень.gen.sg         сын-dim.gen.sg         вежа-loc.sg         вниз 
+        k’irs-ell-ev                         ja         xur’g’s-ev
+        скатиться-ipfv-npst.3pl         и         кричать?-npst.3pl
+Ближе подошел, видит: два тюленьих детеныша с вежи вниз катаются и кричат  
+(31)         hur’gg         hur’gg         hur’gg         ajj-a                         puadd
+hur’gg         hur’gg         hur’gg         ajj-a                         puadd
+hur’gg         hur’gg         hur’gg         ajj-a                         puadd
+хурьк         хурьк         хурьк         дед-dim.nom.sg         идти.npst.3sg
+хурьк, хурьк, хурьк, дедушка идёт  
+(32)         kaalls-enč                 puud’-e
+мужик-dim.nom.sg         идти-pst.3sg
+старичок вошел  
+(33)         n’iijjt                 čin-guud’-e                         kus’s’-v’aar
+дочь.nom.sg         готовить-inch-pst.3sg         гость-суп.acc.sg
+Дочь стала готовить угощение  
+(34)         nuer’j         poorr-em         luus                 kus’k’                 ja         
+тюлень.gen.sg         есть-ptcp2         сёмга.gen.sg         кусок.nom.pl         и 
+jug’g’e-nal-š-em                 kuul’                 raašk
+каждый-образ-vblz-ptcp2         рыба.gen.sg         лохмотья.nom.pl
+no         per’-a                 meenn         karns-es’t
+но         хорошо-comp что.gen.sg         ворон-loc.sg
+Тюленье угощение объедки семужьи и разные куски от всяких рыб, но лучше чем у ворона 
+(35)         tes’t                 kals-enč                 vuud’-e         nɨm’m’p         ɨj                 ja         
+этот.loc.sg         мужик-dim.nom.sg         спать-pst.3sg второй         ночь.acc.sg         и   
+kualm-ant         p’eejv’         vaan’n’c-el’         nuur-muss         n’iijjt-as                 kuess-a
+три-ord         день.gen.sg         идти-pfv.pst.3sg         молодой-sup         дочь-dat.poss3         гость-dat.sg
+здесь старичок проспал вторую ночь и на третий день пошел к младшей дочери своей в гости  
+(36)         voanc’-e         voanc’-e         ujn-eškuud’-e                 kued
+идти-pst.3sg         идти-pst.3sg         видеть-inch-pst.3sg         вежа.acc.sg
+Шел шел видит вежу  
+(37)         a         pɒššem=b’elt         kued         kerr-n-ev         kuuht         kɒn’t’         
+a         передний?=сторона?         вежа.gen.sg бежать-suff-npst.3sg         два         д_олень.gen.sg 
+        parn-a
+ребёнок-dim.?
+С противоположной стороны вежи бегают два диких олененка  
+(38)         kɒn’n’t’         ɒrex’         ja         kɒn’n’t’         vuubr’es’
+д_олень.nom.sg         урак.nom.sg         и         д_олень.nom.sg         3хгодовалый_о.nom.sg
+олень трехлеток и олень годовалок  
+(39)        exxt-e         maann         kualm-ant         ɨg’g’         nɨmmp-a         nɨm’m’p’         ɨg’g’
+один-dat.sg         идти.npst.3sg         три-ord         год.nom.sg         второй-dat.sg         второй         год.nom.sg
+одному идёт третий год, другому второй год  
+(40)         siirr-ev         poššem=b’el’t         kued’         
+играть-npst.3pl         передний?=сторона? вежа.gen.sg 
+играют с противоположной стороны вежи  
+(41)        ja         čel-ma                 čuurv-ed-es’=guejm                 saar’k’-s-ev
+и         очищать-ptcp.pst         рог.gen-pl-poss3=com         ветвь-vblz-npst.3pl
+и летними рогами обрастают  
+(42)         ujn-s-en         aajj-es’         puedd-em         kar-s-en         kued’         luz         ja         
+видеть-pfv.pst.3pl         дед-poss3         прийти-ptcp2         бежать-pfv-pst.3pl         вежа.gen.sg рядом и 
+        xoŋker-guud’d’-en’
+кричать-inch-pst.3pl
+увидели дедушку идущего подбежали к веже и закричали  
+(43)         xoŋker         xoŋker         aajj-a         puadd
+        хонгкэр         хонгкэр         дед-dim.nom.sg         идти.npst.3sg
+хонгкэр хонгкэр дедушка идёт  
+(44)        luvvt-j-ev                 paj         jeem’m’n’e         vuesst-a         vuegg
+петь-suff-npst.3pl         всё         земля.nom.sg         встречный-adv         шуметь.npst.3sg
+споют всё земля навстречу шумит  
+(45)         kaalls-enč                 puud’-e         
+мужик-dim.nom.sg         прийти-pst.3sg 
+старичок вошел  
+(46)         jenn-es’         čin-guud’-e         porr-muž 
+мать-dim.poss.3sg         чинить-inch-3sg.pst         есть-nmlz.acc.sg 
+мать их стала готовить поесть,  
+(47)         paašt-guud’-e         ja         kɨpt-guud’-e         vuenč
+жарить-inch-3sg.pst         и         варить-inch-3sg.pst         мясо.acc.sg
+жарить и варить мясо  
+(48)         kued-es’t         l’eev         kuuht         ufs
+вежа-loc.sg         быть.npst.3pl         два         дверь.gen.sg
+вежа имеет две двери  
+(49)         eft         ufs         m’iil’l’te         voarr-at         kɒn’n’t’         nɨm’m’p’         n’iijjt
+один.gen.sg         дверь.gen.sg         по         дорога-vblz.npst.3sg         д_олень.nom.sg         второй дочь.nom.sg
+по одной ходит дикий олень по другой хозяйка  
+(50)         kɒn’n’t’         kues’s’         vuul’k-e         m’aahc-a         c’iil̥’k-e         koabk-as 
+д_олень.nom.sg         когда         пойти-pst.3sg         охота-dat.sg         сказать-pst.3sg         жена-dat.poss3
+дикий олень когда пошёл на охоту сказал жене  
+(51)         puud-enč         aǯ-at         tonn         soon         por̥-t         jux-t
+прийти-pot.3sg  отец.nom-poss.2sg         2sg.nom         3sg.acc         есть-caus.imp.sg пить-caus.imp.sg
+придёт отец его прими хорошо напои накорми  
+(52)         čin         puk                 mi         l’ii         per’-a
+чинить.imp.sg         весь.acc.sg         что         быть.npst.3sg         добрый-comp
+приготовь всё что есть лучшее  
+(53)         ɨj-as         kɒm-l-add                 vued’d’-e         tol’ke                 mušt
+ночь-adv         ничком-vblz-caus.imp.sg         спать-inf         только         помнить.imp.sg
+на ночь уложи спать только помни  
+(54)         jel’l’         š’iid         soon         vuella                 kɒn’t’                 tuul’j 
+proh.sg         стелить.imp.sg         3sg.gen         под.dat         д_олень.gen.sg         шкура.acc.sg 
+не стели под него шкуру дикого оленя  
+(55)        a         šiid         puuʒ-e               tuul’j
+а         стелить.imp.sg         олень-gen.sg          шкура.acc.sg
+а постели шкуру не дикого оленя 
+(56)         iiǯ’         l’aajj         kɒn’n’t’          i         paz’-eht         kɒn’t’         tuul’j-es’
+refl         быть.pst.3sg         д_олень.nom.sg         и         держаться-caus.pst.3sg         д_олень.acc.sg шкура.gen-pos3
+сам он был дикий олень и очень берёг шкуру дикого оленя  
+(57)         n’iijjt         š’iid’-e         aǯ-as’         kɒn’tk-et
+дочь.nom.sg         стелить-pst.3sg         отец-dat.poss3         д_олень-acc.pl?
+Дочь постелила отцу шкуру дикого оленя.  
+(58)         jurrt         an’         xot’         eft         ver         
+        думать.npst.3sg         пусть         хоть         один.gen.sg         раз.gen.sg 
+        aǯ-es’(t)         vuadd         kɒn’t’         tuul’j         al’n’
+        отец.nom-poss3        cпать.3sg.npst         д_олень.gen.sg         шкура.gen.sg        на
+Сама думает: пусть хоть один раз на своем веку отец поспит на шкуре дикого оленя, 
+(59)         kals-enč         poor-e         jug-e         poor-e         jug-e
+мужик-dim.nom.sg         есть-pst.3sg         пить-pst.3sg         есть-pst.3sg         пить.pst.3sg 
+Старичок, ел, пил, ел, пил  
+(60)         ja         kɒmm-el’                 n’iijt-es’         š’iid-enč                 sajj-a
+и         ничком-vblz.pst.3sg         дочь-poss3         стелить-ptcp.pst         место-dat.sg
+и лег в постель, приготовленную дочерью,  
+(61)         a         ɨgg-a         soon         muhc-guud-e         mov’jas         
+        а         ночь-dat.sg         3sg.acc         мучить-inch-pst.3sg ? 
+        а ночью его начало мучить   
+(62)        jeenne         poor-e         puujt         ja         vuenč
+        много         есть-pst.3sg          жир.acc.sg         и         мясо.acc.sg
+(ел много жиру и мяса).  
+(63)         n’iijjt         iinc-e         kɒссej 
+дочь.nom.sg         утро-dat.sg         встать.pst.3sg 
+Дочь наутро встала,   
+(64)         peez-e         peez-e         tuul’j 
+мыть-pst.3sg         мыть-pst.3sg         шкура.acc.sg 
+мыла, мыла шкуру  
+(65)         ja         kɒd-es’t         poššem=b’all-a         kued’ 
+и         вязать-pfv.pst.3sg         передний?=сторона?-dat.sg         вежа.gen.sg 
+и повесила на переднюю сторону вежи  
+(66)         koonn         gɒr’r’en’         kɒn’n’t’         puadd
+который         рядом.loc         д_олень.nom.sg         прийти.npst.3sg
+откуда придёт дикий олень.  
+(67)         kɒn’n’t’         ajt-a         puadd
+д_олень.nom.sg         почти?         прийти.npst.3sg
+Дикий олень почти придёт?  
+(68)         vuag-e         vuag-e         k’aahč 
+бежать-pst.3sg         бежать-pst.3sg         смотреть.npst.3sg 
+Бежал, бежал, смотрит:  
+(69)         tuull’j         kɒššk         t’eedd 
+шкура.nom.sg         сохнуть.npst.3sg         знать.npst.3sg 
+постель сохнет, знает:  
+(70)         kalls-еnč         l’ii         puadd-a         
+старик-dim.nom.sg         быть.npst.3sg         прийти-ptcp.pst 
+старичок пришел  
+(71)        ja         tuul’j         l’ii         konč-ma
+и         шкура.acc.sg         быть.npst.3sg          мочиться-ptcp.pst
+и постель намочил  
+(72)         sonn         vuag-es’t         p’iiŋk         eel         leeg         voal’t-e 
+3sg.nom         бежать-pfv.pst.3sg         ветер.gen.sg         на         запах.acc.sg         брать-pst.3sg
+Он забежал на ветер, подхватил запах  
+(73)         ja         eellm         ollma         leeg         eps’-e
+и         настоящий         человек.gen.sg         запах.acc.sg         нюхать-pst.3sg
+— а запах человечий.  
+(74)         sonn         vuag-es’t         tummpl-a         
+        3sg.nom         бежать-pfv.pst.3sg         далекий-comp 
+Он отбежал в сторону  
+(75)        ja         n’učk-ej         tuar-as’(t)         ken’c-e         p’alp-end 
+        и         прыгать-pfv.pst.3sg         поперёк?-loc.sg         копыто-gen.pl?         стучать-suff.pst.3sg 
+и подпрыгнул, воинственно копытами стуча,   
+(76)        paa(r)rn-ed-es’        r’aag-en’t
+        ребёнок-dat.pl-poss3        кричать-pfv.pst.3sg
+‘Окрикнул ребят’  
+(77)        paa(r’)r’n’-an        pued’d’-e        mon        m’iil’l’te                
+        ребёнок.nom.pl-poss1        прийти-imp.pl        я.gen        по        
+        ‘Ребятушки мои, идите за мной’  
+(78)        čofta        l’ii        eellm        olma/oollma        leegg        looss-e
+        очень        быть.ɴᴘsᴛ.3sɢ        настоящий         человек.nom/gen.sg        запах.nom.sg        трудный-pred
+        ‘Очень тяжел человечий запах’  
+(79)        jaann-at        ejj        maaht-enč        poorr-e        ejj        maaht-enč
+        мать-dim.nom.sg.poss2        neg.3sg        уметь-pst.cng        есть-inf        neg.3sg        уметь-pst.cng
+        jugg-e
+        пить-inf
+        ‘Не сумела мать пить, есть’  
+(80)        an’        k’iij        saj-es’t        ɒrr
+        пусть        след.gen.sg        место-loc.sg        сидеть.npst.3sg        
+        ‘Пусть на месте следов сидит’  
+(81)        aahk’        veel’l’-ej        olk-es’        paarrn-es’        m’iil’l’te 
+        жена.nom.sg        выскочить-(suf.)pst.3sg        улица-adv.lat        ребёнок.gen.pl-poss3        по
+‘Жена выбежала на улицу за своими сыновьями’  
+(82)        k’aahč 
+        смотреть.npst.3sg
+        ‘Смотрит’  
+(83)        paarn-a        vuagg-l-en’        až-es’        m’iil’l’te 
+        ребёнок-dim.nom.pl        бежать_рысью-pfv-pst.3pl        отец.gen.sg-poss3        по
+‘Ребята побежали за отцом’  
+(84)        a        iiǯ        kɒn’n’t’        kaadd-el’        jo 
+        а        refl        д_олень.nom.sg        исчезать-pfv.pst.3sg        уже
+‘А сам дикий олень скрылся уже’  
+(85)        aahk’        r’aagg        paarrn-ed-es’
+        жена.nom.sg        кричать.npst.3sg        ребёнок-dat.pl-poss3
+‘Жена кричит ребятам своим’  
+(86)        paar’n’-am        paar’n’-am        tala        tɨj-e        n’innč        
+        ребёнок.nom.pl-poss1        ребёнок.nom.pl-poss1        вот        вы-dat        грудь.nom.sg
+‘Ребятушки, ребятушки, вот вам грудь’  
+(87)        tala        tɨj-e        num’m’p’
+        вот        вы-dat        второй
+        ‘Вот вторая’  
+(88)        sɨjj        karr-ev        p’alp-n-ev        moast        jeen’-es’        gɒrre
+        они.nom        бежать-npst.3pl        стучать-suf-npst.3pl        назад        мать.gen.sg-poss3        в_сторону
+‘Они бегут обратно, в сторону матери’  
+(89)        hoŋker        hoŋker        jaann-am        gell        jeb’b’        pued’ 
+        хонгкэр        хонгкэр        мать.dim.nom.sg-poss1        гэлл?        neg.1pl        прийти.cng.npst        
+‘Хонгкэр, хонгкэр, мамочка гэлл, не придем’  
+(90)        čofta        l’ii        eellm        oollm-e        leeg        looss-e                
+        очень        быть.npst.3sg        настоящий         человек-gen.sg        запах.acc.sg        трудный-pred
+        ap’p’s’-e
+        нюхать-inf
+        ‘Очень тяжело переносить (букв.: пахнет) человеческий запах’  
+(91)        hoŋker        hoŋker        jaann-am                   gell         jeb’b’        pued’ 
+        хонгкэр        хонгкэр        мать.dim.nom.sg-poss1        гэлл?        neg.1pl       прийти.cng.npst
+‘Хонгкэр, хонгкэр, мамочка гэлл, не придем’    
+(92)        čofta        l’ii        eellm        oollm-e        leeg        looss-e                
+        очень        быть.npst.3sg        настоящий         человек-gen.sg        запах.acc.sg        трудный-pred
+        ap’p’s’-e
+        нюхать-inf
+        ‘Очень тяжело переносить (букв.: пахнет) человеческий запах’  
+(93)        aahk’        ujjn        
+        жена.nom.sg        видеть.npst.3sg
+        ‘Мать видит’  
+(94)        sɨjj        jev        moac’        
+        они.nom        neg.3pl        вернуться.npst.cng
+        ‘Не вернутся они’  
+(95)        kug’g’-eh’t’        m’iil’l’te
+        кричать-caus1.pst.3sg        следом
+        ‘Крикнула вслед’  
+(96)        paar’n’-am        paar’n’-am        voar’r’-d-uvv-e         
+        ребёнок.nom.pl-poss1        ребёнок.nom.pl-poss1        беречь-caus?-pass-imp.pl
+        ‘Ребятушки, ребятушки, берегитесь’  
+(97)        kas’t        k’eed’d’k’        eell-an
+        где        камень.nom.sg        высокий-inch.npst.3sg
+‘Где камень будет возвышаться’ 
+(98)        tam’p’e        eellm        olm-enč                t’in-et’        šɨll
+        там        настоящий        человек-dim.nom.sg        вы-acc        ловить.npst.3sg
+        ‘Там человек вас ловит’  
+(99)        tel’        moast        puud’-e 
+        вот        назад        прийти-pst.3sg
+        ‘После домой пришла’  
+(100)        tool        saj-es’t        luuj̥k-e
+        огонь.gen.sg        место-loc.sg        плакать-pst.3sg        
+        ‘Около огня плакала’  
+(101)        luuj̥k-e        ja        ež-en-es’        jɒdd-s-el-eškud’-e
+        плакать-pst.3sg        и        отец-com.sg-poss3        ехать-suf-suf-inch-pst.3sg
+        ‘Плакала и с отцом стала собираться ехать’  
+(121)        k’aass-x-en’        puuʒ-ed-es’
+        тянуть-caus-pst.3pl        олень-acc.pl-poss3
+        ‘Запрягли своих оленей’  
+(103)        koab        kued-es’        kɨšk-e
+        жена.nom.sg        вежа.acc.sg-poss3        рвать-pst.3sg
+        ‘Жена разобрала вежу’  
+(104)        n’iicckas        l’iij-en’        tueres’        muurr-en’
+        голень.nom.pl        быть-pst.3pl        поперечный-attr        дерево-ess
+        ‘Кости, голени оленей были ставниками и поперечниками’  
+(105)   ukks        m’iilk-es’t        lɨhk-enč
+        дверь.nom.sg        грудь_зв-loc.sg        делать-ptcp.pst
+        ‘Дверь была сделана из грудины’  
+(106)        kued’        muurr-en’        l’iij-en’        jeer̥’r̥’t-b’el’l’-taaf’t
+        вежа.gen.sg        дерево-ess        быть-pst.3pl        бок-сторона-кость.nom.pl
+        ‘Скелетом вежи служили ребра’  
+(107)        kaaht-enč        l’ajj        tuul’j-e-guejm
+        затянуть-ptcp.pst        быть.pst.3sg        шкура-gen.pl-com
+        ‘Затянута была вежа шкурами’  
+(108)        pɨj-e        k’eer’s’-e
+        класть-pst.3sg        керёжа-dat.sg
+        ‘Положила в керёжку’  
+(109)        ja        vɨjj-l’-en’        až’-es’        kuadd-a
+        и        ехать-pfv-pst.3pl        отец.gen.sg-poss3        вежа-dat.sg
+        ‘и поехали в вежу её отца’

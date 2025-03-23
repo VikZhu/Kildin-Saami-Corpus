@@ -1,0 +1,38 @@
+﻿(1)        jiil’l’-en’        jiil’l’-en’
+        жить-pst.3pl        жить-pst.3pl
+        ‘Жили, жили’
+(2)        puud’d’-en’        žen’ex’        eel’l’k’-en’        svat’-j-edd-e
+        прийти-pst.3pl        жених.nom.pl        начать-pst.3pl        сватать-acaus-mid-inf
+        ‘Пришли женихи, начали свататься’
+(3)        k’eeǯ-en’        n’iijt-es’t’        ja        žen’x’-es’t’
+        спросить-pst.3pl        девушка-loc.sg        и        жених-loc.sg
+        ‘Спросили у девушки и жениха’
+(4)        toonn        vaalt-ax        iiž’-ant        m’iil-es’t’        al’i        k’eenn
+        ты.nom        брать-npst.2sg        refl.gen.sg-poss2        разум-loc.sg        или        кто.gen.sg
+        ‘Ты берёшь по своему желанию или как?’
+(5)        munn        gu        vaalt-a        iǯ-an        m’iil’l’-e        
+        я        prt        брать-npst.1sg        refl.dat.sg-poss1        разум-dat.sg
+        ‘Я беру по своему желанию’
+(6)        a        toonn        kooxxt        vuelk-ax
+        а        ты.nom        как        пойти-npst.2sg
+        ‘А ты как, идёшь?’
+(7)        vuelk-a
+        пойти-npst.1sg
+        ‘Иду’
+(8)        no        ladno,        jeel’-eškuud’d’-en’
+        prt        ладно        жить-inch-pst.3sg
+        ‘Ну ладно, стали жить’        
+(9)        tel’        značit        согласились        značit        svad’ba        bɨdd        s’iirr-e
+        вот        значить        согласились        значит        свадьба.acc.sg        нужно        играть-inf
+        ‘Вот, значит, согласились, значит, свадьбу надо играть’
+(10)        tel’        puud’d’-en        ɒšte        ja        meenn        menenn-em=denneg’e
+        вот        прийти-pst.3pl        действительно        и        что.acc.sg?        идти-nmlz?=emph
+        ‘Вот пришли на самом деле, прошли’
+(11)        vɨg’g’-en        žen’ex’        žen’ex’        pɨht’-en’        n’iijjt-a        
+        вести-pst.3pl        жених.acc.sg        жених.acc.sg        привести-pst.3sg        девушка-dat.sg
+        ‘Провели жениха, жениха привезли к девушке’
+(12)        kuennt        možet        pɨht        tam’b’e        štof        ven’n’-e’
+        нести-npst.3sg        может        принести.npst.3sg        там        штоф.acc.sg        водка-part
+        ja        pɨht        čuar-b’eel’l’        vueɲɲč-e
+        и        принести.npst.3sg        нижний-сторона        мясо-part
+        ‘Приносит, возможно, штоф водки и приносит, возможно, заднюю ляжку мяса’
