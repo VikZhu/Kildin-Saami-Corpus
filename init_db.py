@@ -75,21 +75,25 @@ def add_file(filename):
         lang = sent_data["lang"]
         translation = sent_data["text"]
 
-        sent = Sentence(lang=lang, translation=translation)
+        words_data = sent_data["words"]
+        full_text = ' '.join([word["wf"] for word in words_data])
+        full_gloss = ' '.join([word['ana'][0]['gloss_ru'] for word in words_data])
+
+        sent = Sentence(lang=lang, translation=translation, full_gloss=full_gloss, full_text=full_text)
         text.sentences.append(sent)
 
-        words_data = sent_data["words"]
         for word_data in words_data:
             wtype = word_data.pop("wtype")
             if wtype == "punct":
                 continue
 
-            form = word_data.pop("wf")\
+            form = word_data.pop("wf")
             # в 'ana' хранятся анализы, берём всегда первый из них (он и так всегда один, потому что это глоссированные нами тексты)
             _annotation = word_data.pop("ana")[0]
             pos = _annotation["gr.pos"]
+            word_gloss = _annotation["gloss_ru"]
 
-            word = Word(form=form, pos=pos, **word_data)
+            word = Word(form=form, pos=pos, word_gloss=word_gloss, **word_data)
             sent.words.append(word)
 
             glosses = parse_annotation(_annotation)

@@ -1,36 +1,46 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Search</title>
-</head>
-<body>
+{% extends "base.html" %}
+
+{% block title %}Поиск{% endblock %}
+
+{% block content %}
     <h1>Поиск</h1>
+    <p>Выберите один из способов поиска по корпусу. Вносить информацию одновременно в несколько ячеек нельзя. В третьей ячейке можно искать не только по целому слову, но и по его части.</p>
     
     <!-- Форма поиска -->
     <form action="/search" method="get">
-        <label for="meaning">Meaning:</label>
-        <input type="text" id="meaning" name="meaning" value="{{ meaning }}" placeholder="Enter meaning"><br><br>
+        <label for="meaning">Глосса:</label>
+        <input type="text" id="meaning" name="meaning" value="{{ meaning }}" placeholder="Введите глоссу">
+        <input type="submit" value="Найти по глоссе"><br><br>
         
-        <label for="pos">POS (Part of Speech):</label>
-        <input type="text" id="pos" name="pos" value="{{ pos }}" placeholder="Enter POS"><br><br>
+        <label for="pos">Часть речи:</label>
+        <input type="text" id="pos" name="pos" value="{{ pos }}" placeholder="Введите часть речи">
+        <input type="submit" value="Найти по части речи"><br><br>
         
-        <label for="stem">Part of Stem:</label>
-        <input type="text" id="stem" name="stem" value="{{ stem }}" placeholder="Enter part of stem"><br><br>
-        
-        <input type="submit" value="Search">
+        <label for="stem">Поиск по слову:</label>
+        <input type="text" id="stem" name="stem" value="{{ stem }}" placeholder="Введите слово">
+        <input type="submit" value="Найти по слову"><br><br>
     </form>
 
     <h2>Результаты поиска</h2>
-    <ul>
         {% if results %}
-            {% for result in results %}
-                <li>{{ result }}</li>
+            {% for word in results %}
+                <div class="sentence-result">
+                    <div> 
+                        {% for sent_word in word.sentence.words %}
+                        <ul class='word'>
+                            <li><span class="{{'hl' if sent_word.word_id==word.word_id}}">{{sent_word.form}}</span></li>
+                            <li>
+                                {{sent_word.word_gloss}}
+                            </li>
+                        </ul>
+                        {% endfor %}
+                    </div>
+                    <ul class="translation">
+                    <li> {{word.sentence.translation}} </li>
+                    </ul>
+                </div>
             {% endfor %}
         {% else %}
             <li>Ничего не найдено.</li>
         {% endif %}
-    </ul>
-</body>
-</html>
+{% endblock %}

@@ -1,8 +1,8 @@
-from flask import Flask, render_template, request
-from datetime import datetime
-from sqlalchemy import and_, text
-from flask_db import db, Text, Sentence, Word, Gloss, PossibleGloss, PossibleStem
 import os
+from flask import Flask, render_template, request
+from sqlalchemy import text
+from sqlalchemy.orm import joinedload
+from flask_db import db, Text, Sentence, Word, Gloss, PossibleGloss, PossibleStem
 
 from bd_requests import top_glosses, count_stems, count_words, count_texts, top_word_by_pos
 
@@ -34,50 +34,37 @@ def search():
         if meaning_to_find:
             # Поиск по meaning
             words_with_gloss = (
-                db.session.query(Word)
+                db.session.query(Word).options(joinedload(Word.sentence).joinedload(Sentence.words))
                 .join(Gloss)
+                .join(Sentence)
                 .join(PossibleGloss)
                 .filter(PossibleGloss.meaning.ilike(f"%{meaning_to_find}%"))
                 .all()
             )
-            for word in words_with_gloss:
-                results.append(f"Word ID: {word.word_id}, Form: {word.form}, POS: {word.pos}, Sentence: {word.sentence.translation}")
+            results = words_with_gloss
         
         elif pos_to_find:
             # Поиск по части речи
             words_with_context = (
-                db.session.query(Word)
+                db.session.query(Word).options(joinedload(Word.sentence).joinedload(Sentence.words))
                 .join(Sentence)
                 .filter(Word.pos == pos_to_find)
                 .all()
             )
-            for word in words_with_context:
-                results.append(f"Word ID: {word.word_id}, Form: {word.form}, POS: {word.pos}, Sentence: {word.sentence.translation}")
+            results = words_with_context
 
         elif part_stem:
-            # Поиск по основе
             part_stem_results = (
-                db.session.query(
-                    PossibleStem.allomorph,
-                    PossibleStem.meaning,
-                    Word.form,
-                    Text.title,
-                )
-                .join(Gloss, Gloss.possible_stem_id == PossibleStem.possible_stem_id)
-                .join(Word, Word.word_id == Gloss.word_id)
+                db.session.query(Word).options(joinedload(Word.sentence).joinedload(Sentence.words))
+                .join(Gloss, Word.word_id == Gloss.word_id)
+                .join(PossibleStem, Gloss.possible_stem_id == PossibleStem.possible_stem_id)
                 .join(Sentence, Sentence.sentence_id == Word.sentence_id)
                 .join(Text, Text.text_id == Sentence.text_id)
                 .filter(PossibleStem.allomorph.ilike(f"%{part_stem}%"))
                 .all()
             )
-            for row in part_stem_results:
-                results.append(f"Allomorph: {row.allomorph}, Meaning: {row.meaning}, Word Form: {row.form}, Text Title: {row.title}")
-
+            results = part_stem_results
     return render_template('search.html', results=results, meaning=meaning_to_find, pos=pos_to_find, stem=part_stem)
-
-@app.route("/about")
-def about():
-    return render_template('about.html')
 
 @app.route("/statistics")
 def bd_statistics():
@@ -98,6 +85,7 @@ def bd_statistics():
                            total_words=total_words_result,
                            total_texts=total_texts_result,
                            top_word_by_pos=top_word_by_pos_result)
+
 
 if __name__ == '__main__':
     app.run(debug=True)

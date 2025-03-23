@@ -1,11 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Statistics</title>
-</head>
-<body>
+{% extends "base.html" %}
+
+{% block title %}Статистика{% endblock %}
+
+{% block content %}
     <h1>Статистика</h1>
 
     <h2>Топ-10 Глосс</h2>
@@ -28,14 +25,20 @@
         </tbody>
     </table>
 
-    <h2>Общее количество возможных основ</h2>
-    <p>{{ total_possible_stems }}</p>
+    <div class="stat-box">
+        <h3>Общее количество возможных основ</h3>
+        <p>{{ total_possible_stems }}</p>
+    </div>
 
-    <h2>Общее количество слов</h2>
-    <p>{{ total_words }}</p>
+    <div class="stat-box">
+        <h3>Общее количество слов</h3>
+        <p>{{ total_words }}</p>
+    </div>
 
-    <h2>Общее количество текстов</h2>
-    <p>{{ total_texts }}</p>
+    <div class="stat-box">
+        <h3>Общее количество текстов</h3>
+        <p>{{ total_texts }}</p>
+    </div>
 
     <h2>Топ-5 слов по частям речи</h2>
     <table>
@@ -56,5 +59,4 @@
             {% endfor %}
         </tbody>
     </table>
-</body>
-</html>
+{% endblock %}

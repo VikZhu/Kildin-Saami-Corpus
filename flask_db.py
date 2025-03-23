@@ -22,13 +22,14 @@ class Sentence(db.Model):
 
     sentence_id = db.Column('sentence_id', db.Integer, primary_key=True)
     lang = db.Column('lang', db.Text)
-    # full_text = db.Column('full_text', db.Text)
+    full_text = db.Column('full_text', db.Text)
+    full_gloss = db.Column('full_gloss', db.Text)
     translation = db.Column('translation', db.Text)
 
     text_id = db.Column(db.Integer, ForeignKey('texts.text_id'))
     text = relationship("Text", back_populates="sentences", uselist=False)
 
-    words = relationship("Word", back_populates="sentence")
+    words = relationship("Word", back_populates="sentence", lazy='subquery')
     
 
     # Внешний ключ, ссылающийся на text_id в таблице texts
@@ -43,6 +44,7 @@ class Word(db.Model):
     word_id = db.Column('word_id', db.Integer, primary_key=True)
     form = db.Column('form', db.Text)
     pos = db.Column('pos', db.Text)
+    word_gloss = db.Column('word_gloss', db.Text)
 
     off_start = db.Column("off_start", db.Integer)
     off_end = db.Column("off_end", db.Integer)
@@ -51,7 +53,7 @@ class Word(db.Model):
     sentence_index_neg = db.Column("sentence_index_neg", db.Integer)
 
     sentence_id = db.Column(db.Integer, ForeignKey('sentences.sentence_id'))
-    sentence = relationship("Sentence", back_populates="words")
+    sentence = relationship("Sentence", back_populates="words", lazy='subquery')
 
     # TODO:
     glosses = relationship("Gloss", back_populates="word")
