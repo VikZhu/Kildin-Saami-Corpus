@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Statistics</title>
+</head>
+<body>
+    <h1>Статистика</h1>
+
+    <h2>Топ-10 Глосс</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Meaning</th>
+                <th>Allomorph</th>
+                <th>Frequency</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for gloss in top_glosses %}
+                <tr>
+                    <td>{{ gloss.meaning }}</td>
+                    <td>{{ gloss.allomorph }}</td>
+                    <td>{{ gloss.frequency }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+    <h2>Общее количество возможных основ</h2>
+    <p>{{ total_possible_stems }}</p>
+
+    <h2>Общее количество слов</h2>
+    <p>{{ total_words }}</p>
+
+    <h2>Общее количество текстов</h2>
+    <p>{{ total_texts }}</p>
+
+    <h2>Топ-5 слов по частям речи</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>POS</th>
+                <th>Word Form</th>
+                <th>Frequency</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for row in top_word_by_pos %}
+                <tr>
+                    <td>{{ row.pos }}</td>
+                    <td>{{ row.form }}</td>
+                    <td>{{ row.frequency }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>
