@@ -1,0 +1,3434 @@
+{
+    "meta": {
+        "title": "kld_txt_Lehtiranta_3_kɒn’t’_moajnas",
+        "filename": "corpus/xml/output_converted.xml"
+    },
+    "sentences": [
+        {
+            "lang": 0,
+            "words": [
+                {
+                    "wtype": "word",
+                    "wf": "aag’est",
+                    "ana": [
+                        {
+                            "parts": "aag’-est",
+                            "gloss": "",
+                            "gloss_index": "STEM{aag’}-LOC.SG{est}-",
+                            "lex": "aag’",
+                            "trans_ru": "женщина-loc.sg",
+                            "gloss_ru": "женщина-loc.sg",
+                            "gloss_index_ru": "STEM{aag’}-LOC.SG{est}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 7,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wtype": "word",
+                    "wf": "l’aaj",
+                    "ana": [
+                        {
+                            "parts": "l’aaj",
+                            "gloss": "",
+                            "gloss_index": "STEM{l’aaj}-",
+                            "lex": "l’aaj",
+                            "trans_ru": "быть.pst.3sg",
+                            "gloss_ru": "быть.pst.3sg",
+                            "gloss_index_ru": "STEM{l’aaj}-",
+                            "gr.pos": "VERB"
+                        }
+                    ],
+                    "off_start": 8,
+                    "off_end": 13,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wtype": "word",
+                    "wf": "kɒn’n’t",
+                    "ana": [
+                        {
+                            "parts": "kɒn’n’t",
+                            "gloss": "",
+                            "gloss_index": "STEM{kɒn’n’t}-",
+                            "lex": "kɒn’n’t",
+                            "trans_ru": "дикий_олень.nom.sg",
+                            "gloss_ru": "дикий_олень.nom.sg",
+                            "gloss_index_ru": "STEM{kɒn’n’t}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 14,
+                    "off_end": 21,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wtype": "word",
+                    "wf": "kaallsen",
+                    "ana": [
+                        {
+                            "parts": "kaalls-en",
+                            "gloss": "",
+                            "gloss_index": "STEM{kaalls}-ESS{en}-",
+                            "lex": "kaalls",
+                            "trans_ru": "мужик-ess",
+                            "gloss_ru": "мужик-ess",
+                            "gloss_index_ru": "STEM{kaalls}-ESS{en}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 22,
+                    "off_end": 30,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "text": "У одной женщины был в мужьях дикий олень.",
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 41,
+                    "para_id": 1
+                }
+            ]
+        },
+        {
+            "lang": 0,
+            "words": [
+                {
+                    "wtype": "word",
+                    "wf": "s’iinen",
+                    "ana": [
+                        {
+                            "parts": "s’iin-en",
+                            "gloss": "",
+                            "gloss_index": "STEM{s’iin}-LOC{en}-",
+                            "lex": "s’iin",
+                            "trans_ru": "3pl-loc",
+                            "gloss_ru": "3pl-loc",
+                            "gloss_index_ru": "STEM{s’iin}-LOC{en}-",
+                            "gr.pos": "NUM"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 7,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wtype": "word",
+                    "wf": "šende(j)",
+                    "ana": [
+                        {
+                            "parts": "šend-e(j)",
+                            "gloss": "",
+                            "gloss_index": "STEM{šend}-PST.3SG{e(j)}-",
+                            "lex": "šend",
+                            "trans_ru": "стать-pst.3sg",
+                            "gloss_ru": "стать-pst.3sg",
+                            "gloss_index_ru": "STEM{šend}-PST.3SG{e(j)}-",
+                            "gr.pos": "VERB"
+                        }
+                    ],
+                    "off_start": 8,
+                    "off_end": 16,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wtype": "word",
+                    "wf": "paaršeɲč",
+                    "ana": [
+                        {
+                            "parts": "paarš-eɲč",
+                            "gloss": "",
+                            "gloss_index": "STEM{paarš}-DIM.NOM.SG{eɲč}-",
+                            "lex": "paarš",
+                            "trans_ru": "мальчик-dim.nom.sg",
+                            "gloss_ru": "мальчик-dim.nom.sg",
+                            "gloss_index_ru": "STEM{paarš}-DIM.NOM.SG{eɲč}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 17,
+                    "off_end": 25,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "text": "У них родился сынишка.",
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 22,
+                    "para_id": 2
+                }
+            ]
+        },
+        {
+            "lang": 0,
+            "words": [
+                {
+                    "wtype": "word",
+                    "wf": "kɒn’n’t",
+                    "ana": [
+                        {
+                            "parts": "kɒn’n’t",
+                            "gloss": "",
+                            "gloss_index": "STEM{kɒn’n’t}-",
+                            "lex": "kɒn’n’t",
+                            "trans_ru": "дикий_олень.nom.sg",
+                            "gloss_ru": "дикий_олень.nom.sg",
+                            "gloss_index_ru": "STEM{kɒn’n’t}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 7,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wtype": "word",
+                    "wf": "vɨl’ge(j)",
+                    "ana": [
+                        {
+                            "parts": "vɨl’g-e(j)",
+                            "gloss": "",
+                            "gloss_index": "STEM{vɨl’g}-PST.3SG{e(j)}-",
+                            "lex": "vɨl’g",
+                            "trans_ru": "пойти-pst.3sg",
+                            "gloss_ru": "пойти-pst.3sg",
+                            "gloss_index_ru": "STEM{vɨl’g}-PST.3SG{e(j)}-",
+                            "gr.pos": "VERB"
+                        }
+                    ],
+                    "off_start": 8,
+                    "off_end": 17,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wtype": "word",
+                    "wf": "m’aacca",
+                    "ana": [
+                        {
+                            "parts": "m’aacc-a",
+                            "gloss": "",
+                            "gloss_index": "STEM{m’aacc}-DAT.SG{a}-",
+                            "lex": "m’aacc",
+                            "trans_ru": "охота-dat.sg",
+                            "gloss_ru": "охота-dat.sg",
+                            "gloss_index_ru": "STEM{m’aacc}-DAT.SG{a}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 18,
+                    "off_end": 25,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "text": "Дикий олень пошел на охоту.",
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 27,
+                    "para_id": 3
+                }
+            ]
+        },
+        {
+            "lang": 0,
+            "words": [
+                {
+                    "wtype": "word",
+                    "wf": "i",
+                    "ana": [
+                        {
+                            "parts": "i",
+                            "gloss": "",
+                            "gloss_index": "STEM{i}-",
+                            "lex": "i",
+                            "trans_ru": "и",
+                            "gloss_ru": "и",
+                            "gloss_index_ru": "STEM{i}-",
+                            "gr.pos": "CCONJ"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 1,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wtype": "word",
+                    "wf": "saarrn",
+                    "ana": [
+                        {
+                            "parts": "saarrn",
+                            "gloss": "",
+                            "gloss_index": "STEM{saarrn}-",
+                            "lex": "saarrn",
+                            "trans_ru": "говорить.npst.3sg",
+                            "gloss_ru": "говорить.npst.3sg",
+                            "gloss_index_ru": "STEM{saarrn}-",
+                            "gr.pos": "VERB"
+                        }
+                    ],
+                    "off_start": 2,
+                    "off_end": 8,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wtype": "word",
+                    "wf": "aakkas",
+                    "ana": [
+                        {
+                            "parts": "aakk-a-s",
+                            "gloss": "",
+                            "gloss_index": "STEM{aakk}-DAT.SG{a}-POSS3{s}-",
+                            "lex": "aakk",
+                            "trans_ru": "женщина-dat.sg-poss3",
+                            "gloss_ru": "женщина-dat.sg-poss3",
+                            "gloss_index_ru": "STEM{aakk}-DAT.SG{a}-POSS3{s}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 9,
+                    "off_end": 15,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "text": "И говорит своей жене.",
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 21,
+                    "para_id": 4
+                }
+            ]
+        },
+        {
+            "lang": 0,
+            "words": [
+                {
+                    "wtype": "word",
+                    "wf": "jeel’",
+                    "ana": [
+                        {
+                            "parts": "jeel’",
+                            "gloss": "",
+                            "gloss_index": "STEM{jeel’}-",
+                            "lex": "jeel’",
+                            "trans_ru": "proh.sg",
+                            "gloss_ru": "proh.sg",
+                            "gloss_index_ru": "STEM{jeel’}-",
+                            "gr.pos": "PROPN"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 5,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "wtype": "word",
+                    "wf": "pɨj(e)",
+                    "ana": [
+                        {
+                            "parts": "pɨj(-e)",
+                            "gloss": "",
+                            "gloss_index": "STEM{pɨj(}-",
+                            "lex": "pɨj(",
+                            "trans_ru": "класть.imp.sg",
+                            "gloss_ru": "класть.imp.sg",
+                            "gloss_index_ru": "STEM{pɨj(}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 6,
+                    "off_end": 12,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "wtype": "word",
+                    "wf": "paarnaj",
+                    "ana": [
+                        {
+                            "parts": "paarn-aj",
+                            "gloss": "",
+                            "gloss_index": "STEM{paarn}-DIM.GEN.PL{aj}-",
+                            "lex": "paarn",
+                            "trans_ru": "парень-dim.gen.pl",
+                            "gloss_ru": "парень-dim.gen.pl",
+                            "gloss_index_ru": "STEM{paarn}-DIM.GEN.PL{aj}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 13,
+                    "off_end": 20,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wtype": "word",
+                    "wf": "kooɲɲčtuul’j",
+                    "ana": [
+                        {
+                            "parts": "kooɲɲč-tuul’j",
+                            "gloss": "",
+                            "gloss_index": "STEM{kooɲɲč}-ШКУРА.ACC.SG{tuul’j}-",
+                            "lex": "kooɲɲč",
+                            "trans_ru": "моча.nom.sg-шкура.acc.sg",
+                            "gloss_ru": "моча.nom.sg-шкура.acc.sg",
+                            "gloss_index_ru": "STEM{kooɲɲč}-ШКУРА.ACC.SG{tuul’j}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 21,
+                    "off_end": 33,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wtype": "word",
+                    "wf": "vuus’s’temp’aalla",
+                    "ana": [
+                        {
+                            "parts": "vuus’s’tem-p’aall-a",
+                            "gloss": "",
+                            "gloss_index": "STEM{vuus’s’tem}-СТОРОНА{p’aall}-DAT.SG{a}-",
+                            "lex": "vuus’s’tem",
+                            "trans_ru": "встречный-сторона-dat.sg",
+                            "gloss_ru": "встречный-сторона-dat.sg",
+                            "gloss_index_ru": "STEM{vuus’s’tem}-СТОРОНА{p’aall}-DAT.SG{a}-",
+                            "gr.pos": "ADJ"
+                        }
+                    ],
+                    "off_start": 34,
+                    "off_end": 51,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wtype": "word",
+                    "wf": "kued’(e)",
+                    "ana": [
+                        {
+                            "parts": "kued’(-e)",
+                            "gloss": "",
+                            "gloss_index": "STEM{kued’(}-",
+                            "lex": "kued’(",
+                            "trans_ru": "вежа.gen.sg",
+                            "gloss_ru": "вежа.gen.sg",
+                            "gloss_index_ru": "STEM{kued’(}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 52,
+                    "off_end": 60,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "text": "Не вешай обмоченную шкуру ребенка на подветренную сторону хижины.",
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 65,
+                    "para_id": 5
+                }
+            ]
+        },
+        {
+            "lang": 0,
+            "words": [
+                {
+                    "wtype": "word",
+                    "wf": "pɨjax",
+                    "ana": [
+                        {
+                            "parts": "pɨj-ax",
+                            "gloss": "",
+                            "gloss_index": "STEM{pɨj}-NPST.2SG{ax}-",
+                            "lex": "pɨj",
+                            "trans_ru": "класть-npst.2sg",
+                            "gloss_ru": "класть-npst.2sg",
+                            "gloss_index_ru": "STEM{pɨj}-NPST.2SG{ax}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 5,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wtype": "word",
+                    "wf": "vuus’s’temp’aalla",
+                    "ana": [
+                        {
+                            "parts": "vuus’s’tem-p’aall-a",
+                            "gloss": "",
+                            "gloss_index": "STEM{vuus’s’tem}-СТОРОНА{p’aall}-DAT.SG{a}-",
+                            "lex": "vuus’s’tem",
+                            "trans_ru": "встречный-сторона-dat.sg",
+                            "gloss_ru": "встречный-сторона-dat.sg",
+                            "gloss_index_ru": "STEM{vuus’s’tem}-СТОРОНА{p’aall}-DAT.SG{a}-",
+                            "gr.pos": "ADJ"
+                        }
+                    ],
+                    "off_start": 6,
+                    "off_end": 23,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wtype": "word",
+                    "wf": "kued’(e)",
+                    "ana": [
+                        {
+                            "parts": "kued’(-e)",
+                            "gloss": "",
+                            "gloss_index": "STEM{kued’(}-",
+                            "lex": "kued’(",
+                            "trans_ru": "вежа.gen.sg",
+                            "gloss_ru": "вежа.gen.sg",
+                            "gloss_index_ru": "STEM{kued’(}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 24,
+                    "off_end": 32,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "text": "Если ты [ее] повесишь на подветренную сторону хижины.",
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 53,
+                    "para_id": 6
+                }
+            ]
+        },
+        {
+            "lang": 0,
+            "words": [
+                {
+                    "wtype": "word",
+                    "wf": "egg",
+                    "ana": [
+                        {
+                            "parts": "egg",
+                            "gloss": "",
+                            "gloss_index": "STEM{egg}-",
+                            "lex": "egg",
+                            "trans_ru": "neg.2sg",
+                            "gloss_ru": "neg.2sg",
+                            "gloss_index_ru": "STEM{egg}-",
+                            "gr.pos": "PROPN"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 3,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wtype": "word",
+                    "wf": "ujn",
+                    "ana": [
+                        {
+                            "parts": "ujn",
+                            "gloss": "",
+                            "gloss_index": "STEM{ujn}-",
+                            "lex": "ujn",
+                            "trans_ru": "видеть.npst.cng",
+                            "gloss_ru": "видеть.npst.cng",
+                            "gloss_index_ru": "STEM{ujn}-",
+                            "gr.pos": "VERB"
+                        }
+                    ],
+                    "off_start": 4,
+                    "off_end": 7,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wtype": "word",
+                    "wf": "bol’še",
+                    "ana": [
+                        {
+                            "parts": "bol’še",
+                            "gloss": "",
+                            "gloss_index": "STEM{bol’še}-",
+                            "lex": "bol’še",
+                            "trans_ru": "больше",
+                            "gloss_ru": "больше",
+                            "gloss_index_ru": "STEM{bol’še}-",
+                            "gr.pos": "NUM"
+                        }
+                    ],
+                    "off_start": 8,
+                    "off_end": 14,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wtype": "word",
+                    "wf": "muun(e)",
+                    "ana": [
+                        {
+                            "parts": "muun(-e)",
+                            "gloss": "",
+                            "gloss_index": "STEM{muun(}-",
+                            "lex": "muun(",
+                            "trans_ru": "1sg.acc",
+                            "gloss_ru": "1sg.acc",
+                            "gloss_index_ru": "STEM{muun(}-",
+                            "gr.pos": "ADJ"
+                        }
+                    ],
+                    "off_start": 15,
+                    "off_end": 22,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "text": "Ты меня больше не увидишь.",
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 26,
+                    "para_id": 7
+                }
+            ]
+        },
+        {
+            "lang": 0,
+            "words": [
+                {
+                    "wtype": "word",
+                    "wf": "aak’k’",
+                    "ana": [
+                        {
+                            "parts": "aak’k’",
+                            "gloss": "",
+                            "gloss_index": "STEM{aak’k’}-",
+                            "lex": "aak’k’",
+                            "trans_ru": "женщина.nom.sg",
+                            "gloss_ru": "женщина.nom.sg",
+                            "gloss_index_ru": "STEM{aak’k’}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 6,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "wtype": "word",
+                    "wf": "pɨje(j)",
+                    "ana": [
+                        {
+                            "parts": "pɨj-e(j)",
+                            "gloss": "",
+                            "gloss_index": "STEM{pɨj}-PST.3SG{e(j)}-",
+                            "lex": "pɨj",
+                            "trans_ru": "класть-pst.3sg",
+                            "gloss_ru": "класть-pst.3sg",
+                            "gloss_index_ru": "STEM{pɨj}-PST.3SG{e(j)}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 7,
+                    "off_end": 14,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wtype": "word",
+                    "wf": "vuus’s’temp’aalla",
+                    "ana": [
+                        {
+                            "parts": "vuus’s’tem-p’aall-a",
+                            "gloss": "",
+                            "gloss_index": "STEM{vuus’s’tem}-СТОРОНА{p’aall}-DAT.SG{a}-",
+                            "lex": "vuus’s’tem",
+                            "trans_ru": "встречный-сторона-dat.sg",
+                            "gloss_ru": "встречный-сторона-dat.sg",
+                            "gloss_index_ru": "STEM{vuus’s’tem}-СТОРОНА{p’aall}-DAT.SG{a}-",
+                            "gr.pos": "ADJ"
+                        }
+                    ],
+                    "off_start": 15,
+                    "off_end": 32,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wtype": "word",
+                    "wf": "kued’(e)",
+                    "ana": [
+                        {
+                            "parts": "kued’(-e)",
+                            "gloss": "",
+                            "gloss_index": "STEM{kued’(}-",
+                            "lex": "kued’(",
+                            "trans_ru": "вежа.gen.sg",
+                            "gloss_ru": "вежа.gen.sg",
+                            "gloss_index_ru": "STEM{kued’(}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 33,
+                    "off_end": 41,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wtype": "word",
+                    "wf": "kooɲɲčtuul’j",
+                    "ana": [
+                        {
+                            "parts": "kooɲɲč-tuul’j",
+                            "gloss": "",
+                            "gloss_index": "STEM{kooɲɲč}-ШКУРА.ACC.SG{tuul’j}-",
+                            "lex": "kooɲɲč",
+                            "trans_ru": "моча.nom.sg-шкура.acc.sg",
+                            "gloss_ru": "моча.nom.sg-шкура.acc.sg",
+                            "gloss_index_ru": "STEM{kooɲɲč}-ШКУРА.ACC.SG{tuul’j}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 42,
+                    "off_end": 54,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "text": "Женщина повесила обмоченную шкуру на подветренную сторону хижины.",
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 65,
+                    "para_id": 8
+                }
+            ]
+        },
+        {
+            "lang": 0,
+            "words": [
+                {
+                    "wtype": "word",
+                    "wf": "kɒn’n’t",
+                    "ana": [
+                        {
+                            "parts": "kɒn’n’t",
+                            "gloss": "",
+                            "gloss_index": "STEM{kɒn’n’t}-",
+                            "lex": "kɒn’n’t",
+                            "trans_ru": "дикий_олень.nom.sg",
+                            "gloss_ru": "дикий_олень.nom.sg",
+                            "gloss_index_ru": "STEM{kɒn’n’t}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 7,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wtype": "word",
+                    "wf": "puud’e(j)",
+                    "ana": [
+                        {
+                            "parts": "puud’-e(j)",
+                            "gloss": "",
+                            "gloss_index": "STEM{puud’}-PST.3SG{e(j)}-",
+                            "lex": "puud’",
+                            "trans_ru": "прийти-pst.3sg",
+                            "gloss_ru": "прийти-pst.3sg",
+                            "gloss_index_ru": "STEM{puud’}-PST.3SG{e(j)}-",
+                            "gr.pos": "VERB"
+                        }
+                    ],
+                    "off_start": 8,
+                    "off_end": 17,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wtype": "word",
+                    "wf": "m’eec’est",
+                    "ana": [
+                        {
+                            "parts": "m’eec’-est",
+                            "gloss": "",
+                            "gloss_index": "STEM{m’eec’}-LOC.SG{est}-",
+                            "lex": "m’eec’",
+                            "trans_ru": "охота-loc.sg",
+                            "gloss_ru": "охота-loc.sg",
+                            "gloss_index_ru": "STEM{m’eec’}-LOC.SG{est}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 18,
+                    "off_end": 27,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "text": "Дикий олень пришел с охоты.",
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 27,
+                    "para_id": 9
+                }
+            ]
+        },
+        {
+            "lang": 0,
+            "words": [
+                {
+                    "wtype": "word",
+                    "wf": "puud’e(j)",
+                    "ana": [
+                        {
+                            "parts": "puud’-e(j)",
+                            "gloss": "",
+                            "gloss_index": "STEM{puud’}-PST.3SG{e(j)}-",
+                            "lex": "puud’",
+                            "trans_ru": "прийти-pst.3sg",
+                            "gloss_ru": "прийти-pst.3sg",
+                            "gloss_index_ru": "STEM{puud’}-PST.3SG{e(j)}-",
+                            "gr.pos": "VERB"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 9,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wtype": "word",
+                    "wf": "m’iidmeɲčp’aalla",
+                    "ana": [
+                        {
+                            "parts": "m’iidm-eɲč-p’aall-a",
+                            "gloss": "",
+                            "gloss_index": "STEM{m’iidm}-?{eɲč}-СТОРОНА{p’aall}-DAT.SG{a}-",
+                            "lex": "m’iidm",
+                            "trans_ru": "попутный-?-сторона-dat.sg",
+                            "gloss_ru": "попутный-?-сторона-dat.sg",
+                            "gloss_index_ru": "STEM{m’iidm}-?{eɲč}-СТОРОНА{p’aall}-DAT.SG{a}-",
+                            "gr.pos": "VERB"
+                        }
+                    ],
+                    "off_start": 10,
+                    "off_end": 26,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wtype": "word",
+                    "wf": "kued’(e)",
+                    "ana": [
+                        {
+                            "parts": "kued’(-e)",
+                            "gloss": "",
+                            "gloss_index": "STEM{kued’(}-",
+                            "lex": "kued’(",
+                            "trans_ru": "вежа.gen.sg",
+                            "gloss_ru": "вежа.gen.sg",
+                            "gloss_index_ru": "STEM{kued’(}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 27,
+                    "off_end": 35,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "text": "Он пришел по ветру.",
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 19,
+                    "para_id": 10
+                }
+            ]
+        },
+        {
+            "lang": 0,
+            "words": [
+                {
+                    "wtype": "word",
+                    "wf": "ap’sent",
+                    "ana": [
+                        {
+                            "parts": "ap’s-ent",
+                            "gloss": "",
+                            "gloss_index": "STEM{ap’s}-IPFV1.PST.3SG{ent}-",
+                            "lex": "ap’s",
+                            "trans_ru": "чуять-ipfv1.pst.3sg",
+                            "gloss_ru": "чуять-ipfv1.pst.3sg",
+                            "gloss_index_ru": "STEM{ap’s}-IPFV1.PST.3SG{ent}-",
+                            "gr.pos": "VERB"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 7,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "text": "Принюхивался.",
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 13,
+                    "para_id": 11
+                }
+            ]
+        },
+        {
+            "lang": 0,
+            "words": [
+                {
+                    "wtype": "word",
+                    "wf": "eellmoollme",
+                    "ana": [
+                        {
+                            "parts": "eellm-oollm-e",
+                            "gloss": "",
+                            "gloss_index": "STEM{eellm}-ЧЕЛОВЕК{oollm}-GEN.SG{e}-",
+                            "lex": "eellm",
+                            "trans_ru": "настоящий-человек-gen.sg",
+                            "gloss_ru": "настоящий-человек-gen.sg",
+                            "gloss_index_ru": "STEM{eellm}-ЧЕЛОВЕК{oollm}-GEN.SG{e}-",
+                            "gr.pos": "ADJ"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 11,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wtype": "word",
+                    "wf": "paar’n",
+                    "ana": [
+                        {
+                            "parts": "paar’n",
+                            "gloss": "",
+                            "gloss_index": "STEM{paar’n}-",
+                            "lex": "paar’n",
+                            "trans_ru": "парень.gen.sg",
+                            "gloss_ru": "парень.gen.sg",
+                            "gloss_index_ru": "STEM{paar’n}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 12,
+                    "off_end": 18,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wtype": "word",
+                    "wf": "kooɲɲč",
+                    "ana": [
+                        {
+                            "parts": "kooɲɲč",
+                            "gloss": "",
+                            "gloss_index": "STEM{kooɲɲč}-",
+                            "lex": "kooɲɲč",
+                            "trans_ru": "моча.nom.sg",
+                            "gloss_ru": "моча.nom.sg",
+                            "gloss_index_ru": "STEM{kooɲɲč}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 19,
+                    "off_end": 25,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "text": "[Пахнет как] моча настоящего человеческого ребёнка.",
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 51,
+                    "para_id": 12
+                }
+            ]
+        },
+        {
+            "lang": 0,
+            "words": [
+                {
+                    "wtype": "word",
+                    "wf": "kɒn’n’t",
+                    "ana": [
+                        {
+                            "parts": "kɒn’n’t",
+                            "gloss": "",
+                            "gloss_index": "STEM{kɒn’n’t}-",
+                            "lex": "kɒn’n’t",
+                            "trans_ru": "дикий_олень.nom.sg",
+                            "gloss_ru": "дикий_олень.nom.sg",
+                            "gloss_index_ru": "STEM{kɒn’n’t}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 7,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wtype": "word",
+                    "wf": "paj",
+                    "ana": [
+                        {
+                            "parts": "paj",
+                            "gloss": "",
+                            "gloss_index": "STEM{paj}-",
+                            "lex": "paj",
+                            "trans_ru": "всегда",
+                            "gloss_ru": "всегда",
+                            "gloss_index_ru": "STEM{paj}-",
+                            "gr.pos": "ADV"
+                        }
+                    ],
+                    "off_start": 8,
+                    "off_end": 11,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wtype": "word",
+                    "wf": "čuskent",
+                    "ana": [
+                        {
+                            "parts": "čusk-ent",
+                            "gloss": "",
+                            "gloss_index": "STEM{čusk}-PUNCT.PST.3SG{ent}-",
+                            "lex": "čusk",
+                            "trans_ru": "фыркать-punct.pst.3sg",
+                            "gloss_ru": "фыркать-punct.pst.3sg",
+                            "gloss_index_ru": "STEM{čusk}-PUNCT.PST.3SG{ent}-",
+                            "gr.pos": "VERB"
+                        }
+                    ],
+                    "off_start": 12,
+                    "off_end": 19,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "text": "Дикий олень только фыркнул.",
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 27,
+                    "para_id": 13
+                }
+            ]
+        },
+        {
+            "lang": 0,
+            "words": [
+                {
+                    "wtype": "word",
+                    "wf": "t’eerrel",
+                    "ana": [
+                        {
+                            "parts": "t’eerr-el",
+                            "gloss": "",
+                            "gloss_index": "STEM{t’eerr}-PFV1.PST.3SG{el}-",
+                            "lex": "t’eerr",
+                            "trans_ru": "бежать-pfv1.pst.3sg",
+                            "gloss_ru": "бежать-pfv1.pst.3sg",
+                            "gloss_index_ru": "STEM{t’eerr}-PFV1.PST.3SG{el}-",
+                            "gr.pos": "VERB"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 8,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "text": "Помчался [галопом прочь].",
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 25,
+                    "para_id": 14
+                }
+            ]
+        },
+        {
+            "lang": 0,
+            "words": [
+                {
+                    "wtype": "word",
+                    "wf": "kɒn’n’tpaar’r’n",
+                    "ana": [
+                        {
+                            "parts": "kɒn’n’t-paar’r’n",
+                            "gloss": "",
+                            "gloss_index": "STEM{kɒn’n’t}-ПАРЕНЬ.NOM.SG{paar’r’n}-",
+                            "lex": "kɒn’n’t",
+                            "trans_ru": "дикий_олень.nom.sg-парень.nom.sg",
+                            "gloss_ru": "дикий_олень.nom.sg-парень.nom.sg",
+                            "gloss_index_ru": "STEM{kɒn’n’t}-ПАРЕНЬ.NOM.SG{paar’r’n}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 15,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wtype": "word",
+                    "wf": "vel’l’ej",
+                    "ana": [
+                        {
+                            "parts": "vel’l’-ej",
+                            "gloss": "",
+                            "gloss_index": "STEM{vel’l’}-ACAUS.PST.3SG{ej}-",
+                            "lex": "vel’l’",
+                            "trans_ru": "вскочить-acaus.pst.3sg",
+                            "gloss_ru": "вскочить-acaus.pst.3sg",
+                            "gloss_index_ru": "STEM{vel’l’}-ACAUS.PST.3SG{ej}-",
+                            "gr.pos": "VERB"
+                        }
+                    ],
+                    "off_start": 16,
+                    "off_end": 24,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "text": "Ребенок дикого оленя вскочил.",
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 29,
+                    "para_id": 15
+                }
+            ]
+        },
+        {
+            "lang": 0,
+            "words": [
+                {
+                    "wtype": "word",
+                    "wf": "m’iil’l’te",
+                    "ana": [
+                        {
+                            "parts": "m’iil’l’te",
+                            "gloss": "",
+                            "gloss_index": "STEM{m’iil’l’te}-",
+                            "lex": "m’iil’l’te",
+                            "trans_ru": "по",
+                            "gloss_ru": "по",
+                            "gloss_index_ru": "STEM{m’iil’l’te}-",
+                            "gr.pos": "ADP"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 10,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wtype": "word",
+                    "wf": "karrel",
+                    "ana": [
+                        {
+                            "parts": "karr-el",
+                            "gloss": "",
+                            "gloss_index": "STEM{karr}-PFV1.PST.3SG{el}-",
+                            "lex": "karr",
+                            "trans_ru": "бежать-pfv1.pst.3sg",
+                            "gloss_ru": "бежать-pfv1.pst.3sg",
+                            "gloss_index_ru": "STEM{karr}-PFV1.PST.3SG{el}-",
+                            "gr.pos": "VERB"
+                        }
+                    ],
+                    "off_start": 11,
+                    "off_end": 17,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "text": "Побежал [вслед за отцом].",
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 25,
+                    "para_id": 16
+                }
+            ]
+        },
+        {
+            "lang": 0,
+            "words": [
+                {
+                    "wtype": "word",
+                    "wf": "eellmoollme",
+                    "ana": [
+                        {
+                            "parts": "eellm-oollm-e",
+                            "gloss": "",
+                            "gloss_index": "STEM{eellm}-ЧЕЛОВЕК{oollm}-GEN.SG{e}-",
+                            "lex": "eellm",
+                            "trans_ru": "настоящий-человек-gen.sg",
+                            "gloss_ru": "настоящий-человек-gen.sg",
+                            "gloss_index_ru": "STEM{eellm}-ЧЕЛОВЕК{oollm}-GEN.SG{e}-",
+                            "gr.pos": "ADJ"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 11,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wtype": "word",
+                    "wf": "aak’k’",
+                    "ana": [
+                        {
+                            "parts": "aak’k’",
+                            "gloss": "",
+                            "gloss_index": "STEM{aak’k’}-",
+                            "lex": "aak’k’",
+                            "trans_ru": "женщина.nom.sg",
+                            "gloss_ru": "женщина.nom.sg",
+                            "gloss_index_ru": "STEM{aak’k’}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 12,
+                    "off_end": 18,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wtype": "word",
+                    "wf": "vel’l’ej",
+                    "ana": [
+                        {
+                            "parts": "vel’l’-ej",
+                            "gloss": "",
+                            "gloss_index": "STEM{vel’l’}-ACAUS.PST.3SG{ej}-",
+                            "lex": "vel’l’",
+                            "trans_ru": "вскочить-acaus.pst.3sg",
+                            "gloss_ru": "вскочить-acaus.pst.3sg",
+                            "gloss_index_ru": "STEM{vel’l’}-ACAUS.PST.3SG{ej}-",
+                            "gr.pos": "VERB"
+                        }
+                    ],
+                    "off_start": 19,
+                    "off_end": 27,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "text": "Человеческая женщина вскочила.",
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 30,
+                    "para_id": 17
+                }
+            ]
+        },
+        {
+            "lang": 0,
+            "words": [
+                {
+                    "wtype": "word",
+                    "wf": "c’aal̥l̥k",
+                    "ana": [
+                        {
+                            "parts": "c’aal̥l̥k",
+                            "gloss": "",
+                            "gloss_index": "STEM{c’aal̥l̥k}-",
+                            "lex": "c’aal̥l̥k",
+                            "trans_ru": "сказать.npst.3sg",
+                            "gloss_ru": "сказать.npst.3sg",
+                            "gloss_index_ru": "STEM{c’aal̥l̥k}-",
+                            "gr.pos": "VERB"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 9,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "text": "Говорит.",
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 8,
+                    "para_id": 18
+                }
+            ]
+        },
+        {
+            "lang": 0,
+            "words": [
+                {
+                    "wtype": "word",
+                    "wf": "paarnɲam",
+                    "ana": [
+                        {
+                            "parts": "paarn-ɲ-am",
+                            "gloss": "",
+                            "gloss_index": "STEM{paarn}-DIM{ɲ}-POSS1{am}-",
+                            "lex": "paarn",
+                            "trans_ru": "парень-dim-poss1",
+                            "gloss_ru": "парень-dim-poss1",
+                            "gloss_index_ru": "STEM{paarn}-DIM{ɲ}-POSS1{am}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 8,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "wtype": "word",
+                    "wf": "paarnɲam",
+                    "ana": [
+                        {
+                            "parts": "paarn-ɲ-am",
+                            "gloss": "",
+                            "gloss_index": "STEM{paarn}-DIM{ɲ}-POSS1{am}-",
+                            "lex": "paarn",
+                            "trans_ru": "парень-dim-poss1",
+                            "gloss_ru": "парень-dim-poss1",
+                            "gloss_index_ru": "STEM{paarn}-DIM{ɲ}-POSS1{am}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 9,
+                    "off_end": 17,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wtype": "word",
+                    "wf": "kooz",
+                    "ana": [
+                        {
+                            "parts": "kooz",
+                            "gloss": "",
+                            "gloss_index": "STEM{kooz}-",
+                            "lex": "kooz",
+                            "trans_ru": "куда",
+                            "gloss_ru": "куда",
+                            "gloss_index_ru": "STEM{kooz}-",
+                            "gr.pos": "ADV"
+                        }
+                    ],
+                    "off_start": 18,
+                    "off_end": 22,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wtype": "word",
+                    "wf": "tun(n)",
+                    "ana": [
+                        {
+                            "parts": "tun(n)",
+                            "gloss": "",
+                            "gloss_index": "STEM{tun(n)}-",
+                            "lex": "tun(n)",
+                            "trans_ru": "2sg.nom",
+                            "gloss_ru": "2sg.nom",
+                            "gloss_index_ru": "STEM{tun(n)}-",
+                            "gr.pos": "PROPN"
+                        }
+                    ],
+                    "off_start": 23,
+                    "off_end": 29,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wtype": "word",
+                    "wf": "vɨl’l’gex",
+                    "ana": [
+                        {
+                            "parts": "vɨl’l’g-ex",
+                            "gloss": "",
+                            "gloss_index": "STEM{vɨl’l’g}-PST.2SG{ex}-",
+                            "lex": "vɨl’l’g",
+                            "trans_ru": "пойти-pst.2sg",
+                            "gloss_ru": "пойти-pst.2sg",
+                            "gloss_index_ru": "STEM{vɨl’l’g}-PST.2SG{ex}-",
+                            "gr.pos": "VERB"
+                        }
+                    ],
+                    "off_start": 30,
+                    "off_end": 39,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "text": "Мой сыночек, мой сыночек, куда ты пошел?",
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 40,
+                    "para_id": 19
+                }
+            ]
+        },
+        {
+            "lang": 0,
+            "words": [
+                {
+                    "wtype": "word",
+                    "wf": "kooz",
+                    "ana": [
+                        {
+                            "parts": "kooz",
+                            "gloss": "",
+                            "gloss_index": "STEM{kooz}-",
+                            "lex": "kooz",
+                            "trans_ru": "куда",
+                            "gloss_ru": "куда",
+                            "gloss_index_ru": "STEM{kooz}-",
+                            "gr.pos": "ADV"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 4,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wtype": "word",
+                    "wf": "kuud’d’ex",
+                    "ana": [
+                        {
+                            "parts": "kuud’d’-ex",
+                            "gloss": "",
+                            "gloss_index": "STEM{kuud’d’}-PST.2SG{ex}-",
+                            "lex": "kuud’d’",
+                            "trans_ru": "оставить-pst.2sg",
+                            "gloss_ru": "оставить-pst.2sg",
+                            "gloss_index_ru": "STEM{kuud’d’}-PST.2SG{ex}-",
+                            "gr.pos": "VERB"
+                        }
+                    ],
+                    "off_start": 5,
+                    "off_end": 14,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wtype": "word",
+                    "wf": "jaanant",
+                    "ana": [
+                        {
+                            "parts": "jaan-ant",
+                            "gloss": "",
+                            "gloss_index": "STEM{jaan}-POSS2{ant}-",
+                            "lex": "jaan",
+                            "trans_ru": "мать.gen.sg-poss2",
+                            "gloss_ru": "мать.gen.sg-poss2",
+                            "gloss_index_ru": "STEM{jaan}-POSS2{ant}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 15,
+                    "off_end": 22,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wtype": "word",
+                    "wf": "ɲiɲč",
+                    "ana": [
+                        {
+                            "parts": "ɲiɲč",
+                            "gloss": "",
+                            "gloss_index": "STEM{ɲiɲč}-",
+                            "lex": "ɲiɲč",
+                            "trans_ru": "грудь.acc.sg",
+                            "gloss_ru": "грудь.acc.sg",
+                            "gloss_index_ru": "STEM{ɲiɲč}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 23,
+                    "off_end": 27,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "text": "Зачем ты покидаешь грудь твоей матери?",
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 38,
+                    "para_id": 20
+                }
+            ]
+        },
+        {
+            "lang": 0,
+            "words": [
+                {
+                    "wtype": "word",
+                    "wf": "jeel’",
+                    "ana": [
+                        {
+                            "parts": "jeel’",
+                            "gloss": "",
+                            "gloss_index": "STEM{jeel’}-",
+                            "lex": "jeel’",
+                            "trans_ru": "proh.sg",
+                            "gloss_ru": "proh.sg",
+                            "gloss_index_ru": "STEM{jeel’}-",
+                            "gr.pos": "PROPN"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 5,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "wtype": "word",
+                    "wf": "c’aal̥l̥k",
+                    "ana": [
+                        {
+                            "parts": "c’aal̥l̥k",
+                            "gloss": "",
+                            "gloss_index": "STEM{c’aal̥l̥k}-",
+                            "lex": "c’aal̥l̥k",
+                            "trans_ru": "сказать.npst.3sg",
+                            "gloss_ru": "сказать.npst.3sg",
+                            "gloss_index_ru": "STEM{c’aal̥l̥k}-",
+                            "gr.pos": "VERB"
+                        }
+                    ],
+                    "off_start": 6,
+                    "off_end": 15,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "wtype": "word",
+                    "wf": "alkɲam",
+                    "ana": [
+                        {
+                            "parts": "alk-ɲ-am",
+                            "gloss": "",
+                            "gloss_index": "STEM{alk}-DIM{ɲ}-POSS1{am}-",
+                            "lex": "alk",
+                            "trans_ru": "сын-dim-poss1",
+                            "gloss_ru": "сын-dim-poss1",
+                            "gloss_index_ru": "STEM{alk}-DIM{ɲ}-POSS1{am}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 16,
+                    "off_end": 22,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wtype": "word",
+                    "wf": "meen(e)",
+                    "ana": [
+                        {
+                            "parts": "meen(-e)",
+                            "gloss": "",
+                            "gloss_index": "STEM{meen(}-",
+                            "lex": "meen(",
+                            "trans_ru": "идти.imp.sg",
+                            "gloss_ru": "идти.imp.sg",
+                            "gloss_index_ru": "STEM{meen(}-",
+                            "gr.pos": "VERB"
+                        }
+                    ],
+                    "off_start": 23,
+                    "off_end": 30,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wtype": "word",
+                    "wf": "až’ant",
+                    "ana": [
+                        {
+                            "parts": "až’-ant",
+                            "gloss": "",
+                            "gloss_index": "STEM{až’}-POSS2{ant}-",
+                            "lex": "až’",
+                            "trans_ru": "отец.gen.sg-poss2",
+                            "gloss_ru": "отец.gen.sg-poss2",
+                            "gloss_index_ru": "STEM{až’}-POSS2{ant}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 31,
+                    "off_end": 37,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wtype": "word",
+                    "wf": "m’iil’l’te",
+                    "ana": [
+                        {
+                            "parts": "m’iil’l’te",
+                            "gloss": "",
+                            "gloss_index": "STEM{m’iil’l’te}-",
+                            "lex": "m’iil’l’te",
+                            "trans_ru": "по",
+                            "gloss_ru": "по",
+                            "gloss_index_ru": "STEM{m’iil’l’te}-",
+                            "gr.pos": "ADP"
+                        }
+                    ],
+                    "off_start": 38,
+                    "off_end": 48,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "text": "Не ходи, мой сыночек, — говорит она, — за твоим отцом.",
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 54,
+                    "para_id": 21
+                }
+            ]
+        },
+        {
+            "lang": 0,
+            "words": [
+                {
+                    "wtype": "word",
+                    "wf": "telagast",
+                    "ana": [
+                        {
+                            "parts": "tela-gast",
+                            "gloss": "",
+                            "gloss_index": "STEM{tela}-ГДЕ{gast}-",
+                            "lex": "tela",
+                            "trans_ru": "вот-где",
+                            "gloss_ru": "вот-где",
+                            "gloss_index_ru": "STEM{tela}-ГДЕ{gast}-",
+                            "gr.pos": "PART"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 8,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "wtype": "word",
+                    "wf": "l’ii",
+                    "ana": [
+                        {
+                            "parts": "l’ii",
+                            "gloss": "",
+                            "gloss_index": "STEM{l’ii}-",
+                            "lex": "l’ii",
+                            "trans_ru": "быть.npst.3sg",
+                            "gloss_ru": "быть.npst.3sg",
+                            "gloss_index_ru": "STEM{l’ii}-",
+                            "gr.pos": "VERB"
+                        }
+                    ],
+                    "off_start": 9,
+                    "off_end": 13,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "wtype": "word",
+                    "wf": "jeennsant",
+                    "ana": [
+                        {
+                            "parts": "jeenn-s-ant",
+                            "gloss": "",
+                            "gloss_index": "STEM{jeenn}-LOC{s}-POSS2{ant}-",
+                            "lex": "jeenn",
+                            "trans_ru": "мать-loc-poss2",
+                            "gloss_ru": "мать-loc-poss2",
+                            "gloss_index_ru": "STEM{jeenn}-LOC{s}-POSS2{ant}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 14,
+                    "off_end": 23,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wtype": "word",
+                    "wf": "ɲiɲɲč",
+                    "ana": [
+                        {
+                            "parts": "ɲiɲɲč",
+                            "gloss": "",
+                            "gloss_index": "STEM{ɲiɲɲč}-",
+                            "lex": "ɲiɲɲč",
+                            "trans_ru": "грудь.nom.sg",
+                            "gloss_ru": "грудь.nom.sg",
+                            "gloss_index_ru": "STEM{ɲiɲɲč}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 24,
+                    "off_end": 29,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wtype": "word",
+                    "wf": "i",
+                    "ana": [
+                        {
+                            "parts": "i",
+                            "gloss": "",
+                            "gloss_index": "STEM{i}-",
+                            "lex": "i",
+                            "trans_ru": "и",
+                            "gloss_ru": "и",
+                            "gloss_index_ru": "STEM{i}-",
+                            "gr.pos": "CCONJ"
+                        }
+                    ],
+                    "off_start": 30,
+                    "off_end": 31,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wtype": "word",
+                    "wf": "num’m’p",
+                    "ana": [
+                        {
+                            "parts": "num’m’p",
+                            "gloss": "",
+                            "gloss_index": "STEM{num’m’p}-",
+                            "lex": "num’m’p",
+                            "trans_ru": "второй",
+                            "gloss_ru": "второй",
+                            "gloss_index_ru": "STEM{num’m’p}-",
+                            "gr.pos": "ADJ"
+                        }
+                    ],
+                    "off_start": 32,
+                    "off_end": 39,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "text": "Здесь [один] сосок твоей матери и другой.",
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 41,
+                    "para_id": 22
+                }
+            ]
+        },
+        {
+            "lang": 0,
+            "words": [
+                {
+                    "wtype": "word",
+                    "wf": "ibe",
+                    "ana": [
+                        {
+                            "parts": "ibe",
+                            "gloss": "",
+                            "gloss_index": "STEM{ibe}-",
+                            "lex": "ibe",
+                            "trans_ru": "не_нужно",
+                            "gloss_ru": "не_нужно",
+                            "gloss_index_ru": "STEM{ibe}-",
+                            "gr.pos": "ADJ"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 3,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wtype": "word",
+                    "wf": "mɨn’n’e",
+                    "ana": [
+                        {
+                            "parts": "mɨn’n’-e",
+                            "gloss": "",
+                            "gloss_index": "STEM{mɨn’n’}-DAT{e}-",
+                            "lex": "mɨn’n’",
+                            "trans_ru": "1sg-dat",
+                            "gloss_ru": "1sg-dat",
+                            "gloss_index_ru": "STEM{mɨn’n’}-DAT{e}-",
+                            "gr.pos": "ADJ"
+                        }
+                    ],
+                    "off_start": 4,
+                    "off_end": 11,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wtype": "word",
+                    "wf": "tuun",
+                    "ana": [
+                        {
+                            "parts": "tuun",
+                            "gloss": "",
+                            "gloss_index": "STEM{tuun}-",
+                            "lex": "tuun",
+                            "trans_ru": "2sg.gen",
+                            "gloss_ru": "2sg.gen",
+                            "gloss_index_ru": "STEM{tuun}-",
+                            "gr.pos": "PROPN"
+                        }
+                    ],
+                    "off_start": 12,
+                    "off_end": 16,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wtype": "word",
+                    "wf": "ɲiɲɲč",
+                    "ana": [
+                        {
+                            "parts": "ɲiɲɲč",
+                            "gloss": "",
+                            "gloss_index": "STEM{ɲiɲɲč}-",
+                            "lex": "ɲiɲɲč",
+                            "trans_ru": "грудь.nom.sg",
+                            "gloss_ru": "грудь.nom.sg",
+                            "gloss_index_ru": "STEM{ɲiɲɲč}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 17,
+                    "off_end": 22,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "text": "Мне не нужен ни [один] твой сосок.",
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 34,
+                    "para_id": 23
+                }
+            ]
+        },
+        {
+            "lang": 0,
+            "words": [
+                {
+                    "wtype": "word",
+                    "wf": "ibe",
+                    "ana": [
+                        {
+                            "parts": "ibe",
+                            "gloss": "",
+                            "gloss_index": "STEM{ibe}-",
+                            "lex": "ibe",
+                            "trans_ru": "не_нужно",
+                            "gloss_ru": "не_нужно",
+                            "gloss_index_ru": "STEM{ibe}-",
+                            "gr.pos": "ADJ"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 3,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wtype": "word",
+                    "wf": "num’m’p",
+                    "ana": [
+                        {
+                            "parts": "num’m’p",
+                            "gloss": "",
+                            "gloss_index": "STEM{num’m’p}-",
+                            "lex": "num’m’p",
+                            "trans_ru": "второй",
+                            "gloss_ru": "второй",
+                            "gloss_index_ru": "STEM{num’m’p}-",
+                            "gr.pos": "ADJ"
+                        }
+                    ],
+                    "off_start": 4,
+                    "off_end": 11,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "text": "Ни другой не нужен.",
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 19,
+                    "para_id": 24
+                }
+            ]
+        },
+        {
+            "lang": 0,
+            "words": [
+                {
+                    "wtype": "word",
+                    "wf": "kueddaj",
+                    "ana": [
+                        {
+                            "parts": "kuedd-aj",
+                            "gloss": "",
+                            "gloss_index": "STEM{kuedd}-ACAUS.NPST.3SG{aj}-",
+                            "lex": "kuedd",
+                            "trans_ru": "оставить-acaus.npst.3sg",
+                            "gloss_ru": "оставить-acaus.npst.3sg",
+                            "gloss_index_ru": "STEM{kuedd}-ACAUS.NPST.3SG{aj}-",
+                            "gr.pos": "VERB"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 7,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "wtype": "word",
+                    "wf": "tun’n’e",
+                    "ana": [
+                        {
+                            "parts": "tun’n’-e",
+                            "gloss": "",
+                            "gloss_index": "STEM{tun’n’}-DAT{e}-",
+                            "lex": "tun’n’",
+                            "trans_ru": "2sg-dat",
+                            "gloss_ru": "2sg-dat",
+                            "gloss_index_ru": "STEM{tun’n’}-DAT{e}-",
+                            "gr.pos": "PROPN"
+                        }
+                    ],
+                    "off_start": 8,
+                    "off_end": 15,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wtype": "word",
+                    "wf": "kooɲɲčkuun’n’",
+                    "ana": [
+                        {
+                            "parts": "kooɲɲč-kuun’n’",
+                            "gloss": "",
+                            "gloss_index": "STEM{kooɲɲč}-ВАГИНА.NOM.SG{kuun’n’}-",
+                            "lex": "kooɲɲč",
+                            "trans_ru": "моча.nom.sg-вагина.nom.sg",
+                            "gloss_ru": "моча.nom.sg-вагина.nom.sg",
+                            "gloss_index_ru": "STEM{kooɲɲč}-ВАГИНА.NOM.SG{kuun’n’}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 16,
+                    "off_end": 29,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wtype": "word",
+                    "wf": "i",
+                    "ana": [
+                        {
+                            "parts": "i",
+                            "gloss": "",
+                            "gloss_index": "STEM{i}-",
+                            "lex": "i",
+                            "trans_ru": "и",
+                            "gloss_ru": "и",
+                            "gloss_index_ru": "STEM{i}-",
+                            "gr.pos": "CCONJ"
+                        }
+                    ],
+                    "off_start": 30,
+                    "off_end": 31,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wtype": "word",
+                    "wf": "kooɲɲčtuul’l’j",
+                    "ana": [
+                        {
+                            "parts": "kooɲɲč-tuul’l’j",
+                            "gloss": "",
+                            "gloss_index": "STEM{kooɲɲč}-ШКУРА.NOM.SG{tuul’l’j}-",
+                            "lex": "kooɲɲč",
+                            "trans_ru": "моча.nom.sg-шкура.nom.sg",
+                            "gloss_ru": "моча.nom.sg-шкура.nom.sg",
+                            "gloss_index_ru": "STEM{kooɲɲč}-ШКУРА.NOM.SG{tuul’l’j}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 32,
+                    "off_end": 46,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "text": "Тебе остается полная мочи вагина и обмоченная шкура.",
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 52,
+                    "para_id": 25
+                }
+            ]
+        },
+        {
+            "lang": 0,
+            "words": [
+                {
+                    "wtype": "word",
+                    "wf": "kooz",
+                    "ana": [
+                        {
+                            "parts": "kooz",
+                            "gloss": "",
+                            "gloss_index": "STEM{kooz}-",
+                            "lex": "kooz",
+                            "trans_ru": "куда",
+                            "gloss_ru": "куда",
+                            "gloss_index_ru": "STEM{kooz}-",
+                            "gr.pos": "ADV"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 4,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wtype": "word",
+                    "wf": "vɨl’ke(j)",
+                    "ana": [
+                        {
+                            "parts": "vɨl’k-e(j)",
+                            "gloss": "",
+                            "gloss_index": "STEM{vɨl’k}-PST.3SG{e(j)}-",
+                            "lex": "vɨl’k",
+                            "trans_ru": "пойти-pst.3sg",
+                            "gloss_ru": "пойти-pst.3sg",
+                            "gloss_index_ru": "STEM{vɨl’k}-PST.3SG{e(j)}-",
+                            "gr.pos": "VERB"
+                        }
+                    ],
+                    "off_start": 5,
+                    "off_end": 14,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wtype": "word",
+                    "wf": "muun(e)",
+                    "ana": [
+                        {
+                            "parts": "muun(-e)",
+                            "gloss": "",
+                            "gloss_index": "STEM{muun(}-",
+                            "lex": "muun(",
+                            "trans_ru": "1sg.gen",
+                            "gloss_ru": "1sg.gen",
+                            "gloss_index_ru": "STEM{muun(}-",
+                            "gr.pos": "ADJ"
+                        }
+                    ],
+                    "off_start": 15,
+                    "off_end": 22,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wtype": "word",
+                    "wf": "aǯ’",
+                    "ana": [
+                        {
+                            "parts": "aǯ’",
+                            "gloss": "",
+                            "gloss_index": "STEM{aǯ’}-",
+                            "lex": "aǯ’",
+                            "trans_ru": "отец.nom.sg",
+                            "gloss_ru": "отец.nom.sg",
+                            "gloss_index_ru": "STEM{aǯ’}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 23,
+                    "off_end": 27,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "text": "Куда мой отец пошел.",
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 20,
+                    "para_id": 26
+                }
+            ]
+        },
+        {
+            "lang": 0,
+            "words": [
+                {
+                    "wtype": "word",
+                    "wf": "tɒge",
+                    "ana": [
+                        {
+                            "parts": "tɒge",
+                            "gloss": "",
+                            "gloss_index": "STEM{tɒge}-",
+                            "lex": "tɒge",
+                            "trans_ru": "туда",
+                            "gloss_ru": "туда",
+                            "gloss_index_ru": "STEM{tɒge}-",
+                            "gr.pos": "ADV"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 4,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "wtype": "word",
+                    "wf": "ša",
+                    "ana": [
+                        {
+                            "parts": "ša",
+                            "gloss": "",
+                            "gloss_index": "STEM{ša}-",
+                            "lex": "ša",
+                            "trans_ru": "же",
+                            "gloss_ru": "же",
+                            "gloss_index_ru": "STEM{ša}-",
+                            "gr.pos": "PART"
+                        }
+                    ],
+                    "off_start": 5,
+                    "off_end": 7,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "wtype": "word",
+                    "wf": "i",
+                    "ana": [
+                        {
+                            "parts": "i",
+                            "gloss": "",
+                            "gloss_index": "STEM{i}-",
+                            "lex": "i",
+                            "trans_ru": "и",
+                            "gloss_ru": "и",
+                            "gloss_index_ru": "STEM{i}-",
+                            "gr.pos": "CCONJ"
+                        }
+                    ],
+                    "off_start": 8,
+                    "off_end": 9,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wtype": "word",
+                    "wf": "mun(n)",
+                    "ana": [
+                        {
+                            "parts": "mun(n)",
+                            "gloss": "",
+                            "gloss_index": "STEM{mun(n)}-",
+                            "lex": "mun(n)",
+                            "trans_ru": "1sg.nom",
+                            "gloss_ru": "1sg.nom",
+                            "gloss_index_ru": "STEM{mun(n)}-",
+                            "gr.pos": "ADJ"
+                        }
+                    ],
+                    "off_start": 10,
+                    "off_end": 16,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wtype": "word",
+                    "wf": "vɨlgam",
+                    "ana": [
+                        {
+                            "parts": "vɨlg-am",
+                            "gloss": "",
+                            "gloss_index": "STEM{vɨlg}-NPST.1SG{am}-",
+                            "lex": "vɨlg",
+                            "trans_ru": "пойти-npst.1sg",
+                            "gloss_ru": "пойти-npst.1sg",
+                            "gloss_index_ru": "STEM{vɨlg}-NPST.1SG{am}-",
+                            "gr.pos": "VERB"
+                        }
+                    ],
+                    "off_start": 17,
+                    "off_end": 23,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wtype": "word",
+                    "wf": "vuaggeẟ",
+                    "ana": [
+                        {
+                            "parts": "vuagg-eẟ",
+                            "gloss": "",
+                            "gloss_index": "STEM{vuagg}-INF{eẟ}-",
+                            "lex": "vuagg",
+                            "trans_ru": "бежать_рысью-inf",
+                            "gloss_ru": "бежать_рысью-inf",
+                            "gloss_index_ru": "STEM{vuagg}-INF{eẟ}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 24,
+                    "off_end": 31,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "text": "Туда и я пойду.",
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 15,
+                    "para_id": 27
+                }
+            ]
+        },
+        {
+            "lang": 0,
+            "words": [
+                {
+                    "wtype": "word",
+                    "wf": "jeen’n’es’",
+                    "ana": [
+                        {
+                            "parts": "jeen’n’-es’",
+                            "gloss": "",
+                            "gloss_index": "STEM{jeen’n’}-POSS3{es’}-",
+                            "lex": "jeen’n’",
+                            "trans_ru": "мать.nom.sg-poss3",
+                            "gloss_ru": "мать.nom.sg-poss3",
+                            "gloss_index_ru": "STEM{jeen’n’}-POSS3{es’}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 10,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wtype": "word",
+                    "wf": "c’aal̥l̥k",
+                    "ana": [
+                        {
+                            "parts": "c’aal̥l̥k",
+                            "gloss": "",
+                            "gloss_index": "STEM{c’aal̥l̥k}-",
+                            "lex": "c’aal̥l̥k",
+                            "trans_ru": "сказать.npst.3sg",
+                            "gloss_ru": "сказать.npst.3sg",
+                            "gloss_index_ru": "STEM{c’aal̥l̥k}-",
+                            "gr.pos": "VERB"
+                        }
+                    ],
+                    "off_start": 11,
+                    "off_end": 20,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "text": "Его мать говорит.",
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 17,
+                    "para_id": 28
+                }
+            ]
+        },
+        {
+            "lang": 0,
+            "words": [
+                {
+                    "wtype": "word",
+                    "wf": "vuag(e)",
+                    "ana": [
+                        {
+                            "parts": "vuag(-e)",
+                            "gloss": "",
+                            "gloss_index": "STEM{vuag(}-",
+                            "lex": "vuag(",
+                            "trans_ru": "бежать_рысью.imp.sg",
+                            "gloss_ru": "бежать_рысью.imp.sg",
+                            "gloss_index_ru": "STEM{vuag(}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 7,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wtype": "word",
+                    "wf": "c’aal̥l̥k",
+                    "ana": [
+                        {
+                            "parts": "c’aal̥l̥k",
+                            "gloss": "",
+                            "gloss_index": "STEM{c’aal̥l̥k}-",
+                            "lex": "c’aal̥l̥k",
+                            "trans_ru": "сказать.npst.3sg",
+                            "gloss_ru": "сказать.npst.3sg",
+                            "gloss_index_ru": "STEM{c’aal̥l̥k}-",
+                            "gr.pos": "VERB"
+                        }
+                    ],
+                    "off_start": 8,
+                    "off_end": 17,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wtype": "word",
+                    "wf": "alkɲam",
+                    "ana": [
+                        {
+                            "parts": "alk-ɲ-am",
+                            "gloss": "",
+                            "gloss_index": "STEM{alk}-DIM{ɲ}-POSS1{am}-",
+                            "lex": "alk",
+                            "trans_ru": "сын-dim-poss1",
+                            "gloss_ru": "сын-dim-poss1",
+                            "gloss_index_ru": "STEM{alk}-DIM{ɲ}-POSS1{am}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 18,
+                    "off_end": 24,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wtype": "word",
+                    "wf": "t’iirrvse",
+                    "ana": [
+                        {
+                            "parts": "t’iirrvs-e",
+                            "gloss": "",
+                            "gloss_index": "STEM{t’iirrvs}-DAT.SG{e}-",
+                            "lex": "t’iirrvs",
+                            "trans_ru": "здоровье-dat.sg",
+                            "gloss_ru": "здоровье-dat.sg",
+                            "gloss_index_ru": "STEM{t’iirrvs}-DAT.SG{e}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 25,
+                    "off_end": 34,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "text": "Беги, — говорит она, — мой сынок, на здоровье",
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 45,
+                    "para_id": 29
+                }
+            ]
+        },
+        {
+            "lang": 0,
+            "words": [
+                {
+                    "wtype": "word",
+                    "wf": "i",
+                    "ana": [
+                        {
+                            "parts": "i",
+                            "gloss": "",
+                            "gloss_index": "STEM{i}-",
+                            "lex": "i",
+                            "trans_ru": "и",
+                            "gloss_ru": "и",
+                            "gloss_index_ru": "STEM{i}-",
+                            "gr.pos": "CCONJ"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 1,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wtype": "word",
+                    "wf": "jeel’(e)",
+                    "ana": [
+                        {
+                            "parts": "jeel’(-e)",
+                            "gloss": "",
+                            "gloss_index": "STEM{jeel’(}-",
+                            "lex": "jeel’(",
+                            "trans_ru": "жить.imp.sg",
+                            "gloss_ru": "жить.imp.sg",
+                            "gloss_index_ru": "STEM{jeel’(}-",
+                            "gr.pos": "VERB"
+                        }
+                    ],
+                    "off_start": 2,
+                    "off_end": 10,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "text": "И живи.",
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 7,
+                    "para_id": 30
+                }
+            ]
+        },
+        {
+            "lang": 0,
+            "words": [
+                {
+                    "wtype": "word",
+                    "wf": "i",
+                    "ana": [
+                        {
+                            "parts": "i",
+                            "gloss": "",
+                            "gloss_index": "STEM{i}-",
+                            "lex": "i",
+                            "trans_ru": "и",
+                            "gloss_ru": "и",
+                            "gloss_index_ru": "STEM{i}-",
+                            "gr.pos": "CCONJ"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 1,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 6
+                },
+                {
+                    "wtype": "word",
+                    "wf": "kaažne",
+                    "ana": [
+                        {
+                            "parts": "kaažne",
+                            "gloss": "",
+                            "gloss_index": "STEM{kaažne}-",
+                            "lex": "kaažne",
+                            "trans_ru": "каждый",
+                            "gloss_ru": "каждый",
+                            "gloss_index_ru": "STEM{kaažne}-",
+                            "gr.pos": "DET"
+                        }
+                    ],
+                    "off_start": 2,
+                    "off_end": 8,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "wtype": "word",
+                    "wf": "lestest",
+                    "ana": [
+                        {
+                            "parts": "lest-est",
+                            "gloss": "",
+                            "gloss_index": "STEM{lest}-LOC.SG{est}-",
+                            "lex": "lest",
+                            "trans_ru": "лист-loc.sg",
+                            "gloss_ru": "лист-loc.sg",
+                            "gloss_index_ru": "STEM{lest}-LOC.SG{est}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 9,
+                    "off_end": 16,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "wtype": "word",
+                    "wf": "i",
+                    "ana": [
+                        {
+                            "parts": "i",
+                            "gloss": "",
+                            "gloss_index": "STEM{i}-",
+                            "lex": "i",
+                            "trans_ru": "и",
+                            "gloss_ru": "и",
+                            "gloss_index_ru": "STEM{i}-",
+                            "gr.pos": "CCONJ"
+                        }
+                    ],
+                    "off_start": 17,
+                    "off_end": 18,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wtype": "word",
+                    "wf": "kaažne",
+                    "ana": [
+                        {
+                            "parts": "kaažne",
+                            "gloss": "",
+                            "gloss_index": "STEM{kaažne}-",
+                            "lex": "kaažne",
+                            "trans_ru": "каждый",
+                            "gloss_ru": "каждый",
+                            "gloss_index_ru": "STEM{kaažne}-",
+                            "gr.pos": "DET"
+                        }
+                    ],
+                    "off_start": 19,
+                    "off_end": 25,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wtype": "word",
+                    "wf": "m’iisstegest",
+                    "ana": [
+                        {
+                            "parts": "m’iissteg-est",
+                            "gloss": "",
+                            "gloss_index": "STEM{m’iissteg}-LOC.SG{est}-",
+                            "lex": "m’iissteg",
+                            "trans_ru": "куст-loc.sg",
+                            "gloss_ru": "куст-loc.sg",
+                            "gloss_index_ru": "STEM{m’iissteg}-LOC.SG{est}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 26,
+                    "off_end": 38,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wtype": "word",
+                    "wf": "peel(e)",
+                    "ana": [
+                        {
+                            "parts": "peel(-e)",
+                            "gloss": "",
+                            "gloss_index": "STEM{peel(}-",
+                            "lex": "peel(",
+                            "trans_ru": "бояться.imp.sg",
+                            "gloss_ru": "бояться.imp.sg",
+                            "gloss_index_ru": "STEM{peel(}-",
+                            "gr.pos": "VERB"
+                        }
+                    ],
+                    "off_start": 39,
+                    "off_end": 46,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "text": "Каждого листа и каждого куста бойся.",
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 36,
+                    "para_id": 31
+                }
+            ]
+        },
+        {
+            "lang": 0,
+            "words": [
+                {
+                    "wtype": "word",
+                    "wf": "i",
+                    "ana": [
+                        {
+                            "parts": "i",
+                            "gloss": "",
+                            "gloss_index": "STEM{i}-",
+                            "lex": "i",
+                            "trans_ru": "и",
+                            "gloss_ru": "и",
+                            "gloss_index_ru": "STEM{i}-",
+                            "gr.pos": "CCONJ"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 1,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wtype": "word",
+                    "wf": "k’iične(ẟ)",
+                    "ana": [
+                        {
+                            "parts": "k’iič-n-e(ẟ)",
+                            "gloss": "",
+                            "gloss_index": "STEM{k’iič}-IPFV1{n}-IMP.SG{e(ẟ)}-",
+                            "lex": "k’iič",
+                            "trans_ru": "смотреть-ipfv1-imp.sg",
+                            "gloss_ru": "смотреть-ipfv1-imp.sg",
+                            "gloss_index_ru": "STEM{k’iič}-IPFV1{n}-IMP.SG{e(ẟ)}-",
+                            "gr.pos": "VERB"
+                        }
+                    ],
+                    "off_start": 2,
+                    "off_end": 12,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "text": "И смотри.",
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 9,
+                    "para_id": 32
+                }
+            ]
+        },
+        {
+            "lang": 0,
+            "words": [
+                {
+                    "wtype": "word",
+                    "wf": "kas’t",
+                    "ana": [
+                        {
+                            "parts": "kas’t",
+                            "gloss": "",
+                            "gloss_index": "STEM{kas’t}-",
+                            "lex": "kas’t",
+                            "trans_ru": "где",
+                            "gloss_ru": "где",
+                            "gloss_index_ru": "STEM{kas’t}-",
+                            "gr.pos": "ADV"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 5,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 8
+                },
+                {
+                    "wtype": "word",
+                    "wf": "i",
+                    "ana": [
+                        {
+                            "parts": "i",
+                            "gloss": "",
+                            "gloss_index": "STEM{i}-",
+                            "lex": "i",
+                            "trans_ru": "и",
+                            "gloss_ru": "и",
+                            "gloss_index_ru": "STEM{i}-",
+                            "gr.pos": "CCONJ"
+                        }
+                    ],
+                    "off_start": 6,
+                    "off_end": 7,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 7
+                },
+                {
+                    "wtype": "word",
+                    "wf": "koon",
+                    "ana": [
+                        {
+                            "parts": "koon",
+                            "gloss": "",
+                            "gloss_index": "STEM{koon}-",
+                            "lex": "koon",
+                            "trans_ru": "который.gen.sg",
+                            "gloss_ru": "который.gen.sg",
+                            "gloss_index_ru": "STEM{koon}-",
+                            "gr.pos": "PRON"
+                        }
+                    ],
+                    "off_start": 8,
+                    "off_end": 12,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 6
+                },
+                {
+                    "wtype": "word",
+                    "wf": "m’iissteg",
+                    "ana": [
+                        {
+                            "parts": "m’iissteg",
+                            "gloss": "",
+                            "gloss_index": "STEM{m’iissteg}-",
+                            "lex": "m’iissteg",
+                            "trans_ru": "куст.gen.sg",
+                            "gloss_ru": "куст.gen.sg",
+                            "gloss_index_ru": "STEM{m’iissteg}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 13,
+                    "off_end": 22,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "wtype": "word",
+                    "wf": "tuug’g’en’",
+                    "ana": [
+                        {
+                            "parts": "tuug’g’en’",
+                            "gloss": "",
+                            "gloss_index": "STEM{tuug’g’en’}-",
+                            "lex": "tuug’g’en’",
+                            "trans_ru": "за.loc",
+                            "gloss_ru": "за.loc",
+                            "gloss_index_ru": "STEM{tuug’g’en’}-",
+                            "gr.pos": "ADP"
+                        }
+                    ],
+                    "off_start": 23,
+                    "off_end": 33,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "wtype": "word",
+                    "wf": "eellmoollme",
+                    "ana": [
+                        {
+                            "parts": "eellm-oollm-e",
+                            "gloss": "",
+                            "gloss_index": "STEM{eellm}-ЧЕЛОВЕК{oollm}-GEN.SG{e}-",
+                            "lex": "eellm",
+                            "trans_ru": "настоящий-человек-gen.sg",
+                            "gloss_ru": "настоящий-человек-gen.sg",
+                            "gloss_index_ru": "STEM{eellm}-ЧЕЛОВЕК{oollm}-GEN.SG{e}-",
+                            "gr.pos": "ADJ"
+                        }
+                    ],
+                    "off_start": 34,
+                    "off_end": 45,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wtype": "word",
+                    "wf": "paar’r’n",
+                    "ana": [
+                        {
+                            "parts": "paar’r’n",
+                            "gloss": "",
+                            "gloss_index": "STEM{paar’r’n}-",
+                            "lex": "paar’r’n",
+                            "trans_ru": "парень.nom.sg",
+                            "gloss_ru": "парень.nom.sg",
+                            "gloss_index_ru": "STEM{paar’r’n}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 46,
+                    "off_end": 54,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wtype": "word",
+                    "wf": "tuun(en)",
+                    "ana": [
+                        {
+                            "parts": "tuun(-en)",
+                            "gloss": "",
+                            "gloss_index": "STEM{tuun(}-",
+                            "lex": "tuun(",
+                            "trans_ru": "2sg.acc",
+                            "gloss_ru": "2sg.acc",
+                            "gloss_index_ru": "STEM{tuun(}-",
+                            "gr.pos": "PROPN"
+                        }
+                    ],
+                    "off_start": 55,
+                    "off_end": 63,
+                    "next_word": 8,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wtype": "word",
+                    "wf": "šɨll",
+                    "ana": [
+                        {
+                            "parts": "šɨll",
+                            "gloss": "",
+                            "gloss_index": "STEM{šɨll}-",
+                            "lex": "šɨll",
+                            "trans_ru": "ловить.npst.3sg",
+                            "gloss_ru": "ловить.npst.3sg",
+                            "gloss_index_ru": "STEM{šɨll}-",
+                            "gr.pos": "VERB"
+                        }
+                    ],
+                    "off_start": 64,
+                    "off_end": 68,
+                    "next_word": 9,
+                    "sentence_index": 8,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "text": "Где и за каким кустом тебя подкарауливает сын человеческий.",
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 59,
+                    "para_id": 33
+                }
+            ]
+        },
+        {
+            "lang": 0,
+            "words": [
+                {
+                    "wtype": "word",
+                    "wf": "ujnčex",
+                    "ana": [
+                        {
+                            "parts": "ujn-č-ex",
+                            "gloss": "",
+                            "gloss_index": "STEM{ujn}-COND{č}-2SG{ex}-",
+                            "lex": "ujn",
+                            "trans_ru": "видеть-cond-2sg",
+                            "gloss_ru": "видеть-cond-2sg",
+                            "gloss_index_ru": "STEM{ujn}-COND{č}-2SG{ex}-",
+                            "gr.pos": "VERB"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 6,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "text": "И даже если ты его увидишь.",
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 27,
+                    "para_id": 34
+                }
+            ]
+        },
+        {
+            "lang": 0,
+            "words": [
+                {
+                    "wtype": "word",
+                    "wf": "egg",
+                    "ana": [
+                        {
+                            "parts": "egg",
+                            "gloss": "",
+                            "gloss_index": "STEM{egg}-",
+                            "lex": "egg",
+                            "trans_ru": "neg.2sg",
+                            "gloss_ru": "neg.2sg",
+                            "gloss_index_ru": "STEM{egg}-",
+                            "gr.pos": "PROPN"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 3,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wtype": "word",
+                    "wf": "pelče",
+                    "ana": [
+                        {
+                            "parts": "pel-č-e",
+                            "gloss": "",
+                            "gloss_index": "STEM{pel}-COND{č}-CNG{e}-",
+                            "lex": "pel",
+                            "trans_ru": "бояться-cond-cng",
+                            "gloss_ru": "бояться-cond-cng",
+                            "gloss_index_ru": "STEM{pel}-COND{č}-CNG{e}-",
+                            "gr.pos": "VERB"
+                        }
+                    ],
+                    "off_start": 4,
+                    "off_end": 9,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "text": "Не бойся.",
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 9,
+                    "para_id": 35
+                }
+            ]
+        },
+        {
+            "lang": 0,
+            "words": [
+                {
+                    "wtype": "word",
+                    "wf": "poka",
+                    "ana": [
+                        {
+                            "parts": "poka",
+                            "gloss": "",
+                            "gloss_index": "STEM{poka}-",
+                            "lex": "poka",
+                            "trans_ru": "пока",
+                            "gloss_ru": "пока",
+                            "gloss_index_ru": "STEM{poka}-",
+                            "gr.pos": "ADV"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 4,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wtype": "word",
+                    "wf": "p’iiŋk",
+                    "ana": [
+                        {
+                            "parts": "p’iiŋk",
+                            "gloss": "",
+                            "gloss_index": "STEM{p’iiŋk}-",
+                            "lex": "p’iiŋk",
+                            "trans_ru": "ветер.acc.sg",
+                            "gloss_ru": "ветер.acc.sg",
+                            "gloss_index_ru": "STEM{p’iiŋk}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 5,
+                    "off_end": 11,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wtype": "word",
+                    "wf": "egg",
+                    "ana": [
+                        {
+                            "parts": "egg",
+                            "gloss": "",
+                            "gloss_index": "STEM{egg}-",
+                            "lex": "egg",
+                            "trans_ru": "neg.2sg",
+                            "gloss_ru": "neg.2sg",
+                            "gloss_index_ru": "STEM{egg}-",
+                            "gr.pos": "PROPN"
+                        }
+                    ],
+                    "off_start": 12,
+                    "off_end": 15,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wtype": "word",
+                    "wf": "vaaltče",
+                    "ana": [
+                        {
+                            "parts": "vaalt-č-e",
+                            "gloss": "",
+                            "gloss_index": "STEM{vaalt}-COND{č}-CNG{e}-",
+                            "lex": "vaalt",
+                            "trans_ru": "брать-cond-cng",
+                            "gloss_ru": "брать-cond-cng",
+                            "gloss_index_ru": "STEM{vaalt}-COND{č}-CNG{e}-",
+                            "gr.pos": "VERB"
+                        }
+                    ],
+                    "off_start": 16,
+                    "off_end": 23,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "text": "Пока ты не почувствовал на ветру перемену погоды.",
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 49,
+                    "para_id": 36
+                }
+            ]
+        },
+        {
+            "lang": 0,
+            "words": [
+                {
+                    "wtype": "word",
+                    "wf": "tunn",
+                    "ana": [
+                        {
+                            "parts": "tunn",
+                            "gloss": "",
+                            "gloss_index": "STEM{tunn}-",
+                            "lex": "tunn",
+                            "trans_ru": "2sg.nom",
+                            "gloss_ru": "2sg.nom",
+                            "gloss_index_ru": "STEM{tunn}-",
+                            "gr.pos": "PROPN"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 4,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wtype": "word",
+                    "wf": "j'aanna",
+                    "ana": [
+                        {
+                            "parts": "j'aann-a",
+                            "gloss": "",
+                            "gloss_index": "STEM{j'aann}-DIM.NOM.SG{a}-",
+                            "lex": "j'aann",
+                            "trans_ru": "мать-dim.nom.sg",
+                            "gloss_ru": "мать-dim.nom.sg",
+                            "gloss_index_ru": "STEM{j'aann}-DIM.NOM.SG{a}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 5,
+                    "off_end": 12,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wtype": "word",
+                    "wf": "j'aalččex",
+                    "ana": [
+                        {
+                            "parts": "j'aal-čč-ex",
+                            "gloss": "",
+                            "gloss_index": "STEM{j'aal}-COND{čč}-2SG{ex}-",
+                            "lex": "j'aal",
+                            "trans_ru": "жить-cond-2sg",
+                            "gloss_ru": "жить-cond-2sg",
+                            "gloss_index_ru": "STEM{j'aal}-COND{čč}-2SG{ex}-",
+                            "gr.pos": "VERB"
+                        }
+                    ],
+                    "off_start": 13,
+                    "off_end": 22,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wtype": "word",
+                    "wf": "t’iirven",
+                    "ana": [
+                        {
+                            "parts": "t’iirv-en",
+                            "gloss": "",
+                            "gloss_index": "STEM{t’iirv}-COM.SG{en}-",
+                            "lex": "t’iirv",
+                            "trans_ru": "здоровье-com.sg",
+                            "gloss_ru": "здоровье-com.sg",
+                            "gloss_index_ru": "STEM{t’iirv}-COM.SG{en}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 23,
+                    "off_end": 31,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "text": "Ты, мать, будь здорова.",
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 23,
+                    "para_id": 37
+                }
+            ]
+        },
+        {
+            "lang": 0,
+            "words": [
+                {
+                    "wtype": "word",
+                    "wf": "kɒn't",
+                    "ana": [
+                        {
+                            "parts": "kɒn't",
+                            "gloss": "",
+                            "gloss_index": "STEM{kɒn't}-",
+                            "lex": "kɒn't",
+                            "trans_ru": "дикий_олень.gen.sg",
+                            "gloss_ru": "дикий_олень.gen.sg",
+                            "gloss_index_ru": "STEM{kɒn't}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 5,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wtype": "word",
+                    "wf": "ɲiic'c'kseɲč",
+                    "ana": [
+                        {
+                            "parts": "ɲiic'c'ks-eɲč",
+                            "gloss": "",
+                            "gloss_index": "STEM{ɲiic'c'ks}-DIM.NOM.SG{eɲč}-",
+                            "lex": "ɲiic'c'ks",
+                            "trans_ru": "голень-dim.nom.sg",
+                            "gloss_ru": "голень-dim.nom.sg",
+                            "gloss_index_ru": "STEM{ɲiic'c'ks}-DIM.NOM.SG{eɲč}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 6,
+                    "off_end": 18,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wtype": "word",
+                    "wf": "poollten",
+                    "ana": [
+                        {
+                            "parts": "poollt-en",
+                            "gloss": "",
+                            "gloss_index": "STEM{poollt}-ESS{en}-",
+                            "lex": "poollt",
+                            "trans_ru": "ряд-ess",
+                            "gloss_ru": "ряд-ess",
+                            "gloss_index_ru": "STEM{poollt}-ESS{en}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 19,
+                    "off_end": 27,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "text": "Голень дикого оленя станет [тебе] разделочной доской для мяса,",
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 62,
+                    "para_id": 38
+                }
+            ]
+        },
+        {
+            "lang": 0,
+            "words": [
+                {
+                    "wtype": "word",
+                    "wf": "i",
+                    "ana": [
+                        {
+                            "parts": "i",
+                            "gloss": "",
+                            "gloss_index": "STEM{i}-",
+                            "lex": "i",
+                            "trans_ru": "и",
+                            "gloss_ru": "и",
+                            "gloss_index_ru": "STEM{i}-",
+                            "gr.pos": "CCONJ"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 1,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wtype": "word",
+                    "wf": "kɒn't",
+                    "ana": [
+                        {
+                            "parts": "kɒn't",
+                            "gloss": "",
+                            "gloss_index": "STEM{kɒn't}-",
+                            "lex": "kɒn't",
+                            "trans_ru": "дикий_олень.gen.sg",
+                            "gloss_ru": "дикий_олень.gen.sg",
+                            "gloss_index_ru": "STEM{kɒn't}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 2,
+                    "off_end": 7,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wtype": "word",
+                    "wf": "cueɲɲčmeɲč",
+                    "ana": [
+                        {
+                            "parts": "cueɲɲčm-eɲč",
+                            "gloss": "",
+                            "gloss_index": "STEM{cueɲɲčm}-DIM.NOM.SG{eɲč}-",
+                            "lex": "cueɲɲčm",
+                            "trans_ru": "бедренная_кость-dim.nom.sg",
+                            "gloss_ru": "бедренная_кость-dim.nom.sg",
+                            "gloss_index_ru": "STEM{cueɲɲčm}-DIM.NOM.SG{eɲč}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 8,
+                    "off_end": 18,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wtype": "word",
+                    "wf": "oš’eestken",
+                    "ana": [
+                        {
+                            "parts": "oš’eestk-en",
+                            "gloss": "",
+                            "gloss_index": "STEM{oš’eestk}-ESS{en}-",
+                            "lex": "oš’eestk",
+                            "trans_ru": "ошесток-ess",
+                            "gloss_ru": "ошесток-ess",
+                            "gloss_index_ru": "STEM{oš’eestk}-ESS{en}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 19,
+                    "off_end": 29,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "text": "а бедренная кость — основной балкой твоего очага.",
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 49,
+                    "para_id": 39
+                }
+            ]
+        }
+    ]
+}

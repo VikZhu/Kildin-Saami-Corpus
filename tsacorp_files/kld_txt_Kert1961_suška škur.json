@@ -1,0 +1,677 @@
+{
+    "meta": {
+        "title": "Пkld_txt_Kert1961_suška škur",
+        "filename": "corpus/xml/output_converted.xml"
+    },
+    "sentences": [
+        {
+            "lang": 0,
+            "words": [
+                {
+                    "wtype": "word",
+                    "wf": "olme",
+                    "ana": [
+                        {
+                            "parts": "olme",
+                            "gloss": "",
+                            "gloss_index": "STEM{olme}-",
+                            "lex": "olme",
+                            "trans_ru": "человек.nom.sg",
+                            "gloss_ru": "человек.nom.sg",
+                            "gloss_index_ru": "STEM{olme}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 4,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 8
+                },
+                {
+                    "wtype": "word",
+                    "wf": "vaallt",
+                    "ana": [
+                        {
+                            "parts": "vaallt",
+                            "gloss": "",
+                            "gloss_index": "STEM{vaallt}-",
+                            "lex": "vaallt",
+                            "trans_ru": "брать.npst.3sg",
+                            "gloss_ru": "брать.npst.3sg",
+                            "gloss_index_ru": "STEM{vaallt}-",
+                            "gr.pos": "VERB"
+                        }
+                    ],
+                    "off_start": 5,
+                    "off_end": 11,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 7
+                },
+                {
+                    "wtype": "word",
+                    "wf": "tuul’j",
+                    "ana": [
+                        {
+                            "parts": "tuul’j",
+                            "gloss": "",
+                            "gloss_index": "STEM{tuul’j}-",
+                            "lex": "tuul’j",
+                            "trans_ru": "шкура.acc.sg",
+                            "gloss_ru": "шкура.acc.sg",
+                            "gloss_index_ru": "STEM{tuul’j}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 12,
+                    "off_end": 18,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 6
+                },
+                {
+                    "wtype": "word",
+                    "wf": "ja",
+                    "ana": [
+                        {
+                            "parts": "ja",
+                            "gloss": "",
+                            "gloss_index": "STEM{ja}-",
+                            "lex": "ja",
+                            "trans_ru": "и",
+                            "gloss_ru": "и",
+                            "gloss_index_ru": "STEM{ja}-",
+                            "gr.pos": "CCONJ"
+                        }
+                    ],
+                    "off_start": 19,
+                    "off_end": 21,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "wtype": "word",
+                    "wf": "kɒmmset’",
+                    "ana": [
+                        {
+                            "parts": "kɒmms-et’",
+                            "gloss": "",
+                            "gloss_index": "STEM{kɒmms}-ACC.PL{et’}-",
+                            "lex": "kɒmms",
+                            "trans_ru": "койба-acc.pl",
+                            "gloss_ru": "койба-acc.pl",
+                            "gloss_index_ru": "STEM{kɒmms}-ACC.PL{et’}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 22,
+                    "off_end": 30,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "wtype": "word",
+                    "wf": "leevlaht",
+                    "ana": [
+                        {
+                            "parts": "leevl-aht",
+                            "gloss": "",
+                            "gloss_index": "STEM{leevl}-CAUS1.NPST.3SG{aht}-",
+                            "lex": "leevl",
+                            "trans_ru": "стружка-caus1.npst.3sg",
+                            "gloss_ru": "стружка-caus1.npst.3sg",
+                            "gloss_index_ru": "STEM{leevl}-CAUS1.NPST.3SG{aht}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 31,
+                    "off_end": 39,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wtype": "word",
+                    "wf": "ja",
+                    "ana": [
+                        {
+                            "parts": "ja",
+                            "gloss": "",
+                            "gloss_index": "STEM{ja}-",
+                            "lex": "ja",
+                            "trans_ru": "и",
+                            "gloss_ru": "и",
+                            "gloss_index_ru": "STEM{ja}-",
+                            "gr.pos": "CCONJ"
+                        }
+                    ],
+                    "off_start": 40,
+                    "off_end": 42,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wtype": "word",
+                    "wf": "pɨjj",
+                    "ana": [
+                        {
+                            "parts": "pɨjj",
+                            "gloss": "",
+                            "gloss_index": "STEM{pɨjj}-",
+                            "lex": "pɨjj",
+                            "trans_ru": "класть.npst.3sg",
+                            "gloss_ru": "класть.npst.3sg",
+                            "gloss_index_ru": "STEM{pɨjj}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 43,
+                    "off_end": 47,
+                    "next_word": 8,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wtype": "word",
+                    "wf": "koošškte",
+                    "ana": [
+                        {
+                            "parts": "kooššk-t-e",
+                            "gloss": "",
+                            "gloss_index": "STEM{kooššk}-CAUS2{t}-INF{e}-",
+                            "lex": "kooššk",
+                            "trans_ru": "сохнуть-caus2-inf",
+                            "gloss_ru": "сохнуть-caus2-inf",
+                            "gloss_index_ru": "STEM{kooššk}-CAUS2{t}-INF{e}-",
+                            "gr.pos": "VERB"
+                        }
+                    ],
+                    "off_start": 48,
+                    "off_end": 56,
+                    "next_word": 9,
+                    "sentence_index": 8,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "text": "Человек берет шкуру, (и) покрывает койбы стружками и кладет сушиться.",
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 69,
+                    "para_id": 2
+                }
+            ]
+        },
+        {
+            "lang": 0,
+            "words": [
+                {
+                    "wtype": "word",
+                    "wf": "kues’s’",
+                    "ana": [
+                        {
+                            "parts": "kues’s’",
+                            "gloss": "",
+                            "gloss_index": "STEM{kues’s’}-",
+                            "lex": "kues’s’",
+                            "trans_ru": "когда",
+                            "gloss_ru": "когда",
+                            "gloss_index_ru": "STEM{kues’s’}-",
+                            "gr.pos": "SCONJ"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 7,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "wtype": "word",
+                    "wf": "sɨjj",
+                    "ana": [
+                        {
+                            "parts": "sɨjj",
+                            "gloss": "",
+                            "gloss_index": "STEM{sɨjj}-",
+                            "lex": "sɨjj",
+                            "trans_ru": "3pl.nom",
+                            "gloss_ru": "3pl.nom",
+                            "gloss_index_ru": "STEM{sɨjj}-",
+                            "gr.pos": "NUM"
+                        }
+                    ],
+                    "off_start": 8,
+                    "off_end": 12,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "wtype": "word",
+                    "wf": "koošškev",
+                    "ana": [
+                        {
+                            "parts": "kooššk-ev",
+                            "gloss": "",
+                            "gloss_index": "STEM{kooššk}-NPST.3PL{ev}-",
+                            "lex": "kooššk",
+                            "trans_ru": "сохнуть-npst.3pl",
+                            "gloss_ru": "сохнуть-npst.3pl",
+                            "gloss_index_ru": "STEM{kooššk}-NPST.3PL{ev}-",
+                            "gr.pos": "VERB"
+                        }
+                    ],
+                    "off_start": 13,
+                    "off_end": 21,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wtype": "word",
+                    "wf": "sonn",
+                    "ana": [
+                        {
+                            "parts": "sonn",
+                            "gloss": "",
+                            "gloss_index": "STEM{sonn}-",
+                            "lex": "sonn",
+                            "trans_ru": "3sg.nom",
+                            "gloss_ru": "3sg.nom",
+                            "gloss_index_ru": "STEM{sonn}-",
+                            "gr.pos": "ADJ"
+                        }
+                    ],
+                    "off_start": 22,
+                    "off_end": 26,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wtype": "word",
+                    "wf": "s’inet’",
+                    "ana": [
+                        {
+                            "parts": "s’in-et’",
+                            "gloss": "",
+                            "gloss_index": "STEM{s’in}-ACC{et’}-",
+                            "lex": "s’in",
+                            "trans_ru": "3pl-acc",
+                            "gloss_ru": "3pl-acc",
+                            "gloss_index_ru": "STEM{s’in}-ACC{et’}-",
+                            "gr.pos": "NUM"
+                        }
+                    ],
+                    "off_start": 27,
+                    "off_end": 34,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wtype": "word",
+                    "wf": "n’aassk",
+                    "ana": [
+                        {
+                            "parts": "n’aassk",
+                            "gloss": "",
+                            "gloss_index": "STEM{n’aassk}-",
+                            "lex": "n’aassk",
+                            "trans_ru": "скоблить.npst.3sg",
+                            "gloss_ru": "скоблить.npst.3sg",
+                            "gloss_index_ru": "STEM{n’aassk}-",
+                            "gr.pos": "VERB"
+                        }
+                    ],
+                    "off_start": 35,
+                    "off_end": 42,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "text": "Когда они высохнут, он их скоблит.",
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 34,
+                    "para_id": 3
+                }
+            ]
+        },
+        {
+            "lang": 0,
+            "words": [
+                {
+                    "wtype": "word",
+                    "wf": "tuul’j",
+                    "ana": [
+                        {
+                            "parts": "tuul’j",
+                            "gloss": "",
+                            "gloss_index": "STEM{tuul’j}-",
+                            "lex": "tuul’j",
+                            "trans_ru": "шкура.gen.sg",
+                            "gloss_ru": "шкура.gen.sg",
+                            "gloss_index_ru": "STEM{tuul’j}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 0,
+                    "off_end": 6,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 14
+                },
+                {
+                    "wtype": "word",
+                    "wf": "al’n’",
+                    "ana": [
+                        {
+                            "parts": "al’n’",
+                            "gloss": "",
+                            "gloss_index": "STEM{al’n’}-",
+                            "lex": "al’n’",
+                            "trans_ru": "на.loc",
+                            "gloss_ru": "на.loc",
+                            "gloss_index_ru": "STEM{al’n’}-",
+                            "gr.pos": "ADP"
+                        }
+                    ],
+                    "off_start": 7,
+                    "off_end": 12,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 13
+                },
+                {
+                    "wtype": "word",
+                    "wf": "vuajj",
+                    "ana": [
+                        {
+                            "parts": "vuajj",
+                            "gloss": "",
+                            "gloss_index": "STEM{vuajj}-",
+                            "lex": "vuajj",
+                            "trans_ru": "мочь.npst.3sg",
+                            "gloss_ru": "мочь.npst.3sg",
+                            "gloss_index_ru": "STEM{vuajj}-",
+                            "gr.pos": "ADV"
+                        }
+                    ],
+                    "off_start": 13,
+                    "off_end": 18,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 12
+                },
+                {
+                    "wtype": "word",
+                    "wf": "vued’d’e",
+                    "ana": [
+                        {
+                            "parts": "vued’d’-e",
+                            "gloss": "",
+                            "gloss_index": "STEM{vued’d’}-INF{e}-",
+                            "lex": "vued’d’",
+                            "trans_ru": "спать-inf",
+                            "gloss_ru": "спать-inf",
+                            "gloss_index_ru": "STEM{vued’d’}-INF{e}-",
+                            "gr.pos": "VERB"
+                        }
+                    ],
+                    "off_start": 19,
+                    "off_end": 27,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 11
+                },
+                {
+                    "wtype": "word",
+                    "wf": "il’i",
+                    "ana": [
+                        {
+                            "parts": "il’i",
+                            "gloss": "",
+                            "gloss_index": "STEM{il’i}-",
+                            "lex": "il’i",
+                            "trans_ru": "или",
+                            "gloss_ru": "или",
+                            "gloss_index_ru": "STEM{il’i}-",
+                            "gr.pos": "CCONJ"
+                        }
+                    ],
+                    "off_start": 28,
+                    "off_end": 32,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 10
+                },
+                {
+                    "wtype": "word",
+                    "wf": "kuarre",
+                    "ana": [
+                        {
+                            "parts": "kuarr-e",
+                            "gloss": "",
+                            "gloss_index": "STEM{kuarr}-INF{e}-",
+                            "lex": "kuarr",
+                            "trans_ru": "шить-inf",
+                            "gloss_ru": "шить-inf",
+                            "gloss_index_ru": "STEM{kuarr}-INF{e}-",
+                            "gr.pos": "VERB"
+                        }
+                    ],
+                    "off_start": 33,
+                    "off_end": 39,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 9
+                },
+                {
+                    "wtype": "word",
+                    "wf": "maal’c’et’",
+                    "ana": [
+                        {
+                            "parts": "maal’c’-et’",
+                            "gloss": "",
+                            "gloss_index": "STEM{maal’c’}-ACC.PL{et’}-",
+                            "lex": "maal’c’",
+                            "trans_ru": "малица-acc.pl",
+                            "gloss_ru": "малица-acc.pl",
+                            "gloss_index_ru": "STEM{maal’c’}-ACC.PL{et’}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 40,
+                    "off_end": 50,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 8
+                },
+                {
+                    "wtype": "word",
+                    "wf": "ja",
+                    "ana": [
+                        {
+                            "parts": "ja",
+                            "gloss": "",
+                            "gloss_index": "STEM{ja}-",
+                            "lex": "ja",
+                            "trans_ru": "и",
+                            "gloss_ru": "и",
+                            "gloss_index_ru": "STEM{ja}-",
+                            "gr.pos": "CCONJ"
+                        }
+                    ],
+                    "off_start": 51,
+                    "off_end": 53,
+                    "next_word": 8,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 7
+                },
+                {
+                    "wtype": "word",
+                    "wf": "rɒvvet’",
+                    "ana": [
+                        {
+                            "parts": "rɒvv-et’",
+                            "gloss": "",
+                            "gloss_index": "STEM{rɒvv}-ACC.PL{et’}-",
+                            "lex": "rɒvv",
+                            "trans_ru": "спальник-acc.pl",
+                            "gloss_ru": "спальник-acc.pl",
+                            "gloss_index_ru": "STEM{rɒvv}-ACC.PL{et’}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 54,
+                    "off_end": 61,
+                    "next_word": 9,
+                    "sentence_index": 8,
+                    "sentence_index_neg": 6
+                },
+                {
+                    "wtype": "word",
+                    "wf": "a",
+                    "ana": [
+                        {
+                            "parts": "a",
+                            "gloss": "",
+                            "gloss_index": "STEM{a}-",
+                            "lex": "a",
+                            "trans_ru": "а",
+                            "gloss_ru": "а",
+                            "gloss_index_ru": "STEM{a}-",
+                            "gr.pos": "CCONJ"
+                        }
+                    ],
+                    "off_start": 62,
+                    "off_end": 63,
+                    "next_word": 10,
+                    "sentence_index": 9,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "wtype": "word",
+                    "wf": "kɒmmsen’",
+                    "ana": [
+                        {
+                            "parts": "kɒmms-en’",
+                            "gloss": "",
+                            "gloss_index": "STEM{kɒmms}-COM.SG{en’}-",
+                            "lex": "kɒmms",
+                            "trans_ru": "койба-com.sg",
+                            "gloss_ru": "койба-com.sg",
+                            "gloss_index_ru": "STEM{kɒmms}-COM.SG{en’}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 64,
+                    "off_end": 72,
+                    "next_word": 11,
+                    "sentence_index": 10,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "wtype": "word",
+                    "wf": "kuaret’",
+                    "ana": [
+                        {
+                            "parts": "kuar-et’",
+                            "gloss": "",
+                            "gloss_index": "STEM{kuar}-IPS.NPST{et’}-",
+                            "lex": "kuar",
+                            "trans_ru": "шить-ips.npst",
+                            "gloss_ru": "шить-ips.npst",
+                            "gloss_index_ru": "STEM{kuar}-IPS.NPST{et’}-",
+                            "gr.pos": "VERB"
+                        }
+                    ],
+                    "off_start": 73,
+                    "off_end": 80,
+                    "next_word": 12,
+                    "sentence_index": 11,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wtype": "word",
+                    "wf": "tubɨrket’",
+                    "ana": [
+                        {
+                            "parts": "tubɨrk-et’",
+                            "gloss": "",
+                            "gloss_index": "STEM{tubɨrk}-ACC.PL{et’}-",
+                            "lex": "tubɨrk",
+                            "trans_ru": "тоборки-acc.pl",
+                            "gloss_ru": "тоборки-acc.pl",
+                            "gloss_index_ru": "STEM{tubɨrk}-ACC.PL{et’}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 81,
+                    "off_end": 90,
+                    "next_word": 13,
+                    "sentence_index": 12,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wtype": "word",
+                    "wf": "p’imat’",
+                    "ana": [
+                        {
+                            "parts": "p’ima-t’",
+                            "gloss": "",
+                            "gloss_index": "STEM{p’ima}-ACC.PL{t’}-",
+                            "lex": "p’ima",
+                            "trans_ru": "пимы-acc.pl",
+                            "gloss_ru": "пимы-acc.pl",
+                            "gloss_index_ru": "STEM{p’ima}-ACC.PL{t’}-",
+                            "gr.pos": "ADJ"
+                        }
+                    ],
+                    "off_start": 91,
+                    "off_end": 98,
+                    "next_word": 14,
+                    "sentence_index": 13,
+                    "sentence_index_neg": 1
+                },
+                {
+                    "wtype": "word",
+                    "wf": "buurket’",
+                    "ana": [
+                        {
+                            "parts": "buurk-et’",
+                            "gloss": "",
+                            "gloss_index": "STEM{buurk}-ACC.PL{et’}-",
+                            "lex": "buurk",
+                            "trans_ru": "бурки-acc.pl",
+                            "gloss_ru": "бурки-acc.pl",
+                            "gloss_index_ru": "STEM{buurk}-ACC.PL{et’}-",
+                            "gr.pos": "NOUN"
+                        }
+                    ],
+                    "off_start": 99,
+                    "off_end": 107,
+                    "next_word": 15,
+                    "sentence_index": 14,
+                    "sentence_index_neg": 0
+                }
+            ],
+            "text": "На шкуре можно спать или сшить [из нее] малицы и спальные мешки, а из койбы         шьют тоборки, пимы, бурки.",
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 110,
+                    "para_id": 4
+                }
+            ]
+        }
+    ]
+}
