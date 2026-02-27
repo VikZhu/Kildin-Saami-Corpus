@@ -9,75 +9,51 @@ from final_converter import (
     SaamiTransliterator,
 )
 
+from utils import punct
+
 print(punctuation)
+print(punct)
 
 class Sentence:
-    def __init__(self, gloss, cyrillic):
+    def __init__(self, gloss, cyrillic, source, sent_index):
         self.gloss = gloss
         self.cyrillic = cyrillic
+        self.source = source
+        self.sent_index = sent_index
+    def __repr__(self):
+        return f"Sentence({self.gloss!r}, {self.cyrillic!r}, {self.source!r}, {self.sent_index!r})"
 
 
 def saami_tests():
     sents = []
     with open('./testing/saami_converter_tests.csv', 'r', encoding="utf-8", newline='') as csvfile:
         reader = csv.DictReader(csvfile)
-        for row in reader:
+        for i, row in enumerate(reader):
             print(row)
-            sents.append(Sentence(row["gloss"], row["cyrillic"]))
-    return sents
+            if i == 6:
+                sents.append(Sentence(row["gloss"], row["cyrillic"], row['source'], row['sent_index']))
+    yield from sents
 
 sents = saami_tests()
 
 
-def remove_punct(s: str, pat=re.compile(r'''!"#$%&'()*+,-./:;<=>?@\[\\\]^_`{|}~''')):
-    return pat.sub("", s)
+def remove_punct(s: str):
+    # return pat.sub("", s)
+    # return re.sub(r'''[!"#$%&'()*+,-‐‑\./:;<=>?@\[\\\]^_`{|}~]''', "", s)
+    translator = str.maketrans('', '', ''.join(punct))
+    clean_text = s.translate(translator)
+    return clean_text
 
 
-# def test_converter(saami_tests):
-#     transliterator = SaamiTransliterator()
-#     print(saami_tests)
-#     for sent in saami_tests:
-#         cyr_no_punct = remove_punct(sent.cyrillic)
-
-#         res = transliterator.transliterate_text(sent.gloss)
-#         print(res)
-#         res_no_punct = remove_punct(res)
-#         print(res_no_punct)
-
-#         assert res_no_punct == cyr_no_punct.lower()
-
-# @pytest.mark.parametrize("saami_tests", indirect=True)
-def test_converter(saami_tests):
+@pytest.mark.parametrize("sent", saami_tests())
+def test_converter(sent):
     transliterator = SaamiTransliterator()
     
-    for i, sent in enumerate(saami_tests, start=1):
-        cyr_no_punct = remove_punct(sent.cyrillic)
+    cyr_no_punct = remove_punct(sent.cyrillic)
 
-        res = transliterator.transliterate_text(sent.gloss)
-        print(res)
-        res_no_punct = remove_punct(res)
-        print(res_no_punct)
+    res = transliterator.transliterate_text(sent.gloss)
+    # print(res)
+    res_no_punct = remove_punct(res)
+    # print(res_no_punct)
 
-        with pytest.subtests.test(i=i):
-            assert res_no_punct == cyr_no_punct.lower()
-
-
-import pytest
-
-def gen_lines():
-    with open('file_that_does_not_exist') as f:
-        yield from f
-
-def create_file():
-    with open('file_that_does_not_exist', 'w') as f:
-        print('ABC', file=f)
-        print('DEF', file=f)
-
-create_file()
-
-@pytest.fixture(params=gen_lines())
-def line_fixture(request):
-    return request.param
-
-def test_line(line_fixture):
-    assert True
+    assert res_no_punct.split() == cyr_no_punct.lower().split()
