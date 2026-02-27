@@ -30,8 +30,8 @@ def saami_tests():
         reader = csv.DictReader(csvfile)
         for i, row in enumerate(reader):
             print(row)
-            if i == 6:
-                sents.append(Sentence(row["gloss"], row["cyrillic"], row['source'], row['sent_index']))
+            # if i == 6:
+            sents.append(Sentence(row["gloss"], row["cyrillic"], row['source'], row['sent_index']))
     yield from sents
 
 sents = saami_tests()

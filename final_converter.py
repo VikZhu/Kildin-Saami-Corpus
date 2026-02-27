@@ -3,47 +3,60 @@ import string
 
 from utils import punct
 
-L_consonant_list = [
+L_token_consonant_list = [
     'p','t','k','b','d','g','c','č','ʒ','ǯ','f','s','š','x','v','z','ž',
-    'm','n','ɲ','ŋ','m̥','n̥','r','l','r̥','l̥'
+    'm','n','ɲ','ŋ','r','l',
 ]
+_L_combined_consonants_before_comb_list = ['m','n', 'r','l']
+L_combined_consonants_list = ['m̥','n̥', 'r̥','l̥']
+L_consonant_list = L_combined_consonants_list + L_token_consonant_list
+_L_token_consonant_list_str = ''.join(L_token_consonant_list)
+_L_combined_consonants_before_comb_list_str = ''.join(_L_combined_consonants_before_comb_list)
 
 L_vowel_proper_list = ['i','ɨ','u','e','o','a','ɒ']
 L_j_list = ['j','j̥']
 L_vowel_list = L_vowel_proper_list + L_j_list
+_L_vowel_list_str = ''.join(L_vowel_list)
 
-SOFTNESS_SYMBOLS = {"'", "’"}
-ALLOWED_SYMBOLS_INSIDE = SOFTNESS_SYMBOLS | {"\u0325"}
+SOFTNESS_SYMBOLS = ["'", "’"]
+ALLOWED_SYMBOLS_INSIDE = SOFTNESS_SYMBOLS + ["\u0325"]
+_SOFTNESS_SYMBOLS_STR = ''.join(SOFTNESS_SYMBOLS)
 
 
-def split_into_clusters_with_softness(word, consonants, vowels):
+def split_into_clusters_with_softness(
+    word, consonants, vowels,
+    symb_re = re.compile(rf"[{_L_combined_consonants_before_comb_list_str}]\u0325|[{_L_token_consonant_list_str + _L_vowel_list_str}]|[{_SOFTNESS_SYMBOLS_STR}]")
+):
     clusters = []
     i = 0
-    n = len(word)
+
+    symbs = symb_re.findall(word)
+
+    n = len(symbs)
 
     while i < n:
-        print(word[i])
+        print(symbs[i])
         if (
-            word[i] in consonants or
-            (word[i] in SOFTNESS_SYMBOLS and i + 1 < n and word[i + 1] in consonants)
+            symbs[i] in consonants or
+            (symbs[i] in SOFTNESS_SYMBOLS and i + 1 < n and symbs[i + 1] in consonants)
         ):
             base = []
             soft = False
 
-            while i < n and (word[i] in consonants or word[i] in SOFTNESS_SYMBOLS):
-                if word[i] in {"'", "’"}:
+            while i < n and (symbs[i] in consonants or symbs[i] in SOFTNESS_SYMBOLS):
+                if symbs[i] in {"'", "’"}:
                     soft = True
                 else:
-                    base.append(word[i])
+                    base.append(symbs[i])
                 i += 1
 
             clusters.append(("C", "".join(base), soft))
 
         # === ГЛАСНЫЙ КЛАСТЕР ===
-        elif word[i] in vowels:
+        elif symbs[i] in vowels:
             base = []
-            while i < n and word[i] in vowels:
-                base.append(word[i])
+            while i < n and symbs[i] in vowels:
+                base.append(symbs[i])
                 i += 1
             clusters.append(("V", "".join(base), False))
 
