@@ -5,7 +5,7 @@ from utils import punct
 
 L_token_consonant_list = [
     'p','t','k','b','d','g','c','č','ʒ','ǯ','f','s','š','x','v','z','ž',
-    'm','n','ɲ','ŋ','r','l',
+    'm','n','ɲ','ŋ','r','l', 'h'
 ]
 _L_combined_consonants_before_comb_list = ['m','n', 'r','l']
 L_combined_consonants_list = ['m̥','n̥', 'r̥','l̥']
@@ -35,7 +35,6 @@ def split_into_clusters_with_softness(
     n = len(symbs)
 
     while i < n:
-        print(symbs[i])
         if (
             symbs[i] in consonants or
             (symbs[i] in SOFTNESS_SYMBOLS and i + 1 < n and symbs[i + 1] in consonants)
@@ -129,8 +128,8 @@ class SaamiTransliterator:
             'ii': LONG_I_CYR, 'i': I_CYR,
         }
 
-        print(self.vowel_map)
-        print(self.soft_vowel_map)
+        #print(self.vowel_map)
+        #print(self.soft_vowel_map)
 
         self.consonant_map = {
             'pp':'пп','p':'п',
@@ -145,6 +144,7 @@ class SaamiTransliterator:
             'ff':'фф','f':'ф',
             'ss':'сс','s':'с',
             'šš':'шш','š':'ш',
+            'h':'h',
             'x':'х',
             'v':'в',
             'zz':'зз','z':'з',
@@ -184,7 +184,7 @@ class SaamiTransliterator:
         result = []
 
         for i, (kind, base, soft) in enumerate(clusters):
-            print((kind, base, soft))
+            #print((kind, base, soft))
 
             if kind == "C":
                 cyr = base
@@ -236,7 +236,6 @@ class SaamiTransliterator:
 
 
     def transliterate_word(self, word):
-        print(word)
         word = self.clean_word(word).replace('’', "'")
         clusters = split_into_clusters_with_softness(
             word, L_consonant_list, L_vowel_list
@@ -258,8 +257,15 @@ if __name__ == "__main__":
     tr = SaamiTransliterator()
 
     tests = [
-        "kaallas ja aakaj jiil’l’en’ jiil’l’en’",
-        "mann mɨjje ejj šaan't’ al'ke",
+        "n'es't'eres'	l'eev	kudd		al'k'",
+        "iiǯ'	l'ii	lɨhke		laaš'š'k'",
+        "a	suelne	l'ii		vaajmel'",
+        "ejj		t'iid'		kooxxt	tenn		kudd		al'k' pajne",
+        "nu	vot	tel'	i	vaan'n'c'el'		kuppce",
+        "meene	kuppce	ja	kaaǯ'		rɒbot",
+        "an't'		c'aal̥l̥k	mɨn'n'e	rɒbot",
+        "a	kupec	c'aal̥l̥k	meenn	toonn	algax roobxušše",
+        "a	munn	c'aal̥l̥k	l'aa..		portnoj	l'aa c'aal̥l̥k,	maata	kuarre	c'aal̥l̥k	ɒɒssket'",
         "vɨjjl’em mɨjj    jeek’na    sijd’es’ čaar       paaj̥k’    gɒrre    ɒd’d’emvuajvaeel",
         "sijd’es’  m’iinet    pood’d’en    pravažat jeen’    až’    i  v’iil’j    tɒɒvvrež vuep’s’ej    i  mudda  oollme",
         "uccak", "uhce", "uhc'e"
