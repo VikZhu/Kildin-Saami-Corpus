@@ -140,7 +140,8 @@ class SaamiTransliterator:
             'gg':'гк','g':'г',
             'cc':'дц','c':'ц',
             'čč':'чч','č':'ч',
-            'ǯ':'дж','ʒ':'ж',
+            'ǯ':'дж', 
+                'ʒ':'дж',
             'ff':'фф','f':'ф',
             'ss':'сс','s':'с',
             'šš':'шш','š':'ш',
@@ -184,21 +185,32 @@ class SaamiTransliterator:
         result = []
 
         for i, (kind, base, soft) in enumerate(clusters):
-            #print((kind, base, soft))
+            # print((kind, base, soft))
 
             if kind == "C":
                 cyr = base
                 for k, v in sorted(self.consonant_map.items(), key=lambda x: -len(x[0])):
                     cyr = cyr.replace(k, v)
 
-                if i == len(clusters) - 1 and soft:
-                    if cyr and cyr[-1] in self.semi_soft_consonants:
-                        if len(cyr) == 2:
-                            cyr = cyr[0] + 'ҍ' + cyr[1]
-                        else:
-                            cyr += 'ҍ'
-                    else:
-                        cyr += 'ь'
+                # print("Before softness", f"{cyr=}, {bool(cyr)=}, {i=}, {len(clusters)=}")
+                if soft:
+                    if (cyr 
+                        and (
+                            (len(cyr) >= 2 and cyr[-2] in self.semi_soft_consonants))
+                            or (len(cyr) == 1 and cyr[-1] in self.semi_soft_consonants)
+                        ):
+                        softness_sign = 'ҍ'
+                    elif cyr:
+                        softness_sign = 'ь'
+
+                    if len(cyr) > 1:
+                        cyr = cyr[:-1] + softness_sign + cyr[-1]
+                    # only add softness sign after the last single-letter consonant cluster
+                    #  (not before vowels!)
+                    elif i == len(clusters) - 1:
+                        cyr += softness_sign   
+
+                # print("After softness:", cyr)    
 
                 result.append(cyr)
 
@@ -213,6 +225,7 @@ class SaamiTransliterator:
                         i == 0 and base[0] in L_j_list
                     )
                 )
+                # print(f"{prev_soft=}")
 
                 v = base
                 if prev_soft:
@@ -240,6 +253,7 @@ class SaamiTransliterator:
         clusters = split_into_clusters_with_softness(
             word, L_consonant_list, L_vowel_list
         )
+        # print(f"{word=}, {clusters=}")
         return ''.join(self.transliterate_clusters(clusters))
 
 
@@ -273,4 +287,4 @@ if __name__ == "__main__":
 
     for t in tests:
         print("Оригинал:", t)
-        print("Транслит:", tr.transliterate_text(t))
+        print("Транслит:", tr.transliterate_text(t), end="\n\n")
