@@ -7,7 +7,8 @@ L_token_consonant_list = [
     'p','t','k','b','d','g','c','č','ʒ','ǯ','f','s','š','x','v','z','ž',
     'm','n','ɲ','ŋ','r','l', 'h'
 ]
-_L_combined_consonants_before_comb_list = ['m','n', 'r','l']
+# _L_combined_consonants_before_comb_list = ['m','n', 'r','l']
+_L_combined_consonants_before_comb_list = ['m','n', 'r','l', 'ʒ']
 L_combined_consonants_list = ['m̥','n̥', 'r̥','l̥']
 L_consonant_list = L_combined_consonants_list + L_token_consonant_list
 _L_token_consonant_list_str = ''.join(L_token_consonant_list)
@@ -19,13 +20,19 @@ L_vowel_list = L_vowel_proper_list + L_j_list
 _L_vowel_list_str = ''.join(L_vowel_list)
 
 SOFTNESS_SYMBOLS = ["'", "’"]
-ALLOWED_SYMBOLS_INSIDE = SOFTNESS_SYMBOLS + ["\u0325"]
+COMBINING_SYMBOLS = ["\u0325", "\u030C"]
+ALLOWED_SYMBOLS_INSIDE = SOFTNESS_SYMBOLS + COMBINING_SYMBOLS
 _SOFTNESS_SYMBOLS_STR = ''.join(SOFTNESS_SYMBOLS)
+_COMBINING_SYMBOLS_STR = ''.join(COMBINING_SYMBOLS)
 
 
 def split_into_clusters_with_softness(
     word, consonants, vowels,
-    symb_re = re.compile(rf"[{_L_combined_consonants_before_comb_list_str}]\u0325|[{_L_token_consonant_list_str + _L_vowel_list_str}]|[{_SOFTNESS_SYMBOLS_STR}]")
+    symb_re = re.compile(
+        rf"""[{_L_combined_consonants_before_comb_list_str}][\u0325\u030C]
+             |[{_L_token_consonant_list_str + _L_vowel_list_str}]
+             |[{_SOFTNESS_SYMBOLS_STR}]
+        """, re.VERBOSE)
 ):
     clusters = []
     i = 0
@@ -89,6 +96,7 @@ YE_CYR = 'е'
 LONG_YA_CYR = 'я̄'
 LONG_YO_CYR = 'ё̄'
 LONG_YU_CYR = 'ю̄'
+LONG_YE_CYR = 'ē'
 
 J_CYR = 'й'
 
@@ -108,7 +116,7 @@ class SaamiTransliterator:
     def __init__(self):
         self.vowel_map = {
             'aa': LONG_A_CYR, 'a': A_CYR,
-            'ii': LONG_IE_CYR, 'i': Y_CYR, # тут нельзя просто заменить 
+            'ii': LONG_I_CYR, 'i': Y_CYR, # тут нельзя просто заменить 
             'uu': LONG_U_CYR, 'u': U_CYR,
             'ee': LONG_E_CYR, 'e': E_CYR,
             'oo': LONG_O_CYR, 'o': O_CYR,
@@ -118,7 +126,7 @@ class SaamiTransliterator:
         }
 
         self.soft_vowel_map = {
-            'ee': LONG_E_CYR, 'e': E_CYR,
+            'ee': LONG_YE_CYR, 'e': YE_CYR,
             'aa': LONG_YA_CYR, 'a': YA_CYR,
             'oo': LONG_YO_CYR, 'o': YO_CYR,
             'uu': LONG_YU_CYR, 'u': YU_CYR,
@@ -127,6 +135,8 @@ class SaamiTransliterator:
             'ja': YA_CYR, 'je': YE_CYR, 'ji': I_CYR,
             'ii': LONG_I_CYR, 'i': I_CYR,
         }
+        
+        self.semi_soft_vowel = {'ä', 'ё̄', 'ӭ'}
 
         #print(self.vowel_map)
         #print(self.soft_vowel_map)
@@ -160,6 +170,7 @@ class SaamiTransliterator:
             'll':'лл','l':'л',
             'r̥r̥':'ҏҏ','r̥':'ҏ',
             'l̥l̥':'ӆӆ','l̥':'ӆ',
+            'j':J_CYR
         }
 
         self.semi_soft_consonants = {'д', 'т', 'н'}
@@ -185,7 +196,7 @@ class SaamiTransliterator:
         result = []
 
         for i, (kind, base, soft) in enumerate(clusters):
-            # print((kind, base, soft))
+            print((kind, base, soft))
 
             if kind == "C":
                 cyr = base
@@ -210,8 +221,6 @@ class SaamiTransliterator:
                     elif i == len(clusters) - 1:
                         cyr += softness_sign   
 
-                # print("After softness:", cyr)    
-
                 result.append(cyr)
 
             else:  
@@ -223,15 +232,17 @@ class SaamiTransliterator:
                         prev_cluster[2]
                     ) or (
                         i == 0 and base[0] in L_j_list
+                    ) or (
+                        len(clusters) == 1 and base == 'i'
                     )
                 )
-                # print(f"{prev_soft=}")
+                #print(f"{prev_soft=}")
 
                 v = base
                 if prev_soft:
                     # нет j перед гласными в начале
                     # print(v)
-                    pat = f"^j(?=[{''.join(L_vowel_proper_list)}]{'{2}'})"
+                    pat = f"^j(?=[{''.join(L_vowel_list)}]{'{2}'})"
                     v = re.sub(pat, "", v)
                     # print(v, pat)
 
@@ -242,7 +253,7 @@ class SaamiTransliterator:
                     for k, v2 in sorted(self.vowel_map.items(), key=lambda x: -len(x[0])):
                         v = v.replace(k, v2)
 
-                # print("result:", v)           
+                #print("result:", v)           
 
                 result.append(v)
         return result
