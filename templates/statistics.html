@@ -1,0 +1,62 @@
+{% extends "base.html" %}
+
+{% block title %}Статистика{% endblock %}
+
+{% block content %}
+    <h1>Статистика</h1>
+
+    <h2>Топ-10 Глосс</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Meaning</th>
+                <th>Allomorph</th>
+                <th>Frequency</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for gloss in top_glosses %}
+                <tr>
+                    <td>{{ gloss.meaning }}</td>
+                    <td>{{ gloss.allomorph }}</td>
+                    <td>{{ gloss.frequency }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+    <div class="stat-box">
+        <h3>Общее количество возможных основ</h3>
+        <p>{{ total_possible_stems }}</p>
+    </div>
+
+    <div class="stat-box">
+        <h3>Общее количество слов</h3>
+        <p>{{ total_words }}</p>
+    </div>
+
+    <div class="stat-box">
+        <h3>Общее количество текстов</h3>
+        <p>{{ total_texts }}</p>
+    </div>
+
+    <h2>Топ-5 слов по частям речи</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>POS</th>
+                <th>Word Form</th>
+                <th>Frequency</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for row in top_word_by_pos %}
+                <tr>
+                    <td>{{ row.pos }}</td>
+                    <td>{{ row.form }}</td>
+                    <td>{{ row.frequency }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+{% endblock %}

@@ -1,0 +1,808 @@
+{% extends "base.html" %}
+
+{% block title %}Поиск{% endblock %}
+
+{% block content %}
+    <h1>Поиск по корпусу</h1>
+    <p>Вы можете комбинировать критерии поиска. Заполните одно или несколько полей для точного поиска.</p>
+    
+    <!-- Контейнер для формы и правил (две колонки) -->
+    <div style="display: flex; gap: 30px; flex-wrap: wrap;">
+        <!-- Форма поиска (левая колонка) -->
+        <div style="flex: 2; min-width: 300px;">
+            <form action="/search" method="get" id="searchForm">
+                <div class="search-group">
+                    <label for="meaning">Поиск по глоссе:</label>
+                    <input type="text" id="meaning" name="meaning" value="{{ meaning }}" placeholder="Например: COM, LOC">
+                </div>
+                
+                <div class="search-group">
+                    <label for="pos">Поиск по части речи:</label>
+                    <select id="pos" name="pos">
+                        <option value="">-- Любая --</option>
+                        {% for pos_value in get_unique_pos() %}
+                            <option value="{{ pos_value }}" {% if pos == pos_value %}selected{% endif %}>{{ pos_value }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+                
+                <div class="search-group">
+                    <label for="stem">Поиск по словоформе:</label>
+                    <input type="text" id="stem" name="stem" value="{{ stem }}" placeholder="Например: со̄нн, манн, са̄мь">
+                    <small>Можно искать конкретные словоформы</small>
+                </div>
+
+                <div class="search-group">
+                    <label for="lemma_word">Поиск по лемме:</label>
+                    <input type="text" id="lemma_word" name="lemma_word" value="{{ lemma_word }}" placeholder="Например: маннэ, со̄ннэ, лийе">
+                    <small>Поиск всех форм леммы. Введите словоформу для лемматизации</small>
+                </div>
+
+                <!-- Скрытое поле для хранения номера страницы -->
+                <input type="hidden" id="page" name="page" value="{{ page }}">
+
+                <div class="search-buttons">
+                    <button type="submit" class="btn btn-primary"> Найти</button>
+                    <button type="button" class="btn btn-secondary" onclick="clearForm()"> Очистить все поля</button>
+                </div>
+
+                <!-- Универсальная клавиатура для всех полей -->
+                <div class="search-group" style="background-color: #f0e6ff;">
+                    <label>Саамская клавиатура:</label>
+                    <div class="saami-keyboard" style="margin-left: 0; justify-content: flex-start;">
+                        <button type="button" class="saami-char-universal" data-char="ӓ">ӓ</button>
+                        <button type="button" class="saami-char-universal" data-char="ӭ">ӭ</button>
+                        <button type="button" class="saami-char-universal" data-char="а̄">а̄</button>
+                        <button type="button" class="saami-char-universal" data-char="е̄">е̄</button>
+                        <button type="button" class="saami-char-universal" data-char="ӣ">ӣ</button>
+                        <button type="button" class="saami-char-universal" data-char="о̄">о̄</button>
+                        <button type="button" class="saami-char-universal" data-char="ӯ">ӯ</button>
+                        <button type="button" class="saami-char-universal" data-char="э̄">э̄</button>
+                        <button type="button" class="saami-char-universal" data-char="ю̄">ю̄</button>
+                        <button type="button" class="saami-char-universal" data-char="я̄">я̄</button>
+                        <button type="button" class="saami-char-universal" data-char="ӈ">ӈ</button>
+                        <button type="button" class="saami-char-universal" data-char="ӆ">ӆ</button>
+                        <button type="button" class="saami-char-universal" data-char="ӎ">ӎ</button>
+                        <button type="button" class="saami-char-universal" data-char="ӊ">ӊ</button>
+                        <button type="button" class="saami-char-universal" data-char="ҏ">ҏ</button>
+                        <button type="button" class="saami-char-universal" data-char="ҍ">ҍ</button>
+                    </div>
+                    <small style="margin-left: 0;">Нажмите на символ, чтобы вставить его в активное поле ввода</small>
+                </div>
+            </form>
+        </div>
+        
+        <!-- Блок с правилами (правая колонка) -->
+        <div style="flex: 1; min-width: 250px;">
+            <div style="border: 2px solid #2e5c31; border-radius: 16px; background-color: white; padding: 20px;">
+                <h3 style="text-align: center; margin-top: 0; color: #2e5c31;">Правила пользования корпусом:</h3>
+                <p style="margin-bottom: 0; line-height: 1.5;">Для поиска словоформы вы можете ввести словоформу в ячейку поиска.</p>
+            </div>
+        </div>
+    </div>
+
+    {% if results is not none %}
+        <div class="results-header">
+            <h2>Результаты поиска</h2>
+            
+            {% if results %}
+                <div class="results-info">
+                    <div class="results-count">
+                        Найдено вхождений: <strong>{{ total_count }}</strong>
+                    </div>
+                    <div class="search-summary">
+                        <strong>Критерии поиска:</strong>
+                        <ul>
+                            {% if meaning %} <li>Глосса: "{{ meaning }}"</li> {% endif %}
+                            {% if pos %} <li>Часть речи: {{ pos }}</li> {% endif %}
+                            {% if stem %} <li>Словоформа: "{{ stem }}"</li> {% endif %}
+                            {% if lemma_word %} <li>Лемма: "{{ lemma_word }}"</li> {% endif %}
+                            {% if not meaning and not pos and not stem and not lemma_word %}
+                                <li>Нет критериев поиска</li>
+                            {% endif %}
+                        </ul>
+                    </div>
+                </div>
+                
+                <!-- КНОПКА СКАЧИВАНИЯ -->
+                <div class="download-bar">
+                    <button onclick="downloadResults()" class="btn btn-download">
+                        Скачать все результаты (CSV)
+                    </button>
+                </div>
+            {% else %}
+                <div class="no-results">
+                    <p> По вашему запросу ничего не найдено.</p>
+                    <p>Попробуйте изменить критерии поиска или использовать более общие запросы.</p>
+                </div>
+            {% endif %}
+        </div>
+        
+        {% if results %}
+            {% for word in results %}
+                <div class="sentence-result">
+                    <div class="sentence-words"> 
+                        {% for sent_word in word.sentence.words %}
+                            <ul class='word'>
+                                <li><span class="{{'hl' if sent_word.word_id == word.word_id}}">{{ sent_word.form }}</span></li>
+                                <li>{{ sent_word.form_cyr }}</li>
+                                <li class="word-gloss">{{ sent_word.word_gloss if sent_word.word_gloss else '—' }}</li>
+                            </ul>
+                        {% endfor %}
+                    </div>
+                    <div class="translation">
+                        <strong>Перевод:</strong>
+                        <p>{{ word.sentence.translation if word.sentence.translation else 'Перевод отсутствует' }}</p>
+                        {% if word.sentence.text %}
+                            <small class="sentence-id">Предложение ID: {{ word.sentence.sentence_id }}</small>
+                        {% endif %}
+                    </div>
+                </div>
+            {% endfor %}
+            
+            <!-- Пагинация -->
+            {% if total_pages > 1 %}
+            <div class="pagination">
+                <div class="pagination-controls">
+                    {% if page > 1 %}
+                        <a href="#" class="pagination-link" data-page="1">&laquo; Первая</a>
+                        <a href="#" class="pagination-link" data-page="{{ page - 1 }}">‹ Назад</a>
+                    {% endif %}
+                    
+                    <span class="page-numbers">
+                        {# Вычисляем начальную и конечную страницы без использования max/min #}
+                        {% set start_page = page - 3 %}
+                        {% if start_page < 1 %}
+                            {% set start_page = 1 %}
+                        {% endif %}
+                        
+                        {% set end_page = page + 3 %}
+                        {% if end_page > total_pages %}
+                            {% set end_page = total_pages %}
+                        {% endif %}
+                        
+                        {% for p in range(start_page, end_page + 1) %}
+                            {% if p == page %}
+                                <span class="current-page">{{ p }}</span>
+                            {% else %}
+                                <a href="#" class="pagination-link" data-page="{{ p }}">{{ p }}</a>
+                            {% endif %}
+                        {% endfor %}
+                    </span>
+                    
+                    {% if page < total_pages %}
+                        <a href="#" class="pagination-link" data-page="{{ page + 1 }}">Вперед ›</a>
+                        <a href="#" class="pagination-link" data-page="{{ total_pages }}">Последняя &raquo;</a>
+                    {% endif %}
+                </div>
+            </div>
+            {% endif %}
+        {% endif %}
+    {% endif %}
+
+    <style>
+        .saami-keyboard {
+            margin-top: 10px;
+            margin-left: 0;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+            align-items: center;
+        }
+
+        .saami-char-btn {
+            background-color: #e8e8e8;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            padding: 5px 10px;
+            font-size: 16px;
+            font-family: monospace;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            min-width: 40px;
+        }
+
+        .saami-char-btn:hover {
+            background-color: #dc83f3;
+            color: white;
+            border-color: #dc83f3;
+            transform: scale(1.05);
+        }
+
+        .saami-char-btn:active {
+            transform: scale(0.95);
+        }
+
+        .keyboard-label {
+            font-size: 12px;
+            color: #666;
+            margin-right: 8px;
+            font-weight: normal;
+        }
+
+        @media (max-width: 768px) {
+            .saami-keyboard {
+                margin-left: 0;
+                justify-content: center;
+            }
+        }
+
+        /* Дополнительные стили для улучшенного интерфейса */
+        .search-group {
+            margin-bottom: 20px;
+            padding: 10px;
+            background-color: #f9f9f9;
+            border-radius: 8px;
+            transition: all 0.3s ease;
+        }
+        
+        .search-group:hover {
+            background-color: #f0f0f0;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        .search-group label {
+            display: inline-block;
+            width: 220px;
+            font-weight: bold;
+            color: #333;
+            margin-right: 10px;
+        }
+        
+        .search-group input, 
+        .search-group select {
+            width: 300px;
+            padding: 8px 12px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 14px;
+        }
+        
+        .search-group input:focus,
+        .search-group select:focus {
+            outline: none;
+            border-color: #dc83f3;
+            box-shadow: 0 0 5px rgba(220, 131, 243, 0.3);
+        }
+        
+        .search-group small {
+            display: block;
+            margin-top: 5px;
+            margin-left: 230px;
+            color: #666;
+            font-size: 12px;
+        }
+        
+        .search-buttons {
+            margin: 25px 0;
+            text-align: center;
+        }
+        
+        .btn {
+            padding: 10px 24px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: bold;
+            margin: 0 5px;
+            transition: all 0.3s ease;
+        }
+        
+        .btn-primary {
+            background-color: #dc83f3;
+            color: white;
+        }
+        
+        .btn-primary:hover {
+            background-color: #c56be0;
+            transform: translateY(-1px);
+            box-shadow: 0 2px 8px rgba(220, 131, 243, 0.3);
+        }
+        
+        .btn-secondary {
+            background-color: #6c757d;
+            color: white;
+        }
+        
+        .btn-secondary:hover {
+            background-color: #5a6268;
+            transform: translateY(-1px);
+        }
+        
+        .btn-download {
+            background-color: #28a745;
+            color: white;
+            padding: 10px 20px;
+        }
+        
+        .btn-download:hover {
+            background-color: #218838;
+            transform: translateY(-1px);
+            box-shadow: 0 2px 8px rgba(40, 167, 69, 0.3);
+        }
+        
+        .btn-goto {
+            padding: 5px 10px;
+            background-color: #dc83f3;
+            color: white;
+            border: none;
+            border-radius: 3px;
+            cursor: pointer;
+            margin-left: 5px;
+        }
+        
+        .btn-goto:hover {
+            background-color: #c56be0;
+        }
+        
+        .results-header {
+            margin-top: 30px;
+            border-top: 2px solid #dc83f3;
+            padding-top: 20px;
+        }
+        
+        .results-info {
+            background-color: #f8f9fa;
+            padding: 15px;
+            border-radius: 8px;
+            margin: 15px 0;
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+        
+        .results-count {
+            font-size: 18px;
+            padding: 10px;
+            background-color: #dc83f3;
+            color: white;
+            border-radius: 5px;
+            min-width: 150px;
+            text-align: center;
+        }
+        
+        .search-summary {
+            flex: 1;
+        }
+        
+        .search-summary ul {
+            margin: 5px 0 0 20px;
+            padding: 0;
+        }
+        
+        .search-summary li {
+            margin: 3px 0;
+            color: #555;
+        }
+        
+        .download-bar {
+            margin: 20px 0;
+            text-align: right;
+        }
+        
+        .no-results {
+            text-align: center;
+            padding: 40px;
+            background-color: #fff3cd;
+            border: 1px solid #ffeaa7;
+            border-radius: 8px;
+            margin: 20px 0;
+        }
+        
+        .no-results p:first-child {
+            font-size: 18px;
+            color: #856404;
+            margin-bottom: 10px;
+        }
+        
+        /* Уменьшаем высоту блоков - сокращаем вертикальные отступы */
+        .sentence-result {
+            margin-bottom: 15px;  /* было 25px */
+            padding: 8px 12px;    /* было 15px */
+            border: 1px solid #e0e0e0;
+            border-radius: 8px;
+            background-color: white;
+            transition: all 0.2s ease;
+        }
+        
+        .sentence-result:hover {
+            box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+            transform: translateY(-1px);
+        }
+        
+        /* Контейнер слов - уменьшаем отступы */
+        .sentence-words {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;           /* было 12px */
+            margin-bottom: 8px;   /* было 15px */
+            background-color: #f8f9fa;
+            border-radius: 6px;
+            padding: 8px;         /* было 15px */
+        }
+        
+        /* Каждое слово - уменьшаем отступы */
+        .word {
+            list-style: none;
+            padding: 4px;         /* было 8px */
+            margin: 0;
+            background-color: transparent;
+            border-radius: 4px;
+            min-width: 75px;
+            text-align: center;
+            flex-shrink: 0;
+        }
+        
+        .word li {
+            margin: 3px 0;        /* было 5px */
+            font-size: 13px;      /* было 14px */
+            text-align: center;
+        }
+        
+        .word li:first-child {
+            font-weight: bold;
+            font-size: 15px;      /* было 16px */
+        }
+        
+        .word-gloss {
+            color: #666;
+            font-style: italic;
+            font-size: 11px;      /* было 12px */
+        }
+        
+        /* Уменьшаем блок перевода */
+        .translation {
+            margin-top: 6px;       /* было 10px */
+            padding: 6px 10px;     /* было 10px */
+            background-color: #f0f8ff;
+            border-radius: 5px;
+            border-left: 3px solid #dc83f3;
+        }
+        
+        .translation p {
+            margin: 4px 0 0 0;     /* было 5px */
+            font-size: 14px;       /* было 15px */
+        }
+        
+        .sentence-id {
+            display: block;
+            margin-top: 5px;       /* было 8px */
+            color: #999;
+            font-size: 10px;       /* было 11px */
+        }
+        
+        .hl {
+            background-color: #ffeb3b;
+            font-weight: bold;
+            padding: 2px 4px;
+            border-radius: 3px;
+            display: inline-block;
+        }
+        
+        /* Стили для пагинации */
+        .pagination-info {
+            text-align: center;
+            padding: 10px;
+            background-color: #e9ecef;
+            border-radius: 5px;
+            margin: 15px 0;
+            font-size: 14px;
+            color: #495057;
+        }
+        
+        .pagination {
+            margin: 30px 0 20px;
+            padding: 20px;
+            background-color: #f8f9fa;
+            border-radius: 8px;
+        }
+        
+        .pagination-controls {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
+            flex-wrap: wrap;
+            margin-bottom: 15px;
+        }
+        
+        .pagination-link {
+            padding: 8px 12px;
+            background-color: white;
+            border: 1px solid #dee2e6;
+            border-radius: 4px;
+            color: #dc83f3;
+            text-decoration: none;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+        
+        .pagination-link:hover {
+            background-color: #dc83f3;
+            color: white;
+            border-color: #dc83f3;
+            text-decoration: none;
+        }
+        
+        .current-page {
+            padding: 8px 12px;
+            background-color: #dc83f3;
+            color: white;
+            border-radius: 4px;
+            font-weight: bold;
+        }
+        
+        .page-numbers {
+            display: inline-flex;
+            gap: 5px;
+            align-items: center;
+        }
+        
+        .pagination-select {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
+            margin-top: 15px;
+            padding-top: 15px;
+            border-top: 1px solid #dee2e6;
+        }
+        
+        .pagination-select label {
+            font-size: 14px;
+            color: #495057;
+        }
+        
+        #goto-page {
+            padding: 5px 8px;
+            border: 1px solid #dee2e6;
+            border-radius: 4px;
+            text-align: center;
+        }
+        
+        @media (max-width: 768px) {
+            .search-group label {
+                display: block;
+                width: auto;
+                margin-bottom: 5px;
+            }
+            
+            .search-group input,
+            .search-group select {
+                width: calc(100% - 24px);
+            }
+            
+            .search-group small {
+                margin-left: 0;
+            }
+            
+            .results-info {
+                flex-direction: column;
+            }
+            
+            .sentence-words {
+                justify-content: center;
+                gap: 6px;
+                padding: 6px;
+            }
+            
+            .word {
+                min-width: 65px;
+                padding: 3px;
+            }
+            
+            .word li {
+                font-size: 11px;
+            }
+            
+            .word li:first-child {
+                font-size: 13px;
+            }
+            
+            .pagination-controls {
+                gap: 5px;
+            }
+            
+            .pagination-link, .current-page {
+                padding: 5px 8px;
+                font-size: 12px;
+            }
+        }
+    </style>
+
+    <!-- СКРИПТ ДЛЯ СКАЧИВАНИЯ, ОЧИСТКИ ФОРМЫ И ПАГИНАЦИИ -->
+    <script>
+        function downloadResults() {
+            // Получаем текущие параметры поиска без номера страницы
+            var urlParams = new URLSearchParams(window.location.search);
+            urlParams.delete('page'); // Удаляем параметр страницы, чтобы скачать все результаты
+            
+            var params = urlParams.toString();
+            
+            if (!params) {
+                alert('Нет результатов для скачивания. Сначала выполните поиск.');
+                return;
+            }
+            
+            // Показываем индикатор загрузки
+            var downloadBtn = event.target;
+            var originalText = downloadBtn.innerHTML;
+            downloadBtn.innerHTML = '⏳ Загрузка...';
+            downloadBtn.disabled = true;
+            
+            // Создаем ссылку для скачивания
+            var downloadUrl = '/download_results?' + params;
+            
+            // Используем fetch для лучшего контроля
+            fetch(downloadUrl)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Ошибка загрузки');
+                    }
+                    return response.blob();
+                })
+                .then(blob => {
+                    var url = window.URL.createObjectURL(blob);
+                    var a = document.createElement('a');
+                    a.href = url;
+                    a.download = 'saami_corpus_results.csv';
+                    document.body.appendChild(a);
+                    a.click();
+                    window.URL.revokeObjectURL(url);
+                    a.remove();
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    alert('Ошибка при скачивании файла. Попробуйте еще раз.');
+                })
+                .finally(() => {
+                    downloadBtn.innerHTML = originalText;
+                    downloadBtn.disabled = false;
+                });
+        }
+        
+        function clearForm() {
+            // Очищаем все поля формы
+            document.getElementById('meaning').value = '';
+            document.getElementById('pos').value = '';
+            document.getElementById('stem').value = '';
+            document.getElementById('lemma_word').value = '';
+            document.getElementById('page').value = '1';
+            
+            // Опционально: перенаправляем на страницу поиска без параметров
+            window.location.href = '/search';
+        }
+        
+        // Функция для перехода на страницу
+        function gotoPage() {
+            var pageNum = parseInt(document.getElementById('goto-page').value);
+            var maxPage = {{ total_pages }};
+            
+            if (isNaN(pageNum) || pageNum < 1) {
+                pageNum = 1;
+            } else if (pageNum > maxPage) {
+                pageNum = maxPage;
+            }
+            
+            navigateToPage(pageNum);
+        }
+        
+        // Функция для навигации по страницам
+        function navigateToPage(pageNum) {
+            // Получаем текущие параметры поиска
+            var urlParams = new URLSearchParams(window.location.search);
+            urlParams.set('page', pageNum);
+            
+            // Перенаправляем на новый URL
+            window.location.href = '/search?' + urlParams.toString();
+        }
+        
+        // Функция для универсальной клавиатуры (вставляет в последнее активное поле)
+        let lastActiveInput = null;
+        
+        // Сохраняем последнее активное поле при фокусе
+        function setActiveInput(input) {
+            lastActiveInput = input;
+            console.log('Активное поле установлено:', input.id);
+        }
+        
+        function insertIntoActiveField(char) {
+            // Проверяем, есть ли сохраненное поле
+            if (!lastActiveInput) {
+                // Пробуем найти любое поле с текстом
+                const stemInput = document.getElementById('stem');
+                const lemmaInput = document.getElementById('lemma_word');
+                
+                if (stemInput && stemInput.value) {
+                    lastActiveInput = stemInput;
+                } else if (lemmaInput && lemmaInput.value) {
+                    lastActiveInput = lemmaInput;
+                } else if (stemInput) {
+                    lastActiveInput = stemInput;
+                } else if (lemmaInput) {
+                    lastActiveInput = lemmaInput;
+                } else {
+                    alert('Сначала нажмите на поле ввода (словоформа или лемма), куда хотите вставить символ');
+                    return false;
+                }
+            }
+            
+            // Вставляем символ
+            const start = lastActiveInput.selectionStart;
+            const end = lastActiveInput.selectionEnd;
+            const value = lastActiveInput.value;
+            const newValue = value.substring(0, start) + char + value.substring(end);
+            lastActiveInput.value = newValue;
+            
+            // Устанавливаем курсор после вставленного символа
+            const newCursorPos = start + char.length;
+            lastActiveInput.setSelectionRange(newCursorPos, newCursorPos);
+            lastActiveInput.focus();
+            lastActiveInput.dispatchEvent(new Event('input', { bubbles: true }));
+            return true;
+        }
+        
+        // Инициализация при загрузке страницы
+        document.addEventListener('DOMContentLoaded', function() {
+            // Настройка обработчиков для ссылок пагинации
+            const paginationLinks = document.querySelectorAll('.pagination-link');
+            paginationLinks.forEach(link => {
+                link.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    const page = this.getAttribute('data-page');
+                    if (page) {
+                        navigateToPage(parseInt(page));
+                    }
+                });
+            });
+            
+            // Обработка Enter в поле перехода к странице
+            const gotoPageInput = document.getElementById('goto-page');
+            if (gotoPageInput) {
+                gotoPageInput.addEventListener('keypress', function(e) {
+                    if (e.key === 'Enter') {
+                        e.preventDefault();
+                        gotoPage();
+                    }
+                });
+            }
+            
+            // Отслеживание активного поля
+            const stemInput = document.getElementById('stem');
+            const lemmaInput = document.getElementById('lemma_word');
+            
+            if (stemInput) {
+                stemInput.addEventListener('focus', function() {
+                    setActiveInput(this);
+                });
+                stemInput.addEventListener('click', function() {
+                    setActiveInput(this);
+                });
+            }
+            
+            if (lemmaInput) {
+                lemmaInput.addEventListener('focus', function() {
+                    setActiveInput(this);
+                });
+                lemmaInput.addEventListener('click', function() {
+                    setActiveInput(this);
+                });
+            }
+            
+            // Обработчики для универсальных кнопок
+            const universalButtons = document.querySelectorAll('.saami-char-universal');
+            universalButtons.forEach(button => {
+                button.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    const char = this.getAttribute('data-char');
+                    if (char) {
+                        insertIntoActiveField(char);
+                    }
+                });
+            });
+        });
+    </script>
+{% endblock %}
