@@ -1,5 +1,5 @@
 import re
-import string
+import unicodedata as u
 
 from utils import punct
 
@@ -80,14 +80,14 @@ E_CYR = 'э'
 O_CYR = 'о'
 Y_CYR = 'ы'
 O_DIPHT_CYR = 'оа'
-LONG_A_CYR = 'ā'
+LONG_A_CYR = 'а\u0304'
 LONG_I_CYR = 'ӣ'
 LONG_IE_CYR = 'ӭ̄'
-LONG_U_CYR = 'ӯ'
+LONG_U_CYR = 'у\u0304'
 LONG_E_CYR = 'э̄'
-LONG_O_CYR = 'ō'
+LONG_O_CYR = 'о\u0304'
 LONG_Y_CYR = 'ы̄'
-LONG_O_DIPHT_CYR = 'оā'
+LONG_O_DIPHT_CYR = 'оа\u0304'
 
 YA_CYR = 'я'
 YO_CYR = 'ё'
@@ -133,7 +133,7 @@ class SaamiTransliterator:
             'ɨɨ': LONG_I_CYR, 'ɨ': I_CYR,
             # потому что первый кластер, если он начинается с j, мы маркируем как мягкий
             'ja': YA_CYR, 'je': YE_CYR, 'ji': I_CYR,
-            'ii': LONG_I_CYR, 'i': I_CYR,
+            'ii': LONG_I_CYR, 'i': I_CYR, 'j': J_CYR
         }
         
         self.semi_soft_vowel = {'ä', 'ё̄', 'ӭ'}
@@ -155,14 +155,14 @@ class SaamiTransliterator:
             'ff':'фф','f':'ф',
             'ss':'сс','s':'с',
             'šš':'шш','š':'ш',
-            'h':'h',
+            'h':'хх',
             'x':'х',
             'v':'в',
             'zz':'зз','z':'з',
             'žž':'жж','ž':'ж',
             'mm':'мм','m':'м',
             'nn':'нн','n':'н',
-            'ɲɲ':'ннь','ɲ':'нь',
+            'ɲɲ':'нн','ɲ':'н',
             'ŋŋ':'ӈӈ','ŋ':'ӈ',
             'm̥m̥':'ӎӎ','m̥':'ӎ',
             'n̥n̥':'ӊӊ','n̥':'ӊ',
@@ -203,18 +203,21 @@ class SaamiTransliterator:
                 for k, v in sorted(self.consonant_map.items(), key=lambda x: -len(x[0])):
                     cyr = cyr.replace(k, v)
 
-                # print("Before softness", f"{cyr=}, {bool(cyr)=}, {i=}, {len(clusters)=}")
+                print("Before softness", f"{cyr=}, {bool(cyr)=}, {i=}, {len(clusters)=}")
                 if soft:
                     if (cyr 
                         and (
-                            (len(cyr) >= 2 and cyr[-2] in self.semi_soft_consonants))
+                            (len(cyr) >= 2 and cyr[-2] in self.semi_soft_consonants and cyr != 'дж'))
                             or (len(cyr) == 1 and cyr[-1] in self.semi_soft_consonants)
                         ):
                         softness_sign = 'ҍ'
                     elif cyr:
                         softness_sign = 'ь'
-
-                    if len(cyr) > 1:
+                   
+                    if len(cyr) > 1 and cyr not in ["бп", "дт", "гк", "дж"] and cyr[-2] != cyr[-1]:
+                        if len(cyr) > 2:
+                            if cyr[-3] != cyr[-2]:
+                                cyr = cyr[:-1] + softness_sign + cyr[-1]
                         cyr = cyr[:-1] + softness_sign + cyr[-1]
                     # only add softness sign after the last single-letter consonant cluster
                     #  (not before vowels!)
@@ -242,7 +245,7 @@ class SaamiTransliterator:
                 if prev_soft:
                     # нет j перед гласными в начале
                     # print(v)
-                    pat = f"^j(?=[{''.join(L_vowel_list)}]{'{2}'})"
+                    pat = f"^j(?=[{''.join(L_vowel_list)}]{ '{2}'})"
                     v = re.sub(pat, "", v)
                     # print(v, pat)
 
@@ -251,21 +254,41 @@ class SaamiTransliterator:
                         # print(k, v2)
                 else:
                     for k, v2 in sorted(self.vowel_map.items(), key=lambda x: -len(x[0])):
-                        v = v.replace(k, v2)
-
+                        if 'jj' in base and not((i+1) == len(clusters)):
+                            v = v.replace('jj', 'йй')
+                            v = v.replace(k, v2)
+                        else:
+                            v = v.replace(k, v2)
                 #print("result:", v)           
 
                 result.append(v)
         return result
+    
+    def is_cyr(self, word):
+        # for symb in u.normalize("NFD", word):
+        #     print(symb, hex(ord(symb)), u.name(symb))
+        for symb in word:
+            print(symb, hex(ord(symb)), u.name(symb))
+        return re.fullmatch(r"[а-яё'\u0300-\u036F\u048a-\u04f9]+", word, re.IGNORECASE)
 
+    @staticmethod
+    def normalize(word):
+        return u.normalize("NFD", word)
 
     def transliterate_word(self, word):
         word = self.clean_word(word).replace('’', "'")
+        if self.is_cyr(word):
+            return word
+
         clusters = split_into_clusters_with_softness(
             word, L_consonant_list, L_vowel_list
         )
         # print(f"{word=}, {clusters=}")
-        return ''.join(self.transliterate_clusters(clusters))
+        res = ''.join(self.transliterate_clusters(clusters))
+        self.is_cyr(res)
+        res_normalized = self.normalize(res)
+        self.is_cyr(res_normalized)
+        return res_normalized
 
 
     def transliterate_text(self, text):
@@ -276,16 +299,18 @@ class SaamiTransliterator:
             else:
                 parts.append(token)
         return ''.join(parts)
-
+    
 
 if __name__ == "__main__":
     tr = SaamiTransliterator()
 
     tests = [
+        "значит я оусский",
+        "ва̄ррь", *LONGS, *LONGS_SOFT,
         "n'es't'eres'	l'eev	kudd		al'k'",
         "iiǯ'	l'ii	lɨhke		laaš'š'k'",
         "a	suelne	l'ii		vaajmel'",
-        "ejj		t'iid'		kooxxt	tenn		kudd		al'k' pajne",
+        "ejj		t'iid'		kooxxt	tenn		kud'd'		al'k' pajne",
         "nu	vot	tel'	i	vaan'n'c'el'		kuppce",
         "meene	kuppce	ja	kaaǯ'		rɒbot",
         "an't'		c'aal̥l̥k	mɨn'n'e	rɒbot",
@@ -293,7 +318,7 @@ if __name__ == "__main__":
         "a	munn	c'aal̥l̥k	l'aa..		portnoj	l'aa c'aal̥l̥k,	maata	kuarre	c'aal̥l̥k	ɒɒssket'",
         "vɨjjl’em mɨjj    jeek’na    sijd’es’ čaar       paaj̥k’    gɒrre    ɒd’d’emvuajvaeel",
         "sijd’es’  m’iinet    pood’d’en    pravažat jeen’    až’    i  v’iil’j    tɒɒvvrež vuep’s’ej    i  mudda  oollme",
-        "uccak", "uhce", "uhc'e"
+        "uccak", "uhce", "uhc'e", "jil'l'en'", "kab'b'er'", "lɨhk'e"
     ]
 
     for t in tests:
