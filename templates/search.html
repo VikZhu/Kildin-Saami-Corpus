@@ -124,8 +124,8 @@
                     <div class="sentence-words"> 
                         {% for sent_word in word.sentence.words %}
                             <ul class='word'>
-                                <li><span class="{{'hl' if sent_word.word_id == word.word_id}}">{{ sent_word.form }}</span></li>
-                                <li>{{ sent_word.form_cyr }}</li>
+                                <li><span class="{{'hl' if sent_word.word_id == word.word_id}}">{{ sent_word.form_gloss }}</span></li>
+                                <li>{{ sent_word.form_gloss_cyr }}</li>
                                 <li class="word-gloss">{{ sent_word.word_gloss if sent_word.word_gloss else '—' }}</li>
                             </ul>
                         {% endfor %}

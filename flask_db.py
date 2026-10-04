@@ -61,6 +61,16 @@ class Word(db.Model):
     # TODO:
     glosses = relationship("Gloss", back_populates="word")
 
+    GLOSS_SIGN = "-"
+    
+    @property
+    def form_gloss(self):
+        return self.GLOSS_SIGN.join([(gl.stem or gl.gloss).allomorph for gl in self.glosses])
+
+    @property
+    def form_gloss_cyr(self):
+        return self.GLOSS_SIGN.join([(gl.stem or gl.gloss).allomorph_cyr for gl in self.glosses])
+
 
 class PossibleGloss(db.Model):
     __tablename__ = "possible_glosses"
@@ -70,6 +80,8 @@ class PossibleGloss(db.Model):
     meaning = db.Column('meaning', db.Text)
     allomorph = db.Column('allomorph', db.Text)
     allomorph_cyr = db.Column('allomorph_cyr', db.Text)
+
+    items = relationship("Gloss", back_populates="gloss")
 
 
 class PossibleStem(db.Model):
@@ -81,6 +93,8 @@ class PossibleStem(db.Model):
     allomorph = db.Column('allomorph', db.Text)
     allomorph_cyr = db.Column('allomorph_cyr', db.Text)
 
+    items = relationship("Gloss", back_populates="stem")
+
 
 class Gloss(db.Model):
     __tablename__ = "glosses"
@@ -89,9 +103,11 @@ class Gloss(db.Model):
 
     # каждая глосса это либо STEM, и тогда у неё есть possible_stem_id и нет possible_gloss_id
     #   либо не STEM, и тогда у неё есть possible_gloss_id и нет possible_stem_id
-    possible_gloss_id = db.Column(db.Integer, ForeignKey('possible_glosses.possible_gloss_id'))
-    possible_stem_id = db.Column(db.Integer, ForeignKey('possible_stems.possible_stem_id'))
+    possible_gloss_id = db.Column(db.Integer, ForeignKey('possible_glosses.possible_gloss_id'), nullable=True)
+    possible_stem_id = db.Column(db.Integer, ForeignKey('possible_stems.possible_stem_id'), nullable=True)
+
+    gloss = relationship("PossibleGloss", back_populates="items")
+    stem = relationship("PossibleStem", back_populates="items")
 
     word_id = db.Column(db.Integer, ForeignKey('words.word_id'))
     word = relationship("Word", back_populates="glosses", uselist=False)
-
