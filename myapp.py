@@ -1,15 +1,17 @@
 import os
-from flask import Flask, send_file, render_template, request, make_response
-from sqlalchemy import text, and_, or_
-from sqlalchemy.orm import joinedload
-from flask_db import db, Text, Sentence, Word, Gloss, PossibleGloss, PossibleStem
-
-from bd_requests import top_glosses, count_stems, count_words, count_texts, top_word_by_pos
-from final_converter import SaamiTransliterator
-from parse_saami_dict import get_lemma_forms
 import csv
 import io
 import math
+
+from flask import Flask, send_file, render_template, request, make_response
+from sqlalchemy import text, and_, or_
+from sqlalchemy.orm import joinedload
+import sqlalchemy.orm.query
+
+from flask_db import db, Text, Sentence, Word, Gloss, PossibleGloss, PossibleStem
+from bd_requests import top_glosses, count_stems, count_words, count_texts, top_word_by_pos
+from final_converter import SaamiTransliterator
+from parse_saami_dict import get_lemma_forms
 
 
 st = SaamiTransliterator()
@@ -409,4 +411,4 @@ def download_results():
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True, host="0.0.0.0", port=5000)
